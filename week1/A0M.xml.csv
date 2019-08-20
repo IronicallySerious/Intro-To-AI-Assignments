@@ -1,11 +1,11 @@
-USING,VVG
-THE,AT0
-RULES,NN2
-TO,TO0
-HELP,VVI
-YOU,PNP
-WIN,VVI
-It,PNP
+using,VVG
+the,AT0
+rules,NN2
+to,TO0
+help,VVI
+you,PNP
+win,VVI
+it,PNP
 is,VBZ
 surprising,AJ0-VVG
 how,AVQ
@@ -23,7 +23,7 @@ even,AV0
 at,PRP
 élite,NN1-AJ0
 level,NN1
-This,DT0
+this,DT0
 chapter,NN1
 will,VM0
 examine,VVI
@@ -42,7 +42,7 @@ than,CJS
 from,PRP
 the,AT0
 referees,NN2
-It,PNP
+it,PNP
 will,VM0
 show,VVI
 how,AVQ
@@ -107,10 +107,10 @@ is,VBZ
 correctly,AV0
 dealt,VVN
 with,PRP
-The,AT0
+the,AT0
 competition,NN1
 area,NN1
-In,PRP
+in,PRP
 principle,NN1
 this,DT0
 is,VBZ
@@ -140,7 +140,7 @@ in,PRP
 the,AT0
 available,AJ0
 space,NN1
-Many,DT0
+many,DT0
 tournament,NN1
 organisers,NN2
 miscalculate,VVB-NN1
@@ -161,12 +161,12 @@ competitors,NN2
 safety,NN1
 is,VBZ
 imperilled,VVN
-Often,AV0
+often,AV0
 the,AT0
 zone,NN1
 is,VBZ
 missing,VVG-AJ0
-This,DT0
+this,DT0
 is,VBZ
 a,AT0
 metre,NN1
@@ -176,7 +176,7 @@ inside,PRP
 the,AT0
 outer,AJ0
 perimeter,NN1
-It,PNP
+it,PNP
 is,VBZ
 sometimes,AV0
 highlighted,VVN
@@ -198,7 +198,7 @@ approach,VVB
 the,AT0
 mat,NN1-AJ0
 boundary,NN1
-Since,CJS
+since,CJS
 you,PNP
 can,VM0
 pick,VVI
@@ -220,7 +220,7 @@ sparring,VVG
 in,PRP-AVP
 a,AT0
 square,NN1
-This,DT0
+this,DT0
 is,VBZ
 very,AV0
 important,AJ0
@@ -244,7 +244,7 @@ even,AV0
 exchanging,VVG
 a,AT0
 technique,NN1
-You,PNP
+you,PNP
 must,VM0
 always,AV0
 be,VBI
@@ -256,7 +256,7 @@ position,NN1
 within,PRP
 an,AT0
 square,NN1
-Normal,AJ0
+normal,AJ0
 in,PRP
 the,AT0
 training,NN1
@@ -282,7 +282,7 @@ through,PRP
 using,VVG
 space,NN1
 uneconomically,AV0
-Therefore,AV0
+therefore,AV0
 do,VDB
 all,AV0
 your,DPS
@@ -308,8 +308,8 @@ you,PNP
 are,VBB
 in,PRP
 it,PNP
-Safety,NN1
-Virtually,AV0
+safety,NN1
+virtually,AV0
 all,DT0
 competition,NN1
 now,AV0
@@ -330,7 +330,7 @@ to,PRP
 the,AT0
 falling,AJ0
 competitor,NN1
-However,AV0
+however,AV0
 mats,NN2
 can,VM0
 themselves,PNX
@@ -347,7 +347,7 @@ are,VBB
 aware,AJ0
 of,PRF
 these,DT0
-Firstly,AV0
+firstly,AV0
 mat,NN1-AJ0
 modules,NN2
 can,VM0
@@ -373,7 +373,7 @@ slips,VVZ-NN2
 into,PRP
 the,AT0
 gap,NN1
-Broken,AJ0
+broken,AJ0
 ankles,NN2
 are,VBB
 not,XX0
@@ -381,7 +381,7 @@ uncommon,AJ0
 in,PRP
 competition,NN1
 karate,NN1
-Secondly,AV0
+secondly,AV0
 some,DT0
 mats,NN2
 are,VBB
@@ -395,7 +395,7 @@ sliding,VVG
 easily,AV0
 over,PRP
 them,PNP
-This,DT0
+this,DT0
 is,VBZ
 important,AJ0
 when,CJS
@@ -412,7 +412,7 @@ is,VBZ
 prevented,VVN
 from,PRP
 swivelling,VVG
-Finally,AV0
+finally,AV0
 mats,NN2
 are,VBB
 very,AV0
@@ -428,7 +428,7 @@ well,AV0
 clear,AJ0
 before,PRP
 stepping,VVG
-Obviously,AV0
+obviously,AV0
 you,PNP
 can,VM0
 not,XX0
@@ -488,7 +488,7 @@ little,DT0
 practice,NN1
 in,PRP-AVP
 beforehand,AV0
-Some,DT0
+some,DT0
 competitions,NN2
 provide,VVB
 a,AT0
@@ -503,7 +503,7 @@ the,AT0
 actual,AJ0
 competition,NN1
 area,NN1
-Check,VVB
+check,VVB
 this,DT0
 out,AVP
 and,CJC
@@ -513,7 +513,7 @@ if,CJS
 it,PNP
 is,VBZ
 available,AJ0
-Get,VVB
+get,VVB
 those,DT0
 who,PNQ
 are,VBB
@@ -546,7 +546,7 @@ the,AT0
 event,NN1
 of,PRF
 accident,NN1
-Check,VVB-NN1
+check,VVB-NN1
 for,PRP
 any,DT0
 areas,NN2
@@ -578,8 +578,8 @@ into,PRP
 it,PNP
 at,PRP
 speed,NN1
-Clothing,NN1
-Ensure,VVB
+clothing,NN1
+ensure,VVB
 that,CJT
 you,PNP
 are,VBB
@@ -599,7 +599,7 @@ open,AJ0
 tears,NN2
 and,CJC
 rips,NN2-VVZ
-Coloured,AJ0
+coloured,AJ0
 gis,NN1
 black,AJ0
 edging,NN1
@@ -609,7 +609,7 @@ are,VBB
 not,XX0
 normally,AV0
 permitted,VVN
-The,AT0
+the,AT0
 sleeves,NN2
 must,VM0
 come,VVI
@@ -630,7 +630,7 @@ can,VM0
 lead,VVI
 to,PRP
 injury,NN1
-Similarly,AV0
+similarly,AV0
 the,AT0
 trousers,NN2
 must,VM0
@@ -653,7 +653,7 @@ across,PRP
 the,AT0
 opponent,NN1
 eyes,NN2
-Check,VVB-NN1
+check,VVB-NN1
 beforehand,AV0
 if,CJS
 you,PNP
@@ -680,7 +680,7 @@ badge,NN1
 will,VM0
 be,VBI
 permitted,VVN
-You,PNP
+you,PNP
 will,VM0
 have,VHI
 to,TO0
@@ -704,8 +704,8 @@ in,PRP
 addition,NN1
 to,PRP
 it,PNP
-The,AT0
-Japanese,AJ0-NN1
+the,AT0
+japanese,AJ0-NN1
 word,NN1
 for,PRP
 red,NN1
@@ -715,7 +715,7 @@ and,CJC
 for,PRP
 white,AJ0
 shiro,VVB-NN1
-Remember,VVB
+remember,VVB
 which,DTQ
 is,VBZ
 which,DTQ
@@ -734,7 +734,7 @@ shiro,AJ0-NN1
 like,PRP
 white,AJ0-NN1
 has,VHZ
-The,AT0
+the,AT0
 colour,NN1
 you,PNP
 are,VBB
@@ -766,7 +766,7 @@ you,PNP
 went,VVD
 to,PRP
 previously,AV0
-Make,VVB
+make,VVB
 it,PNP
 a,AT0
 rule,NN1
@@ -782,7 +782,7 @@ on,AVP
 to,PRP
 the,AT0
 area,NN1
-Many,DT0
+many,DT0
 times,NN2
 the,AT0
 wrong,AJ0
@@ -804,7 +804,7 @@ and,CJC
 who,PNQ
 was,VBD
 red,AJ0
-Take,VVB
+take,VVB
 off,AVP-PRP
 the,AT0
 coloured,AJ0
@@ -825,9 +825,9 @@ after,PRP
 you,PNP
 for,PRP
 it,PNP
-Protective,AJ0
+protective,AJ0
 equipment,NN1
-You,PNP
+you,PNP
 must,VM0
 wear,VVI
 white,AJ0
@@ -837,7 +837,7 @@ of,PRF
 an,AT0
 approved,AJ0
 type,NN1
-These,DT0
+these,DT0
 have,VHB
 only,AV0
 centimetre,NN1
@@ -852,7 +852,7 @@ to,TO0
 fold,VVI
 in,AVP-PRP
 safely,AV0
-Always,AV0
+always,AV0
 train,VVB
 with,PRP
 these,DT0
@@ -875,7 +875,7 @@ acceptable,AJ0
 impact,NN1
 feels,VVZ
 like,PRP
-Never,AV0
+never,AV0
 train,VVB
 with,PRP
 heavily,AV0
@@ -900,12 +900,12 @@ with,PRP
 the,AT0
 competition,NN1
 version,NN1
-Some,DT0
+some,DT0
 competition,NN1
 organisers,NN2
 allow,VVB
 protectors,NN2
-Check,VVB
+check,VVB
 early,AV0-AJ0
 on,AVP
 whether,CJS
@@ -926,7 +926,7 @@ accompany,VVB
 the,AT0
 application,NN1
 form,NN1-VVB
-If,CJS
+if,CJS
 the,AT0
 information,NN1
 is,VBZ
@@ -938,7 +938,7 @@ organiser,NN1
 to,TO0
 find,VVI
 out,AVP
-Then,AV0
+then,AV0
 you,PNP
 can,VM0
 tailor,VVI
@@ -966,7 +966,7 @@ greater,AJC
 leeway,NN1
 in,PRP
 impact,NN1
-You,PNP
+you,PNP
 will,VM0
 soon,AV0
 notice,VVI
@@ -980,7 +980,7 @@ sudden,AJ0
 switch,NN1
 between,PRP
 the,AT0
-Although,CJS
+although,CJS
 groin,NN1
 guards,NN2
 are,VBB
@@ -1000,7 +1000,7 @@ they,PNP
 are,VBB
 being,VBG
 worn,VVN
-However,AV0
+however,AV0
 if,CJS
 you,PNP
 receive,VVB
@@ -1032,7 +1032,7 @@ the,AT0
 low,AJ0
 kick,NN1
 was,VBD
-Do,VDB
+do,VDB
 not,XX0
 use,VVI
 the,AT0
@@ -1043,7 +1043,7 @@ slip,VVB-NN1
 inside,AV0
 jock,VVB-NN1
 straps,NN2
-Not,XX0
+not,XX0
 only,AV0
 do,VDB
 these,DT0
@@ -1071,12 +1071,12 @@ kick,NN1
 is,VBZ
 struck,VVN
 home,AV0
-Buy,VVB
+buy,VVB
 a,AT0
 groin,NN1
 guard,NN1-VVB
 instead,AV0
-Female,AJ0
+female,AJ0
 contestants,NN2
 are,VBB
 sometimes,AV0
@@ -1093,7 +1093,7 @@ perineum,NN1
 from,PRP
 injury,NN1
 but,CJC
-I,PNP
+i,PNP
 have,VHB
 never,AV0
 known,VVN
@@ -1102,7 +1102,7 @@ an,AT0
 injury,NN1
 to,TO0
 arise,VVI
-The,AT0
+the,AT0
 breasts,NN2
 take,VVB
 more,DT0
@@ -1118,7 +1118,7 @@ competition,NN1
 and,CJC
 during,PRP
 training,NN1
-This,DT0
+this,DT0
 is,VBZ
 because,CJS
 they,PNP
@@ -1131,7 +1131,7 @@ frequently,AV0
 attacked,VVN-VVD
 scoring,VVG-NN1
 area,NN1
-If,CJS
+if,CJS
 the,AT0
 less,AV0
 frequently,AV0
@@ -1157,7 +1157,7 @@ compulsory,AJ0
 for,PRP
 female,AJ0
 contestants,NN2
-These,DT0
+these,DT0
 are,VBB
 plastic,NN1
 shields,NN2-VVZ
@@ -1165,15 +1165,15 @@ which,DTQ
 cover,VVB
 the,AT0
 breasts,NN2
-However,AV0
-I,PNP
+however,AV0
+i,PNP
 am,VBB
 not,XX0
 happy,AJ0
 with,PRP
 the,AT0
 protectors,NN2
-I,PNP
+i,PNP
 have,VHB
 seen,VVN
 and,CJC
@@ -1185,17 +1185,17 @@ contestants,NN2
 to,TO0
 buy,VVI
 a,AT0
-World,NN1
-Taekwondo,NN1-NP0
-Federation,NN1
-WTF,NP0
+world,NN1
+taekwondo,NN1-NP0
+federation,NN1
+wtf,NP0
 padded,AJ0
 jacket,NN1
 for,PRP
 their,DPS
 sparring,NN1
 practice,NN1
-This,DT0
+this,DT0
 is,VBZ
 much,AV0
 more,AV0
@@ -1224,7 +1224,7 @@ the,AT0
 risk,NN1
 from,PRP
 training,NN1
-I,PNP
+i,PNP
 would,VM0
 not,XX0
 advise,VVI
@@ -1258,7 +1258,7 @@ move,VVI
 freely,AV0
 under,PRP
 impact,NN1
-In,PRP
+in,PRP
 my,DPS
 view,NN1
 such,DT0
@@ -1281,7 +1281,7 @@ and,CJC
 the,AT0
 incoming,AJ0
 blow,NN1
-Choose,VVB
+choose,VVB
 the,AT0
 protection,NN1
 which,DTQ
@@ -1304,7 +1304,7 @@ any,DT0
 constrictions,NN2
 it,PNP
 causes,VVZ
-Female,AJ0
+female,AJ0
 competitors,NN2
 may,VM0
 also,AV0
@@ -1315,7 +1315,7 @@ white,AJ0
 beneath,PRP
 their,DPS
 jackets,NN2
-Spectacles,NN2
+spectacles,NN2
 are,VBB
 not,XX0
 allowed,VVN
@@ -1350,7 +1350,7 @@ you,PNP
 manage,VVB
 without,PRP
 glasses,NN2
-Contact,VVB-NN1
+contact,VVB-NN1
 lenses,NN2
 often,AV0
 get,VVB
@@ -1370,7 +1370,7 @@ hefty,AJ0
 sum,NN1
 on,PRP
 them,PNP
-Since,CJS
+since,CJS
 karate,NN1
 competition,NN1
 is,VBZ
@@ -1396,7 +1396,7 @@ and,CJC
 to,PRP
 their,DPS
 opponents,NN2
-You,PNP
+you,PNP
 will,VM0
 not,XX0
 be,VBI
@@ -1414,7 +1414,7 @@ necklaces,NN2
 bracelets,NN2
 or,CJC
 rings,NN2-VVZ
-Smooth,AJ0
+smooth,AJ0
 rings,NN2
 which,DTQ
 can,VM0
@@ -1425,7 +1425,7 @@ may,VM0
 be,VBI
 taped,VVN
 over,AVP
-If,CJS
+if,CJS
 you,PNP
 ca,VM0
 remove,VVI
@@ -1448,7 +1448,7 @@ be,VBI
 disbarred,VVN
 from,PRP
 competition,NN1
-Sikh,AJ0
+sikh,AJ0
 competitors,NN2
 will,VM0
 on,PRP
@@ -1456,8 +1456,8 @@ prior,AJ0
 application,NN1
 to,PRP
 the,AT0
-Chief,AJ0-NN1
-Referee,NN1
+chief,AJ0-NN1
+referee,NN1
 be,VBI
 allowed,VVN
 to,TO0
@@ -1465,7 +1465,7 @@ wear,VVI
 modified,AJ0
 ritual,AJ0-NN1
 headgear,NN1
-Long,AJ0
+long,AJ0
 hair,NN1
 must,VM0
 be,VBI
@@ -1482,7 +1482,7 @@ grips,NN2
 are,VBB
 not,XX0
 allowed,VVN
-Ensure,VVB
+ensure,VVB
 that,CJT
 your,DPS
 fingernails,NN2
@@ -1504,10 +1504,10 @@ danger,NN1
 to,PRP
 the,AT0
 opponent,NN1
-Organization,NN1
+organization,NN1
 of,PRF
 competitions,NN2
-Sparring,VVG-NN1
+sparring,VVG-NN1
 competition,NN1
 is,VBZ
 divided,VVN
@@ -1515,8 +1515,8 @@ into,PRP
 the,AT0
 following,AJ0
 categories,NN2
-Men,NN2
-Senior,AJ0-NN1
+men,NN2
+senior,AJ0-NN1
 over,AV0
 years,NN2
 of,PRF
@@ -1526,7 +1526,7 @@ the,AT0
 day,NN1
 of,PRF
 competition,NN1
-Women,NN2
+women,NN2
 over,AV0
 years,NN2
 on,PRP
@@ -1534,7 +1534,7 @@ the,AT0
 day,NN1
 of,PRF
 competition,NN1
-Men,NN2
+men,NN2
 junior,AJ0-NN1
 over,AV0
 but,CJC
@@ -1546,8 +1546,8 @@ day,NN1
 of,PRF
 competition,NN1
 and,CJC
-Male,AJ0
-Cadets,NN2
+male,AJ0
+cadets,NN2
 over,AV0
 but,CJC
 below,AV0
@@ -1557,7 +1557,7 @@ the,AT0
 day,NN1
 of,PRF
 competition,NN1
-Juniors,NN2
+juniors,NN2
 are,VBB
 also,AV0
 allowed,VVN
@@ -1565,9 +1565,9 @@ to,TO0
 fight,VVI
 in,PRP
 the,AT0
-Senior,AJ0
+senior,AJ0
 event,NN1
-Some,DT0
+some,DT0
 karate,NN1
 associations,NN2
 hold,VVB
@@ -1575,7 +1575,7 @@ competitions,NN2
 for,PRP
 year,NN1
 olds,NN2
-Coaches,NN2
+coaches,NN2
 are,VBB
 generally,AV0
 asked,VVN
@@ -1591,7 +1591,7 @@ comply,VVB
 with,PRP
 age,NN1
 ceilings,NN2
-If,CJS
+if,CJS
 this,DT0
 undertaking,NN1
 is,VBZ
@@ -1612,7 +1612,7 @@ any,DT0
 titles,NN2
 won,VVD-VVN
 forfeited,VVD
-International,AJ0
+international,AJ0
 competition,NN1
 requires,VVZ
 that,CJT
@@ -1626,7 +1626,7 @@ your,DPS
 date,NN1
 of,PRF
 birth,NN1
-This,DT0
+this,DT0
 eliminates,VVZ
 ineligible,AJ0
 competitors,NN2
@@ -1649,7 +1649,7 @@ the,AT0
 country,NN1
 he,PNP
 represents,VVZ
-Some,DT0
+some,DT0
 élite,NN1-AJ0
 karateka,NN1
 have,VHB
@@ -1672,29 +1672,29 @@ took,VVD
 out,AVP
 their,DPS
 passports,NN2
-Team,NN1-VVB
+team,NN1-VVB
 events,NN2
-There,EX0
+there,EX0
 are,VBB
 both,AV0
 team,NN1-VVB
 and,CJC
 individual,AJ0
 events,NN2
-Women,NN2
+women,NN2
 teams,NN2
 consist,VVB
 of,PRF
 competitors,NN2
 plus,PRP
 reserve,NN1
-Men,NN2
+men,NN2
 teams,NN2
 comprise,VVB
 competitors,NN2
 plus,PRP
 reserves,NN2
-Team,NN1-VVB
+team,NN1-VVB
 sizes,NN2
 can,VM0
 be,VBI
@@ -1711,9 +1711,9 @@ odd,AJ0
 number,NN1
 of,PRF
 competitors,NN2
-Fighting,VVG-NN1
+fighting,VVG-NN1
 order,NN1
-Before,CJS
+before,CJS
 each,DT0
 round,NN1
 of,PRF
@@ -1742,7 +1742,7 @@ which,DTQ
 they,PNP
 will,VM0
 compete,VVI
-If,CJS
+if,CJS
 no,AT0
 list,NN1
 is,VBZ
@@ -1760,7 +1760,7 @@ deemed,VVN
 still,AV0
 to,TO0
 apply,VVI
-This,DT0
+this,DT0
 is,VBZ
 not,XX0
 something,PNI
@@ -1788,7 +1788,7 @@ team,NN1
 can,VM0
 be,VBI
 disqualified,VVN
-Remember,VVB
+remember,VVB
 use,NN1-VVB
 of,PRF
 a,AT0
@@ -1801,7 +1801,7 @@ of,PRF
 the,AT0
 fighting,NN1
 order,NN1
-Reserves,NN2
+reserves,NN2
 can,VM0
 be,VBI
 substituted,VVN
@@ -1814,7 +1814,7 @@ of,PRF
 the,AT0
 team,NN1
 coach,NN1-VVB
-Generally,AV0
+generally,AV0
 it,PNP
 is,VBZ
 best,AJS
@@ -1839,7 +1839,7 @@ out,AVP
 for,PRP
 a,AT0
 victory,NN1
-This,DT0
+this,DT0
 lifts,VVZ
 the,AT0
 team,NN1
@@ -1850,7 +1850,7 @@ the,AT0
 next,ORD
 in,PRP
 line,NN1
-If,CJS
+if,CJS
 any,DT0
 team,NN1
 member,NN1
@@ -1866,7 +1866,7 @@ them,PNP
 into,PRP
 third,ORD
 position,NN1
-With,PRP
+with,PRP
 wins,VVZ-NN2
 already,AV0
 gained,VVN
@@ -1886,7 +1886,7 @@ for,PRP
 the,AT0
 weakest,AJS
 member,NN1
-The,AT0
+the,AT0
 last,ORD
 competitors,NN2
 may,VM0
@@ -1909,7 +1909,7 @@ good,AJ0
 finisher,NN1
 in,PRP
 hand,NN1
-Such,DT0
+such,DT0
 people,NN0
 should,VM0
 be,VBI
@@ -1921,7 +1921,7 @@ from,PRP
 a,AT0
 lagging,NN1-AJ0
 position,NN1
-Each,DT0
+each,DT0
 male,AJ0-NN1
 team,NN1
 must,VM0
@@ -1933,7 +1933,7 @@ and,CJC
 each,DT0
 female,AJ0-NN1
 team,NN1
-In,PRP
+in,PRP
 this,DT0
 way,NN1
 teams,NN2
@@ -1949,7 +1949,7 @@ match,NN1
 is,VBZ
 therefore,AV0
 meaningful,AJ0
-A,AT0
+a,AT0
 successful,AJ0
 team,NN1
 may,VM0
@@ -1984,7 +1984,7 @@ in,PRP
 the,AT0
 final,AJ0
 stages,NN2
-Never,AV0
+never,AV0
 be,VBB
 tempted,VVN
 to,TO0
@@ -2018,7 +2018,7 @@ the,AT0
 deciding,AJ0
 first,ORD
 victories,NN2
-Although,CJS
+although,CJS
 the,AT0
 opposing,AJ0
 team,NN1
@@ -2046,7 +2046,7 @@ team,NN1
 for,PRP
 bad,AJ0
 sportsmanship,NN1
-Sometimes,AV0
+sometimes,AV0
 an,AT0
 event,NN1
 is,VBZ
@@ -2058,7 +2058,7 @@ then,AV0
 things,NN2
 happen,VVB
 fast,AV0-AJ0
-Should,VM0
+should,VM0
 this,DT0
 occur,VVI
 a,AT0
@@ -2077,7 +2077,7 @@ their,DPS
 name,NN1
 is,VBZ
 called,VVN
-It,PNP
+it,PNP
 is,VBZ
 therefore,AV0
 vital,AJ0
@@ -2095,7 +2095,7 @@ happening,VVG
 in,PRP
 the,AT0
 arena,NN1
-Otherwise,AV0
+otherwise,AV0
 if,CJS
 the,AT0
 team,NN1
@@ -2111,7 +2111,7 @@ may,VM0
 well,AV0
 be,VBI
 disbarred,VVN
-Any,DT0
+any,DT0
 team,NN1
 or,CJC
 part,NN1
@@ -2138,12 +2138,12 @@ by,PRP
 the,AT0
 tournament,NN1
 organisers,NN2
-The,AT0
+the,AT0
 day,NN1
 of,PRF
 the,AT0
 competition,NN1
-Ensure,VVB
+ensure,VVB
 your,DPS
 entry,NN1
 arrives,VVZ
@@ -2157,7 +2157,7 @@ time,NN1
 to,TO0
 register,VVI
 and,CJC
-Many,DT0
+many,DT0
 entries,NN2
 face,VVB
 unexpected,AJ0
@@ -2176,7 +2176,7 @@ their,DPS
 level,NN1
 of,PRF
 entry,NN1
-Important,AJ0
+important,AJ0
 competitions,NN2
 need,VVB
 proper,AJ0
@@ -2187,7 +2187,7 @@ rest,NN1-VVB
 the,AT0
 night,NN1
 before,AV0
-Therefore,AV0
+therefore,AV0
 try,VVB
 to,TO0
 arrive,VVI
@@ -2197,7 +2197,7 @@ venue,NN1
 a,AT0
 day,NN1
 early,AV0-AJ0
-It,PNP
+it,PNP
 is,VBZ
 the,AT0
 first,ORD
@@ -2231,9 +2231,9 @@ and,CJC
 confirm,VVB
 the,AT0
 timetable,NN1
-Weight,NN1
+weight,NN1
 categories,NN2
-Individual,AJ0
+individual,AJ0
 competition,NN1
 is,VBZ
 fought,VVN
@@ -2242,8 +2242,8 @@ the,AT0
 following,AJ0
 weight,NN1
 categories,NN2
-Men,NN2
-Women,NN2
+men,NN2
+women,NN2
 kilos,NN2
 kilos,NN2
 kilos,NN2
@@ -2253,15 +2253,15 @@ kilos,NN2
 kilos,NN2
 kilos,NN2
 kilos,NN2
-Open,AJ0
+open,AJ0
 weight,NN1
-Male,AJ0
-Senior,AJ0-NN1
+male,AJ0
+senior,AJ0-NN1
 only,AV0
 weight,NN1
 is,VBZ
 kilos,NN2
-Weight,NN1
+weight,NN1
 categories,NN2
 ensure,VVB
 that,CJT
@@ -2276,7 +2276,7 @@ are,VBB
 in,PRP
 team,NN1
 events,NN2
-I,PNP
+i,PNP
 have,VHB
 seen,VVN
 a,AT0
@@ -2295,7 +2295,7 @@ outcome,NN1
 was,VBD
 not,XX0
 pretty,AJ0
-My,DPS
+my,DPS
 advice,NN1
 to,PRP
 all,DT0
@@ -2314,7 +2314,7 @@ competition,NN1
 to,PRP
 the,AT0
 heavyweights,NN2
-Although,CJS
+although,CJS
 it,PNP
 is,VBZ
 a,AT0
@@ -2340,7 +2340,7 @@ can,VM0
 tip,VVI
 them,PNP
 over,AVP
-At,PRP
+at,PRP
 every,AT0
 competition,NN1
 you,PNP
@@ -2359,7 +2359,7 @@ in,PRP
 time,NN1
 for,PRP
 a,AT0
-Usually,AV0
+usually,AV0
 by,PRP
 the,AT0
 time,NN1
@@ -2372,7 +2372,7 @@ they,PNP
 are,VBB
 totally,AV0
 fatigued,VVN
-An,AT0
+an,AT0
 even,AV0
 more,AV0
 dangerous,AJ0
@@ -2382,7 +2382,7 @@ to,TO0
 take,VVI
 a,AT0
 diuretic,NN1
-This,DT0
+this,DT0
 can,VM0
 reduce,VVI
 weight,NN1
@@ -2398,7 +2398,7 @@ face,VVI
 a,AT0
 lifetime,NN1
 ban,NN1-VVB
-A,AT0
+a,AT0
 few,DT0
 grams,NN2
 can,VM0
@@ -2410,9 +2410,9 @@ stripping,VVG
 to,PRP
 undershorts,NN2
 and,CJC
-T,ZZ0
+t,ZZ0
 shirts,NN2
-The,AT0
+the,AT0
 good,AJ0
 coach,NN1
 weighs,VVZ
@@ -2428,7 +2428,7 @@ marginals,NN2
 to,TO0
 take,VVI
 care,NN1
-Normally,AV0
+normally,AV0
 organisers,NN2
 will,VM0
 allow,VVI
@@ -2449,8 +2449,8 @@ set,NN1
 is,VBZ
 reading,VVG
 heavy,AJ0
-Documentation,NN1
-Finally,AV0
+documentation,NN1
+finally,AV0
 ensure,VVB
 that,CJT
 you,PNP
@@ -2460,10 +2460,10 @@ required,AJ0
 documentation,NN1
 with,PRP
 you,PNP
-For,PRP
+for,PRP
 example,NN1
 many,DT0
-British,AJ0
+british,AJ0
 competitions,NN2
 require,VVB
 you,PNP
@@ -2471,14 +2471,14 @@ to,TO0
 produce,VVI
 a,AT0
 current,AJ0
-Martial,AJ0
-Arts,NN2
-Commission,NN1-VVB
+martial,AJ0
+arts,NN2
+commission,NN1-VVB
 licence,NN1
 on,PRP
 the,AT0
 day,NN1
-I,PNP
+i,PNP
 have,VHB
 seen,VVN
 many,DT0
@@ -2496,7 +2496,7 @@ you,PNP
 are,VBB
 properly,AV0
 prepared,VVN-AJ0
-The,AT0
+the,AT0
 good,AJ0
 coach,NN1
 always,AV0
@@ -2515,10 +2515,10 @@ who,PNQ
 have,VHB
 forgotten,VVN
 theirs,PNP
-The,AT0
+the,AT0
 contest,NN1
 itself,PNX
-Karate,NN1
+karate,NN1
 competition,NN1
 is,VBZ
 held,VVN
@@ -2532,10 +2532,10 @@ extended,VVN
 to,PRP
 minutes,NN2
 in,PRP
-Senior,AJ0
-Male,AJ0-NN1
+senior,AJ0
+male,AJ0-NN1
 competition,NN1
-The,AT0
+the,AT0
 time,NN1
 taken,VVN
 up,AVP
@@ -2547,7 +2547,7 @@ counted,VVN
 in,PRP
 bout,NN1
 time,NN1
-This,DT0
+this,DT0
 then,AV0
 defines,VVZ
 the,AT0
@@ -2577,7 +2577,7 @@ for,PRP
 the,AT0
 whole,AJ0
 bout,NN1
-Aim,VVB-NN1
+aim,VVB-NN1
 for,PRP
 a,AT0
 margin,NN1
@@ -2595,7 +2595,7 @@ death,NN1
 extension,NN1
 after,PRP
 that,DT0
-However,AV0
+however,AV0
 there,EX0
 will,VM0
 always,AV0
@@ -2609,9 +2609,9 @@ minute,NN1
 between,PRP
 successive,AJ0
 stages,NN2
-Bout,NN1
+bout,NN1
 time,NN1
-The,AT0
+the,AT0
 first,ORD
 bell,NN1
 you,PNP
@@ -2620,7 +2620,7 @@ is,VBZ
 the,AT0
 seconds,NN2
 warning,NN1
-Do,VDB
+do,VDB
 confuse,VVI
 this,DT0
 with,PRP
@@ -2643,7 +2643,7 @@ same,DT0
 type,NN1
 of,PRF
 bell,NN1
-Always,AV0
+always,AV0
 wait,VVB
 for,PRP
 the,AT0
@@ -2660,7 +2660,7 @@ guard,NN1
 on,PRP
 the,AT0
 bell,NN1
-Also,AV0
+also,AV0
 step,VVB
 back,AVP
 from,PRP
@@ -2689,7 +2689,7 @@ to,TO0
 stop,VVI
 the,AT0
 bout,NN1
-I,PNP
+i,PNP
 have,VHB
 seen,VVN
 a,AT0
@@ -2705,8 +2705,8 @@ of,PRF
 an,AT0
 incoming,AJ0
 technique,NN1
-Scoring,NN1-VVG
-There,EX0
+scoring,NN1-VVG
+there,EX0
 is,VBZ
 a,AT0
 scoring,NN1-AJ0
@@ -2717,7 +2717,7 @@ points,NN2
 in,PRP
 each,DT0
 bout,NN1
-These,DT0
+these,DT0
 can,VM0
 be,VBI
 scored,VVN
@@ -2736,7 +2736,7 @@ together,AV0
 make,VVB
 up,AVP
 points,NN2
-The,AT0
+the,AT0
 bout,NN1
 is,VBZ
 over,AVP
@@ -2748,7 +2748,7 @@ contestant,NN1
 achieves,VVZ
 that,CJT
 score,VVB-NN1
-A,AT0
+a,AT0
 full,AJ0
 point,NN1
 score,NN1
@@ -2773,7 +2773,7 @@ opponent,NN1
 head,NN1
 or,CJC
 body,NN1
-Elements,NN2
+elements,NN2
 such,DT0
 as,PRP
 correct,AJ0
@@ -2797,7 +2797,7 @@ a,AT0
 full,AJ0
 point,NN1
 score,NN1-VVB
-Theoretically,AV0
+theoretically,AV0
 most,DT0
 referees,NN2
 are,VBB
@@ -2813,7 +2813,7 @@ first,ORD
 instance,NN1
 and,CJC
 afterwards,AV0
-But,CJC
+but,CJC
 in,PRP
 practice,NN1
 they,PNP
@@ -2824,7 +2824,7 @@ than,CJS
 full,AJ0
 points,NN2
 because,CJS
-I,PNP
+i,PNP
 suspect,VVB
 they,PNP
 want,VVB
@@ -2836,7 +2836,7 @@ have,VHI
 a,AT0
 high,AJ0
 standard,NN1
-The,AT0
+the,AT0
 is,VBZ
 awarded,VVN
 for,PRP
@@ -2854,7 +2854,7 @@ a,AT0
 full,AJ0
 point,NN1
 score,NN1-VVB
-A,AT0
+a,AT0
 technique,NN1
 which,DTQ
 is,VBZ
@@ -2882,7 +2882,7 @@ kick,NN1
 to,PRP
 the,AT0
 head,NN1
-High,AJ0
+high,AJ0
 kicks,NN2
 are,VBB
 inherently,AV0
@@ -2904,7 +2904,7 @@ relaxes,VVZ
 the,AT0
 standards,NN2
 somewhat,AV0
-This,DT0
+this,DT0
 is,VBZ
 not,XX0
 to,TO0
@@ -2968,10 +2968,10 @@ in,PRP-AVP
 its,DPS
 own,DT0
 right,NN1
-The,AT0
+the,AT0
 scoring,NN1-AJ0
 areas,NN2
-The,AT0
+the,AT0
 scoring,NN1-AJ0
 areas,NN2
 of,PRF
@@ -2987,7 +2987,7 @@ chest,NN1
 abdomen,NN1
 and,CJC
 back,NN1
-Attacks,NN2
+attacks,NN2
 to,PRP
 the,AT0
 abdomen,NN1
@@ -3002,7 +3002,7 @@ edge,NN1
 of,PRF
 the,AT0
 belt,NN1
-If,CJS
+if,CJS
 you,PNP
 deliver,VVB
 an,AT0
@@ -3022,7 +3022,7 @@ score,NN1
 will,VM0
 be,VBI
 accepted,VVN
-Notice,VVB
+notice,VVB
 that,CJT
 the,AT0
 bell,NN1
@@ -3038,7 +3038,7 @@ the,AT0
 deciding,AJ0
 factor,NN1
 here,AV0
-Often,AV0
+often,AV0
 the,AT0
 referee,NN1
 does,VDZ
@@ -3064,7 +3064,7 @@ points,NN2
 can,VM0
 be,VBI
 scored,VVN
-If,CJS
+if,CJS
 your,DPS
 technique,NN1
 is,VBZ
@@ -3089,7 +3089,7 @@ pick,VVI
 up,AVP
 a,AT0
 penalty,NN1
-A,AT0
+a,AT0
 full,AJ0
 point,NN1
 score,NN1
@@ -3107,7 +3107,7 @@ the,AT0
 opponent,NN1
 scoring,NN1-VVG
 areas,NN2
-You,PNP
+you,PNP
 can,VM0
 only,AV0
 score,VVI
@@ -3125,7 +3125,7 @@ your,DPS
 technique,NN1
 makes,VVZ
 contact,NN1
-It,PNP
+it,PNP
 does,VDZ
 not,XX0
 matter,VVI
@@ -3150,7 +3150,7 @@ to,TO0
 stop,VVI
 the,AT0
 bout,NN1
-If,CJS
+if,CJS
 you,PNP
 and,CJC
 the,AT0
@@ -3172,7 +3172,7 @@ score,NN1-VVB
 will,VM0
 be,VBI
 given,VVN
-Actually,AV0
+actually,AV0
 this,DT0
 seldom,AV0
 happens,VVZ
@@ -3183,7 +3183,7 @@ lands,NN2-VVZ
 before,PRP
 the,AT0
 other,NN1
-Nevertheless,AV0
+nevertheless,AV0
 many,DT0
 referees,NN2
 take,VVB
@@ -3196,7 +3196,7 @@ a,AT0
 simultaneous,AJ0
 score,NN1
 decision,NN1
-This,DT0
+this,DT0
 is,VBZ
 all,AV0
 the,AT0
@@ -3218,7 +3218,7 @@ or,CJC
 was,VBD
 otherwise,AV0
 unacceptable,AJ0
-Some,DT0
+some,DT0
 referees,NN2
 appear,VVB
 to,TO0
@@ -3244,7 +3244,7 @@ the,AT0
 face,NN1
 often,AV0
 are,VBB
-In,PRP
+in,PRP
 such,DT0
 cases,NN2
 the,AT0
@@ -3263,7 +3263,7 @@ recognise,VVI
 the,AT0
 snap,AJ0
 punch,NN1
-Another,DT0
+another,DT0
 important,AJ0
 factor,NN1
 is,VBZ
@@ -3272,7 +3272,7 @@ referee,NN1
 line,NN1
 of,PRF
 sight,NN1
-Ordinarily,AV0
+ordinarily,AV0
 the,AT0
 referee,NN1
 and,CJC
@@ -3302,7 +3302,7 @@ on,PRP
 the,AT0
 same,DT0
 side,NN1
-Unfortunately,AV0
+unfortunately,AV0
 this,DT0
 may,VM0
 be,VBI
@@ -3325,7 +3325,7 @@ ca,VM0
 award,VVI
 a,AT0
 point,NN1
-Simultaneous,AJ0
+simultaneous,AJ0
 scores,NN2
 are,VBB
 disallowed,VVN
@@ -3346,7 +3346,7 @@ simultaneous,AJ0
 score,NN1
 at,PRP
 all,DT0
-The,AT0
+the,AT0
 technique,NN1
 impact,NN1
 must,VM0
@@ -3357,7 +3357,7 @@ order,NN1
 to,TO0
 be,VBI
 scored,VVN
-Here,AV0
+here,AV0
 it,PNP
 has,VHZ
 been,VBN
@@ -3367,11 +3367,11 @@ the,AT0
 referee,NN1
 blind,AJ0
 side,NN1
-Decision,NN1
+decision,NN1
 wins,NN2-VVZ
 and,CJC
 ties,NN2-VVZ
-Not,XX0
+not,XX0
 all,DT0
 bouts,NN2
 conclude,VVB
@@ -3396,7 +3396,7 @@ with,PRP
 the,AT0
 most,DT0
 points,NN2
-Where,CJS
+where,CJS
 the,AT0
 points,NN2
 score,VVB-NN1
@@ -3430,7 +3430,7 @@ more,DT0
 of,PRF
 the,AT0
 running,NN1
-Actually,AV0
+actually,AV0
 you,PNP
 need,VVB
 to,TO0
@@ -3453,7 +3453,7 @@ difference,NN1
 will,VM0
 not,XX0
 do,VDI
-When,CJS
+when,CJS
 all,DT0
 else,AV0
 fails,VVZ
@@ -3461,7 +3461,7 @@ a,AT0
 draw,NN1
 is,VBZ
 awarded,VVN
-Team,NN1-VVB
+team,NN1-VVB
 matches,NN2
 are,VBB
 decided,VVN
@@ -3474,7 +3474,7 @@ won,VVN
 by,PRP
 each,DT0
 side,NN1
-Where,CJS
+where,CJS
 these,DT0
 are,VBB
 equal,AJ0
@@ -3490,7 +3490,7 @@ each,DT0
 team,NN1
 is,VBZ
 compared,VVN
-If,CJS
+if,CJS
 this,DT0
 also,AV0
 ties,VVZ
@@ -3506,7 +3506,7 @@ fight,VVI
 a,AT0
 deciding,AJ0
 bout,NN1
-If,CJS
+if,CJS
 this,DT0
 bout,NN1
 also,AV0
@@ -3516,7 +3516,7 @@ a,AT0
 extension,NN1
 is,VBZ
 fought,VVN
-The,AT0
+the,AT0
 first,ORD
 to,TO0
 score,VVI
@@ -3526,7 +3526,7 @@ extension,NN1
 determines,VVZ
 the,AT0
 outcome,NN1
-If,CJS
+if,CJS
 this,DT0
 ties,VVZ
 again,AV0
@@ -3547,14 +3547,14 @@ the,AT0
 tie,NN1
 is,VBZ
 broken,VVN-AJ0
-Individual,AJ0
+individual,AJ0
 bouts,NN2
 are,VBB
 also,AV0
 decided,VVN
 by,PRP
 contests,NN2
-However,AV0
+however,AV0
 in,PRP
 this,DT0
 case,NN1
@@ -3582,7 +3582,7 @@ of,PRF
 the,AT0
 refereeing,NN1
 panel,NN1
-Do,VDB
+do,VDB
 note,VVI
 that,CJT
 the,AT0
@@ -3605,7 +3605,7 @@ carried,VVN
 forwards,AV0
 into,PRP
 it,PNP
-Sometimes,AV0
+sometimes,AV0
 this,DT0
 means,VVZ
 that,CJT
@@ -3630,16 +3630,16 @@ technique,NN1
 has,VHZ
 been,VBN
 made,VVN
-Prohibited,AJ0
+prohibited,AJ0
 techniques,NN2
-Certain,AJ0
+certain,AJ0
 techniques,NN2
 are,VBB
 by,PRP
 their,DPS
 nature,NN1
 prohibited,VVD-VVN
-For,PRP
+for,PRP
 example,NN1
 any,DT0
 technique,NN1
@@ -3659,7 +3659,7 @@ will,VM0
 merit,VVI
 a,AT0
 penalty,NN1
-Note,VVB
+note,VVB
 that,CJT
 while,CJS
 the,AT0
@@ -3672,7 +3672,7 @@ the,AT0
 throat,NN1
 is,VBZ
 not,XX0
-The,AT0
+the,AT0
 throat,NN1
 is,VBZ
 classed,VVN
@@ -3696,7 +3696,7 @@ of,PRF
 the,AT0
 lower,AJC
 jaw,NN1
-Many,DT0
+many,DT0
 contestants,NN2
 apply,VVB
 a,AT0
@@ -3715,7 +3715,7 @@ of,PRF
 the,AT0
 opponent,NN1
 knee,NN1
-Though,CJS
+though,CJS
 a,AT0
 foul,NN1
 is,VBZ
@@ -3742,7 +3742,7 @@ may,VM0
 face,VVI
 a,AT0
 penalty,NN1
-The,AT0
+the,AT0
 throat,NN1
 is,VBZ
 not,XX0
@@ -3753,7 +3753,7 @@ though,CJS
 the,AT0
 neck,NN1
 is,VBZ
-A,AT0
+a,AT0
 high,AJ0
 foot,NN1
 sweep,NN1
@@ -3767,7 +3767,7 @@ it,PNP
 attacks,VVZ
 the,AT0
 joint,AJ0-NN1
-Obvious,AJ0
+obvious,AJ0
 attacks,NN2
 on,PRP
 the,AT0
@@ -3783,7 +3783,7 @@ not,XX0
 interpreted,VVN
 as,PRP
 such,DT0
-Nevertheless,AV0
+nevertheless,AV0
 if,CJS
 it,PNP
 does,VDZ
@@ -3795,7 +3795,7 @@ you,PNP
 will,VM0
 be,VBI
 penalised,VVN
-Compare,VVB
+compare,VVB
 this,DT0
 with,PRP
 the,AT0
@@ -3806,7 +3806,7 @@ attack,NN1
 to,PRP
 the,AT0
 face,NN1
-This,DT0
+this,DT0
 is,VBZ
 clearly,AV0
 capable,AJ0
@@ -3819,7 +3819,7 @@ so,AV0
 is,VBZ
 always,AV0
 penalised,VVN
-The,AT0
+the,AT0
 referee,NN1
 looks,VVZ
 for,PRP
@@ -3841,14 +3841,14 @@ catch,VVB
 the,AT0
 opponent,NN1
 eyes,NN2
-Such,DT0
+such,DT0
 accidents,NN2
 are,VBB
 always,AV0
 severely,AV0
 dealt,VVN
 with,PRP
-Take,VVB
+take,VVB
 care,NN1
 when,CJS
 you,PNP
@@ -3862,7 +3862,7 @@ them,PNP
 to,TO0
 land,VVI
 safely,AV0
-Throws,NN2-VVZ
+throws,NN2-VVZ
 which,DTQ
 drop,VVB
 the,AT0
@@ -3876,13 +3876,13 @@ shoulders,NN2
 will,VM0
 be,VBI
 penalised,VVN
-Any,DT0
+any,DT0
 uncontrolled,AJ0
 technique,NN1
 is,VBZ
 not,XX0
 allowed,VVN
-There,EX0
+there,EX0
 are,VBB
 some,DT0
 people,NN0
@@ -3904,7 +3904,7 @@ the,AT0
 opponent,NN1
 head,NN1
 but,CJC
-I,PNP
+i,PNP
 have,VHB
 never,AV0
 seen,VVN
@@ -3914,7 +3914,7 @@ effectively,AV0
 enough,AV0
 to,TO0
 score,VVI
-There,EX0
+there,EX0
 are,VBB
 also,AV0
 people,NN0
@@ -3931,7 +3931,7 @@ as,CJS
 a,AT0
 front,AJ0
 kick,NN1
-In,PRP
+in,PRP
 both,DT0
 cases,NN2
 it,PNP
@@ -3949,7 +3949,7 @@ itself,PNX
 which,DTQ
 is,VBZ
 dangerous,AJ0
-You,PNP
+you,PNP
 should,VM0
 use,VVI
 only,AV0
@@ -3964,10 +3964,10 @@ being,VBG
 able,AJ0
 to,TO0
 control,VVI
-Level,NN1
+level,NN1
 of,PRF
 contact,NN1
-The,AT0
+the,AT0
 most,AV0
 contentious,AJ0
 area,NN1
@@ -3979,7 +3979,7 @@ the,AT0
 level,NN1
 of,PRF
 contact,NN1
-This,DT0
+this,DT0
 must,VM0
 always,AV0
 be,VBI
@@ -4003,7 +4003,7 @@ a,AT0
 score,NN1
 will,VM0
 result,VVI
-In,PRP
+in,PRP
 general,AJ0
 terms,NN2
 heavier,AJC
@@ -4020,7 +4020,7 @@ the,AT0
 muscular,AJ0
 padding,NN1
 available,AJ0
-Provided,CJS
+provided,CJS
 the,AT0
 blow,NN1
 does,VDZ
@@ -4042,7 +4042,7 @@ is,VBZ
 likely,AJ0
 to,TO0
 score,VVI
-Indeed,AV0
+indeed,AV0
 a,AT0
 full,AJ0
 point,NN1
@@ -4060,9 +4060,9 @@ by,PRP
 a,AT0
 strong,AJ0
 attack,NN1-VVB
-Facial,AJ0
+facial,AJ0
 attacks,NN2
-Face,VVB-NN1
+face,VVB-NN1
 contact,NN1
 should,VM0
 in,PRP
@@ -4075,7 +4075,7 @@ more,DT0
 than,CJS
 glove,NN1
 touch,NN1-VVB
-The,AT0
+the,AT0
 face,NN1
 is,VBZ
 defined,VVN
@@ -4091,7 +4091,7 @@ down,AVP
 to,PRP
 the,AT0
 chin,NN1
-Do,VDB
+do,VDB
 not,XX0
 confuse,VVI
 it,PNP
@@ -4108,7 +4108,7 @@ harder,AV0
 and,CJC
 still,AV0-AJ0
 score,VVB-NN1
-A,AT0
+a,AT0
 face,NN1-VVB
 attack,NN1
 may,VM0
@@ -4120,7 +4120,7 @@ but,CJC
 that,DT0
 is,VBZ
 all,DT0
-It,PNP
+it,PNP
 is,VBZ
 often,AV0
 said,VVN
@@ -4139,7 +4139,7 @@ but,CJC
 this,DT0
 is,VBZ
 an,AT0
-In,PRP
+in,PRP
 most,DT0
 cases,NN2
 the,AT0
@@ -4165,7 +4165,7 @@ makes,VVZ
 its,DPS
 impact,NN1
 worse,AJC
-Here,AV0
+here,AV0
 the,AT0
 referee,NN1
 will,VM0
@@ -4179,7 +4179,7 @@ the,AT0
 rules,NN2
 of,PRF
 contact,NN1
-Similarly,AV0
+similarly,AV0
 roundhouse,NN1
 kicks,VVZ-NN2
 to,PRP
@@ -4206,7 +4206,7 @@ are,VBB
 to,TO0
 be,VBI
 encouraged,VVN
-However,AV0
+however,AV0
 most,DT0
 roundhouse,NN1
 kicks,NN2
@@ -4222,7 +4222,7 @@ and,CJC
 not,XX0
 the,AT0
 face,NN1
-Face,VVB-NN1
+face,VVB-NN1
 contact,NN1
 is,VBZ
 limited,VVN
@@ -4239,7 +4239,7 @@ a,AT0
 little,AV0
 more,DT0
 leeway,NN1
-It,PNP
+it,PNP
 used,VM0
 to,TO0
 be,VBI
@@ -4265,7 +4265,7 @@ the,AT0
 opponent,NN1
 score,NN1
 disallowed,VVD-VVN
-Fortunately,AV0
+fortunately,AV0
 referees,NN2
 are,VBB
 often,AV0
@@ -4291,7 +4291,7 @@ penalty,NN1
 for,PRP
 feigning,VVG
 injury,NN1
-Referees,NN2
+referees,NN2
 seem,VVB
 incapable,AJ0
 of,PRF
@@ -4314,7 +4314,7 @@ they,PNP
 generally,AV0
 disallow,VVB
 them,PNP
-This,DT0
+this,DT0
 causes,VVZ
 the,AT0
 contestant,NN1
@@ -4339,7 +4339,7 @@ up,AVP
 that,DT0
 elusive,AJ0
 score,NN1
-Of,PRF
+of,PRF
 course,NN1
 a,AT0
 punch,NN1
@@ -4356,7 +4356,7 @@ a,AT0
 penalty,NN1
 is,VBZ
 incurred,VVN
-The,AT0
+the,AT0
 moral,NN1-AJ0
 is,VBZ
 restrict,VVB
@@ -4380,13 +4380,13 @@ your,DPS
 chance,NN1
 of,PRF
 scoring,NN1-VVG
-Stepping,VVG
+stepping,VVG
 out,AVP
 of,PRF
 the,AT0
 competition,NN1
 area,NN1
-Always,AV0
+always,AV0
 try,VVB
 to,TO0
 remain,VVI
@@ -4397,7 +4397,7 @@ of,PRF
 the,AT0
 competition,NN1
 area,NN1
-The,AT0
+the,AT0
 first,ORD
 time,NN1
 you,PNP
@@ -4413,7 +4413,7 @@ a,AT0
 warning,NN1
 is,VBZ
 imposed,VVN
-The,AT0
+the,AT0
 next,ORD
 time,NN1
 you,PNP
@@ -4427,7 +4427,7 @@ a,AT0
 penalty,NN1
 is,VBZ
 incurred,VVN
-The,AT0
+the,AT0
 third,ORD
 time,NN1
 you,PNP
@@ -4439,7 +4439,7 @@ a,AT0
 full,AJ0
 point,NN1
 penalty,NN1
-You,PNP
+you,PNP
 will,VM0
 be,VBI
 disqualified,VVN
@@ -4450,7 +4450,7 @@ out,AVP
 a,AT0
 fourth,ORD
 time,NN1
-Only,AV0
+only,AV0
 the,AT0
 lightest,AJS
 contact,NN1
@@ -4459,7 +4459,7 @@ allowed,VVN
 to,PRP
 the,AT0
 face,NN1
-Remember,VVB
+remember,VVB
 that,CJT
 penalties,NN2
 imposed,VVN
@@ -4497,13 +4497,13 @@ the,AT0
 your,DPS
 opponent,NN1
 wins,NN2-VVZ
-There,EX0
+there,EX0
 are,VBB
 exceptions,NN2
 to,PRP
 this,DT0
 rule,NN1
-The,AT0
+the,AT0
 first,ORD
 is,VBZ
 if,CJS
@@ -4517,7 +4517,7 @@ out,AVP
 of,PRF
 the,AT0
 area,NN1
-The,AT0
+the,AT0
 second,ORD
 is,VBZ
 when,AVQ
@@ -4527,7 +4527,7 @@ and,CJC
 then,AV0
 step,VVB
 out,AVP
-In,PRP
+in,PRP
 this,DT0
 case,NN1
 the,AT0
@@ -4548,15 +4548,15 @@ occur,VVI
 out,AVP
 of,PRF
 time,NN1
-Hard,AJ0
+hard,AJ0
 luck,NN1
 if,CJS
 your,DPS
 score,NN1
 is,VBZ
 awarded,VVN
-Penalties,NN2
-The,AT0
+penalties,NN2
+the,AT0
 ascending,AJ0
 scale,NN1
 of,PRF
@@ -4573,14 +4573,14 @@ prohibited,AJ0
 techniques,NN2
 and,CJC
 actions,NN2
-However,AV0
+however,AV0
 it,PNP
 is,VBZ
 important,AJ0
 to,TO0
 note,VVI
 things,NN2
-The,AT0
+the,AT0
 first,ORD
 is,VBZ
 that,CJT
@@ -4597,7 +4597,7 @@ procedure,NN1
 for,PRP
 each,DT0
 offence,NN1
-A,AT0
+a,AT0
 heavy,AJ0
 contact,NN1
 to,PRP
@@ -4634,7 +4634,7 @@ or,CJC
 even,AV0
 a,AT0
 disqualification,NN1
-In,PRP
+in,PRP
 some,DT0
 cases,NN2
 the,AT0
@@ -4654,7 +4654,7 @@ from,PRP
 the,AT0
 whole,AJ0
 tournament,NN1
-The,AT0
+the,AT0
 second,ORD
 thing,NN1
 to,TO0
@@ -4684,9 +4684,9 @@ for,PRP
 a,AT0
 different,AJ0
 offence,NN1
-Thus,AV0
+thus,AV0
 if,CJS
-I,PNP
+i,PNP
 incur,VVB
 a,AT0
 verbal,AJ0
@@ -4697,7 +4697,7 @@ out,AVP
 of,PRF
 the,AT0
 area,NN1
-I,PNP
+i,PNP
 do,VDB
 then,AV0
 expect,VVI
@@ -4712,7 +4712,7 @@ contravention,NN1
 of,PRF
 another,DT0
 rule,NN1
-You,PNP
+you,PNP
 will,VM0
 not,XX0
 be,VBI
@@ -4724,11 +4724,11 @@ propelled,VVN
 from,PRP
 the,AT0
 area,NN1
-Prohibited,AJ0
+prohibited,AJ0
 actions,NN2
 and,CJC
 behaviour,NN1
-You,PNP
+you,PNP
 may,VM0
 seize,VVI
 hold,NN1
@@ -4746,7 +4746,7 @@ by,PRP
 a,AT0
 scoring,NN1-AJ0
 technique,NN1
-Any,DT0
+any,DT0
 other,AJ0
 attempt,NN1
 to,TO0
@@ -4755,7 +4755,7 @@ the,AT0
 opponent,NN1
 is,VBZ
 prohibited,VVN-AJ0
-Also,AV0
+also,AV0
 prohibited,VVN-AJ0
 is,VBZ
 any,DT0
@@ -4766,7 +4766,7 @@ meaningfully,AV0
 with,PRP
 the,AT0
 opponent,NN1
-This,DT0
+this,DT0
 is,VBZ
 particularly,AV0
 important,AJ0
@@ -4778,7 +4778,7 @@ on,PRP
 points,NN2
 as,PRP
 approaches,NN2-VVZ
-Such,DT0
+such,DT0
 a,AT0
 person,NN1
 may,VM0
@@ -4790,7 +4790,7 @@ if,CJS
 they,PNP
 continue,VVB
 to,PRP
-Another,DT0
+another,DT0
 prohibited,AJ0
 act,NN1
 is,VBZ
@@ -4804,9 +4804,9 @@ for,PRP
 your,DPS
 own,DT0
 safety,NN1
-By,PRP
+by,PRP
 this,DT0
-I,PNP
+i,PNP
 mean,VVB
 flinging,VVG
 yourself,PNX
@@ -4820,7 +4820,7 @@ with,PRP
 your,DPS
 unguarded,AJ0
 face,NN1
-Although,CJS
+although,CJS
 this,DT0
 sounds,VVZ
 silly,AJ0
@@ -4840,7 +4840,7 @@ for,PRP
 their,DPS
 own,DT0
 safety,NN1
-Good,AJ0
+good,AJ0
 referees,NN2
 are,VBB
 quick,AJ0
@@ -4855,7 +4855,7 @@ penalties,NN2
 for,PRP
 persistent,AJ0
 offenders,NN2
-A,AT0
+a,AT0
 less,AV0
 obvious,AJ0
 example,NN1
@@ -4892,7 +4892,7 @@ fist,NN1
 in,PRP
 the,AT0
 air,NN1
-Since,CJS
+since,CJS
 of,PRF
 the,AT0
 requirements,NN2
@@ -4921,7 +4921,7 @@ imposed,VVN-VVD
 in,PRP-AVP
 its,DPS
 place,NN1
-Any,DT0
+any,DT0
 contestant,NN1
 who,PNQ
 in,PRP
@@ -4942,7 +4942,7 @@ from,PRP
 the,AT0
 entire,AJ0
 tournament,NN1
-You,PNP
+you,PNP
 are,VBB
 expected,VVN-AJ0
 to,TO0
@@ -4952,7 +4952,7 @@ steps,NN2
 to,TO0
 protect,VVI
 yourself,PNX
-In,PRP
+in,PRP
 this,DT0
 example,NN1
 the,AT0
@@ -4968,7 +4968,7 @@ of,PRF
 a,AT0
 face,NN1
 guard,NN1-VVB
-It,PNP
+it,PNP
 goes,VVZ
 almost,AV0
 without,PRP
@@ -4998,7 +4998,7 @@ of,PRF
 the,AT0
 refereeing,NN1
 panel,NN1
-Where,CJS
+where,CJS
 this,DT0
 is,VBZ
 missing,AJ0-VVG
@@ -5010,7 +5010,7 @@ severe,AJ0
 in,PRP
 the,AT0
 extreme,NN1
-Not,XX0
+not,XX0
 only,AV0
 must,VM0
 the,AT0
@@ -5029,7 +5029,7 @@ even,AV0
 when,CJS
 not,XX0
 fighting,VVG
-In,PRP
+in,PRP
 practice,NN1
 a,AT0
 contestant,NN1
@@ -5053,8 +5053,8 @@ penalty,NN1
 if,CJS
 they,PNP
 misbehave,VVB
-Injury,NN1
-A,AT0
+injury,NN1
+a,AT0
 contestant,NN1
 may,VM0
 withdraw,VVI
@@ -5066,7 +5066,7 @@ a,AT0
 competition,NN1
 through,PRP
 injury,NN1
-This,DT0
+this,DT0
 is,VBZ
 known,VVN
 as,PRP
@@ -5078,7 +5078,7 @@ victory,NN1
 to,PRP
 the,AT0
 opponent,NN1
-The,AT0
+the,AT0
 referee,NN1
 examines,VVZ
 any,DT0
@@ -5094,7 +5094,7 @@ a,AT0
 doctor,NN1
 is,VBZ
 summoned,VVN
-The,AT0
+the,AT0
 doctor,NN1
 advises,VVZ
 the,AT0
@@ -5115,7 +5115,7 @@ the,AT0
 bout,NN1
 should,VM0
 continue,VVI
-If,CJS
+if,CJS
 both,DT0
 contestants,NN2
 are,VBB
@@ -5136,7 +5136,7 @@ with,PRP
 the,AT0
 higher,AJC
 score,NN1
-If,CJS
+if,CJS
 the,AT0
 scores,NN2
 are,VBB
@@ -5166,10 +5166,10 @@ point,NN1
 where,AVQ
 injury,NN1
 occurred,VVD
-Winning,VVG
+winning,VVG
 by,PRP
 disqualification,NN1
-A,AT0
+a,AT0
 contestant,NN1
 who,PNQ
 wins,VVZ
@@ -5184,7 +5184,7 @@ again,AV0
 in,PRP
 the,AT0
 competition,NN1
-If,CJS
+if,CJS
 he,PNP
 wins,VVZ
 a,AT0
@@ -5218,7 +5218,7 @@ not,XX0
 protecting,VVG
 himself,PNX
 adequately,AV0
-Well,AV0
+well,AV0
 run,VVB
 tournaments,NN2
 use,VVB
@@ -5234,7 +5234,7 @@ beginning,NN1
 of,PRF
 each,DT0
 bout,NN1
-Less,AV0
+less,AV0
 well,AV0
 run,VVN
 events,NN2
@@ -5255,8 +5255,8 @@ have,VHB
 won,VVN
 by,PRP
 disqualifications,NN2
-Protests,NN2
-It,PNP
+protests,NN2
+it,PNP
 is,VBZ
 possible,AJ0
 to,TO0
@@ -5276,7 +5276,7 @@ by,PRP
 the,AT0
 refereeing,NN1
 panel,NN1
-It,PNP
+it,PNP
 is,VBZ
 not,XX0
 however,AV0
@@ -5306,7 +5306,7 @@ by,PRP
 the,AT0
 contestant,NN1
 involved,VVN
-They,PNP
+they,PNP
 are,VBB
 made,VVN
 by,PRP
@@ -5324,12 +5324,12 @@ written,AJ0
 deposition,NN1
 to,PRP
 the,AT0
-Chief,AJ0-NN1
-Referee,NN1
+chief,AJ0-NN1
+referee,NN1
 of,PRF
 the,AT0
 day,NN1
-The,AT0
+the,AT0
 latter,DT0
 examines,VVZ
 the,AT0
@@ -5353,7 +5353,7 @@ what,DTQ
 has,VHZ
 gone,VVN
 wrong,AJ0-AV0
-This,DT0
+this,DT0
 can,VM0
 result,VVI
 in,PRP
@@ -5361,7 +5361,7 @@ a,AT0
 decision,NN1
 being,VBG
 overturned,VVN
-However,AV0
+however,AV0
 the,AT0
 protest,NN1
 must,VM0
@@ -5378,7 +5378,7 @@ elimination,NN1
 match,NN1
 is,VBZ
 fought,VVN
-If,CJS
+if,CJS
 this,DT0
 happens,VVZ
 it,PNP
@@ -5389,7 +5389,7 @@ to,TO0
 redress,VVI
 the,AT0
 situation,NN1
-The,AT0
+the,AT0
 only,AJ0
 situation,NN1
 in,PRP
@@ -5416,7 +5416,7 @@ has,VHZ
 clearly,AV0
 been,VBN
 made,VVN
-In,PRP
+in,PRP
 such,DT0
 cases,NN2
 the,AT0
@@ -5432,9 +5432,9 @@ approach,VVI
 the,AT0
 arbitrator,NN1
 directly,AV0
-Referees,NN2
+referees,NN2
 signals,NN2
-Referees,NN2
+referees,NN2
 use,VVB
 various,AJ0
 signals,NN2
@@ -5445,7 +5445,7 @@ to,TO0
 express,VVI
 their,DPS
 judgement,NN1
-Make,VVB
+make,VVB
 sure,AJ0
 that,CJT
 you,PNP
@@ -5457,7 +5457,7 @@ and,CJC
 what,DTQ
 they,PNP
 mean,VVB
-Briefly,AV0
+briefly,AV0
 if,CJS
 the,AT0
 referee,NN1
@@ -5472,7 +5472,7 @@ had,VHD
 done,VDN
 something,PNI
 wrong,AJ0-AV0
-If,CJS
+if,CJS
 he,PNP
 extends,VVZ
 his,DPS
@@ -5485,7 +5485,7 @@ it,PNP
 is,VBZ
 an,AT0
 award,NN1
-Finally,AV0
+finally,AV0
 if,CJS
 the,AT0
 referee,NN1
@@ -5515,12 +5515,12 @@ awards,NN2
 will,VM0
 be,VBI
 made,VVN
-A,AT0
+a,AT0
 more,AV0
 detailed,AJ0
 list,NN1
 of,PRF
-Japanese,AJ0
+japanese,AJ0
 expressions,NN2
 appear,VVB
 at,PRP
@@ -5529,8 +5529,8 @@ end,NN1
 of,PRF
 this,DT0
 book,NN1
-Refereeing,NN1
-I,PNP
+refereeing,NN1
+i,PNP
 going,VVG
 to,TO0
 conclude,VVI
@@ -5538,7 +5538,7 @@ this,DT0
 chapter,NN1
 with,PRP
 what,DTQ
-I,PNP
+i,PNP
 know,VVB
 will,VM0
 be,VBI
@@ -5555,7 +5555,7 @@ not,XX0
 only,AV0
 my,DPS
 opinion,NN1
-I,PNP
+i,PNP
 refer,VVB
 here,AV0
 to,PRP
@@ -5573,7 +5573,7 @@ to,TO0
 win,VVI
 a,AT0
 bout,NN1
-This,DT0
+this,DT0
 happens,VVZ
 when,CJS
 an,AT0
@@ -5582,7 +5582,7 @@ performer,NN1
 draws,VVZ
 a,AT0
 newcomer,NN1
-I,PNP
+i,PNP
 have,VHB
 seen,VVN
 the,AT0
@@ -5603,7 +5603,7 @@ by,PRP
 the,AT0
 refereeing,NN1
 panel,NN1
-It,PNP
+it,PNP
 is,VBZ
 as,CJS
 though,CJS
@@ -5625,7 +5625,7 @@ the,AT0
 newcomer,NN1
 might,VM0
 win,VVI
-Before,CJS
+before,CJS
 you,PNP
 get,VVB
 the,AT0
@@ -5639,7 +5639,7 @@ only,AV0
 in,PRP
 national,AJ0
 competitions,NN2
-I,PNP
+i,PNP
 would,VM0
 like,VVI
 to,TO0
@@ -5651,7 +5651,7 @@ worse,AJC
 case,NN1
 of,PRF
 this,DT0
-I,PNP
+i,PNP
 ever,AV0
 saw,VVD
 was,VBD
@@ -5659,11 +5659,11 @@ in,PRP
 a,AT0
 world,NN1
 championship,NN1
-The,AT0
-Women,NN2
-World,NN1
-Heavyweight,NN1
-Champion,NN1
+the,AT0
+women,NN2
+world,NN1
+heavyweight,NN1
+champion,NN1
 had,VHD
 defended,VVN
 her,DPS
@@ -5677,10 +5677,10 @@ soundly,AV0
 beating,VVG
 her,DPS
 opponents,NN2
-In,PRP
+in,PRP
 this,DT0
 case,NN1
-I,PNP
+i,PNP
 saw,VVD
 her,PNP
 caught,VVN-VVD
@@ -5692,7 +5692,7 @@ none,PNI
 of,PRF
 them,PNP
 scored,VVD
-A,AT0
+a,AT0
 senior,AJ0
 international,AJ0
 referee,NN1
@@ -5706,7 +5706,7 @@ and,CJC
 confirmed,VVD
 my,DPS
 opinion,NN1
-I,PNP
+i,PNP
 do,VDB
 know,VVI
 how,AVQ
@@ -5736,7 +5736,7 @@ to,TO0
 acknowledge,VVI
 your,DPS
 scores,NN2
-This,DT0
+this,DT0
 may,VM0
 prove,VVI
 difficult,AJ0
@@ -5753,7 +5753,7 @@ the,AT0
 only,AJ0
 practical,AJ0
 advice,NN1
-I,PNP
+i,PNP
 can,VM0
 offer,VVI
 is,VBZ
@@ -5773,7 +5773,7 @@ to,PRP
 many,DT0
 national,AJ0
 referees,NN2
-The,AT0
+the,AT0
 referee,NN1
 has,VHZ
 to,TO0
@@ -5784,7 +5784,7 @@ interpret,VVB
 extremely,AV0
 fast,AJ0
 actions,NN2
-In,PRP
+in,PRP
 my,DPS
 view,NN1
 accuracy,NN1
@@ -5808,7 +5808,7 @@ receive,VVI
 a,AT0
 proper,AJ0
 rest,NN1
-This,DT0
+this,DT0
 never,AV0
 happens,VVZ
 of,PRF
@@ -5827,7 +5827,7 @@ and,CJC
 fatigue,NN1
 levels,NN2
 increase,VVB-NN1
-Yet,AV0
+yet,AV0
 as,CJS-PRP
 the,AT0
 competition,NN1
@@ -5850,7 +5850,7 @@ on,PRP
 the,AT0
 refereeing,NN1
 panel,NN1
-If,CJS
+if,CJS
 they,PNP
 then,AV0
 fail,VVB
@@ -5863,9 +5863,9 @@ distressing,AJ0
 confrontations,NN2
 may,VM0
 result,VVI
-The,AT0
+the,AT0
 point,NN1
-I,PNP
+i,PNP
 am,VBB
 trying,VVG
 to,TO0
@@ -5898,7 +5898,7 @@ recognise,VVI
 your,DPS
 superior,AJ0
 performance,NN1
-The,AT0
+the,AT0
 first,ORD
 requirement,NN1
 is,VBZ
@@ -5909,7 +5909,7 @@ the,AT0
 second,ORD
 is,VBZ
 not,XX0
-One,PNI
+one,PNI
 can,VM0
 only,AV0
 hope,VVI
@@ -5933,10 +5933,10 @@ requisite,AJ0-NN1
 number,NN1
 of,PRF
 officials,NN2
-TRAINING,NN1-VVG
-TO,TO0
-WIN,VVI
-As,CJS
+training,NN1-VVG
+to,TO0
+win,VVI
+as,CJS
 we,PNP
 have,VHB
 seen,VVN
@@ -5950,7 +5950,7 @@ lasts,VVZ
 for,PRP
 or,CJC
 minutes,NN2
-If,CJS
+if,CJS
 a,AT0
 tie,NN1
 results,NN2
@@ -5970,7 +5970,7 @@ or,CJC
 minutes,NN2
 is,VBZ
 fought,VVN
-So,AV0
+so,AV0
 training,NN1
 must,VM0
 take,VVI
@@ -5981,9 +5981,9 @@ time,NN1
 period,NN1
 in,PRP
 mind,NN1
-Aerobic,AJ0
+aerobic,AJ0
 training,NN1
-I,PNP
+i,PNP
 will,VM0
 assume,VVI
 that,CJT
@@ -6001,8 +6001,8 @@ demands,NN2
 of,PRF
 normal,AJ0
 training,NN1
-As,CJS
-I,PNP
+as,CJS
+i,PNP
 have,VHB
 indicated,VVN
 the,AT0
@@ -6034,7 +6034,7 @@ establish,VVI
 more,AV0
 specialised,AJ0
 requirements,NN2
-Thus,AV0
+thus,AV0
 you,PNP
 will,VM0
 already,AV0
@@ -6053,7 +6053,7 @@ over,PRP-AVP
 a,AT0
 long,AJ0
 period,NN1
-If,CJS
+if,CJS
 this,DT0
 is,VBZ
 the,AT0
@@ -6079,7 +6079,7 @@ far,AV0-AJ0
 into,PRP
 anaerobic,AJ0
 respiration,NN1
-The,AT0
+the,AT0
 longer,AJC
 you,PNP
 stave,VVB
@@ -6094,7 +6094,7 @@ spend,VVI
 building,NN1
 fatigue,NN1
 toxins,NN2
-Some,DT0
+some,DT0
 people,NN0
 would,VM0
 argue,VVI
@@ -6111,7 +6111,7 @@ form,NN1
 of,PRF
 aerobic,AJ0
 training,NN1
-This,DT0
+this,DT0
 may,VM0
 be,VBI
 the,AT0
@@ -6148,7 +6148,7 @@ reserve,NN1-AJ0
 for,PRP
 explosive,AJ0
 onslaughts,NN2
-Therefore,AV0
+therefore,AV0
 you,PNP
 should,VM0
 train,VVI
@@ -6181,7 +6181,7 @@ of,PRF
 the,AT0
 aerobic,AJ0
 band,NN1
-This,DT0
+this,DT0
 will,VM0
 vary,VVI
 according,VVG
@@ -6192,7 +6192,7 @@ use,VVB
 the,AT0
 formula,NN1
 age,NN1-VVB
-This,DT0
+this,DT0
 gives,VVZ
 an,AT0
 approximate,AJ0
@@ -6220,7 +6220,7 @@ of,PRF
 minutes,NN2
 or,CJC
 so,AV0
-This,DT0
+this,DT0
 length,NN1
 of,PRF
 time,NN1
@@ -6237,7 +6237,7 @@ the,AT0
 lungs,NN2
 and,CJC
 heart,NN1
-However,AV0
+however,AV0
 if,CJS
 you,PNP
 find,VVB
@@ -6264,7 +6264,7 @@ you,PNP
 can,VM0
 last,VVI
 out,AVP
-Count,VVB
+count,VVB
 your,DPS
 pulse,NN1
 for,PRP
@@ -6280,7 +6280,7 @@ the,AT0
 rate,NN1
 per,PRP
 minute,NN1
-Always,AV0
+always,AV0
 taper,NN1
 your,DPS
 training,NN1
@@ -6302,7 +6302,7 @@ cause,VVI
 fainting,VVG
 or,CJC
 dizziness,NN1
-Begin,VVB
+begin,VVB
 increasing,VVG
 training,NN1
 intensity,NN1
@@ -6314,7 +6314,7 @@ can,VM0
 last,VVI
 the,AT0
 minutes,NN2
-Eventually,AV0
+eventually,AV0
 you,PNP
 will,VM0
 be,VBI
@@ -6335,7 +6335,7 @@ reliance,NN1
 on,PRP
 anaerobic,AJ0
 respiration,NN1
-As,CJS
+as,CJS
 you,PNP
 approach,VVB
 the,AT0
@@ -6379,7 +6379,7 @@ third,ORD
 of,PRF
 the,AT0
 band,NN1
-This,DT0
+this,DT0
 is,VBZ
 an,AT0
 invaluable,AJ0
@@ -6387,7 +6387,7 @@ part,NN1
 of,PRF
 your,DPS
 preparation,NN1
-The,AT0
+the,AT0
 next,ORD
 question,NN1
 is,VBZ
@@ -6403,7 +6403,7 @@ to,TO0
 increase,VVI
 pulse,NN1
 rate,NN1
-Training,NN1
+training,NN1
 should,VM0
 be,VBI
 as,AV0
@@ -6414,7 +6414,7 @@ and,CJC
 so,AV0
 for,PRP
 karateka,NN1
-I,PNP
+i,PNP
 recommend,VVB
 either,DT0
 shadow,NN1
@@ -6452,7 +6452,7 @@ up,AVP-PRP
 a,AT0
 good,AJ0
 sweat,NN1
-This,DT0
+this,DT0
 will,VM0
 build,VVI
 up,AVP
@@ -6466,9 +6466,9 @@ in,PRP
 the,AT0
 right,AJ0-NN1
 way,NN1
-Anaerobic,AJ0
+anaerobic,AJ0
 training,NN1
-Work,VVB-NN1
+work,VVB-NN1
 on,PRP-AVP
 anaerobic,AJ0
 endurance,NN1
@@ -6489,7 +6489,7 @@ training,NN1
 are,VBB
 appropriate,AJ0
 here,AV0
-The,AT0
+the,AT0
 first,ORD
 is,VBZ
 very,AV0
@@ -6498,7 +6498,7 @@ duration,NN1
 maximum,AJ0
 output,NN1
 attacks,NN2
-Really,AV0
+really,AV0
 slam,VVB
 into,PRP
 the,AT0
@@ -6526,7 +6526,7 @@ no,AT0
 more,DT0
 than,CJS
 seconds,NN2
-Then,AV0
+then,AV0
 reduce,VVB
 the,AT0
 and,CJC
@@ -6538,7 +6538,7 @@ bag,NN1
 for,PRP
 around,AV0
 minutes,NN2
-Switch,VVB
+switch,VVB
 back,AVP
 into,PRP
 maximum,AJ0
@@ -6560,7 +6560,7 @@ minutes,NN2
 of,PRF
 active,AJ0
 rest,NN1
-These,DT0
+these,DT0
 rests,NN2
 are,VBB
 important,AJ0
@@ -6581,7 +6581,7 @@ during,PRP
 the,AT0
 intense,AJ0
 phases,NN2
-The,AT0
+the,AT0
 second,ORD
 type,NN1
 of,PRF
@@ -6597,7 +6597,7 @@ of,PRF
 up,AVP
 to,PRP
 minutes,NN2
-The,AT0
+the,AT0
 object,NN1
 here,AV0
 is,VBZ
@@ -6619,7 +6619,7 @@ lactic,AJ0
 acid,NN1
 is,VBZ
 produced,VVN
-Continuous,AJ0
+continuous,AJ0
 hard,AJ0
 train,VVB
 the,AT0
@@ -6634,7 +6634,7 @@ acid,NN1
 without,PRP
 slowing,VVG
 down,AVP
-Therefore,AV0
+therefore,AV0
 attack,VVB
 the,AT0
 bag,NN1
@@ -6656,7 +6656,7 @@ over,PRP
 a,AT0
 minute,NN1
 period,NN1
-Then,AV0
+then,AV0
 slow,VVB
 the,AT0
 pace,NN1
@@ -6668,7 +6668,7 @@ hiking,VVG
 it,PNP
 up,AVP
 again,AV0
-Do,VDB
+do,VDB
 however,AV0
 confuse,VVB
 this,DT0
@@ -6679,7 +6679,7 @@ interval,NN1
 training,NN1
 outlined,VVD
 before,AV0
-Here,AV0
+here,AV0
 your,DPS
 training,NN1
 intensity,NN1
@@ -6700,7 +6700,7 @@ required,AJ0-VVN
 for,PRP
 aerobic,AJ0
 training,NN1
-Shadow,NN1-VVB
+shadow,NN1-VVB
 boxing,NN1
 is,VBZ
 an,AT0
@@ -6716,7 +6716,7 @@ the,AT0
 aerobic,AJ0
 training,NN1
 band,NN1
-When,CJS
+when,CJS
 you,PNP
 can,VM0
 cope,VVI
@@ -6730,7 +6730,7 @@ it,PNP
 to,PRP
 or,CJC
 minutes,NN2
-When,CJS
+when,CJS
 you,PNP
 can,VM0
 manage,VVI
@@ -6745,7 +6745,7 @@ rest,NN1
 intervals,NN2
 to,PRP
 minute,NN1
-Your,DPS
+your,DPS
 eventual,AJ0
 goal,NN1
 is,VBZ
@@ -6769,16 +6769,16 @@ by,PRP
 a,AT0
 second,ORD
 workout,NN1
-Any,DT0
+any,DT0
 more,DT0
 than,CJS
 this,DT0
 is,VBZ
 unnecessary,AJ0
-Training,NN1
+training,NN1
 for,PRP
 power,NN1
-The,AT0
+the,AT0
 kind,NN1
 of,PRF
 strength,NN1
@@ -6802,14 +6802,14 @@ a,AT0
 short,AJ0
 fast,AJ0
 contraction,NN1
-Thus,AV0
+thus,AV0
 training,NN1
 must,VM0
 feature,VVI
 fast,AV0-AJ0
 explosive,AJ0
 movements,NN2
-A,AT0
+a,AT0
 typical,AJ0
 example,NN1
 of,PRF
@@ -6819,7 +6819,7 @@ of,PRF
 training,NN1
 is,VBZ
 explosive,AJ0
-For,PRP
+for,PRP
 this,DT0
 exercise,NN1-VVB
 you,PNP
@@ -6850,7 +6850,7 @@ hands,NN2
 leave,VVB
 the,AT0
 floor,NN1
-Do,VDB
+do,VDB
 cheat,VVI
 by,PRP
 first,ORD
@@ -6867,14 +6867,14 @@ backside,NN1
 into,PRP
 the,AT0
 air,NN1
-This,DT0
+this,DT0
 defeats,VVZ
 the,AT0
 object,NN1
 of,PRF
 the,AT0
 exercise,NN1
-Another,DT0
+another,DT0
 possible,AJ0
 exercise,NN1
 is,VBZ
@@ -6892,7 +6892,7 @@ quickly,AV0
 over,AVP
 say,VVB
 repetitions,NN2
-More,DT0
+more,DT0
 than,CJS
 this,DT0
 and,CJC
@@ -6905,13 +6905,13 @@ factors,NN2
 into,PRP
 the,AT0
 training,NN1
-Rest,VVB-NN1
+rest,VVB-NN1
 then,AV0
 repeat,VVB
 the,AT0
 sequence,NN1
 again,AV0
-Alternatively,AV0
+alternatively,AV0
 hold,VVB
 a,AT0
 heavy,AJ0
@@ -6928,7 +6928,7 @@ thrust,VVB
 it,PNP
 from,PRP
 you,PNP
-A,AT0
+a,AT0
 partner,NN1
 then,AV0
 catches,VVZ
@@ -6943,7 +6943,7 @@ repeated,VVN
 at,PRP
 least,AV0
 times,NN2
-You,PNP
+you,PNP
 could,VM0
 also,AV0
 use,VVI
@@ -6962,7 +6962,7 @@ and,CJC
 then,AV0
 the,AT0
 other,NN1
-Wrist,NN1
+wrist,NN1
 and,CJC
 ankle,NN1
 weights,NN2
@@ -6979,7 +6979,7 @@ do,VDB
 modify,VVI
 your,DPS
 technique,NN1
-Explosive,AJ0
+explosive,AJ0
 develop,VVB
 power,NN1
 in,PRP
@@ -6987,7 +6987,7 @@ the,AT0
 upper,AJ0
 body,NN1
 muscles,NN2
-Kick,VVB-NN1
+kick,VVB-NN1
 squats,NN2
 work,VVB
 the,AT0
@@ -6996,7 +6996,7 @@ of,PRF
 the,AT0
 upper,AJ0
 leg,NN1
-Combine,VVB
+combine,VVB
 them,PNP
 with,PRP
 a,AT0
@@ -7010,7 +7010,7 @@ time,NN1
 you,PNP
 straighten,VVB
 up,AVP
-Train,VVB
+train,VVB
 the,AT0
 legs,NN2
 for,PRP
@@ -7026,7 +7026,7 @@ a,AT0
 high,AJ0
 front,AJ0-NN1
 kick,NN1
-Stand,VVB-NN1
+stand,VVB-NN1
 with,PRP
 the,AT0
 feet,NN2
@@ -7041,7 +7041,7 @@ arms,NN2
 by,PRP
 your,DPS
 sides,NN2
-Bend,VVB
+bend,VVB
 your,DPS
 knees,NN2
 to,PRP
@@ -7051,7 +7051,7 @@ than,CJS
 then,AV0
 shoot,VVB
 upwards,AV0
-Perform,VVB
+perform,VVB
 a,AT0
 high,AJ0
 front,AJ0-NN1
@@ -7064,7 +7064,7 @@ time,NN1
 you,PNP
 straighten,VVB
 up,AVP
-Also,AV0
+also,AV0
 try,VVB
 jump,NN1
 squats,VVZ
@@ -7077,7 +7077,7 @@ you,PNP
 change,VVB
 legs,NN2
 in,PRP
-Try,VVB
+try,VVB
 jumping,VVG
 down,AVP
 from,PRP
@@ -7088,14 +7088,14 @@ landing,VVG
 with,PRP
 bent,AJ0
 knees,NN2
-Then,AV0
+then,AV0
 spring,VVB
 up,AVP
 on,AVP
 to,PRP
 a,AT0
 bench,NN1
-Make,VVB
+make,VVB
 a,AT0
 circuit,NN1
 in,PRP
@@ -7107,7 +7107,7 @@ down,AVP
 and,CJC
 leap,VVB
 up,AVP
-Use,VVB
+use,VVB
 higher,AJC
 platforms,NN2
 as,CJS
@@ -7115,7 +7115,7 @@ your,DPS
 legs,NN2
 become,VVB
 stronger,AJC
-Then,AV0
+then,AV0
 switch,VVB
 to,TO0
 alternate,VVI
@@ -7123,7 +7123,7 @@ bounds,NN2
 as,PRP
 an,AT0
 alternative,NN1-AJ0
-You,PNP
+you,PNP
 will,VM0
 definitely,AV0
 take,VVI
@@ -7144,7 +7144,7 @@ absorb,VVI
 some,DT0
 impact,NN1
 energy,NN1
-Train,VVB-NN1
+train,VVB-NN1
 for,PRP
 this,DT0
 with,PRP
@@ -7165,7 +7165,7 @@ tightly,AV0
 against,PRP
 the,AT0
 buttocks,NN2
-Aim,VVB
+aim,VVB
 to,TO0
 curl,VVI
 up,AVP
@@ -7179,7 +7179,7 @@ clear,AJ0
 of,PRF
 the,AT0
 mat,NN1
-Increase,VVB
+increase,VVB
 the,AT0
 by,PRP
 holding,VVG
@@ -7192,7 +7192,7 @@ as,CJS
 you,PNP
 sit,VVB
 up,AVP
-Exercises,NN2-VVZ
+exercises,NN2-VVZ
 such,DT0
 as,PRP
 bounds,NN2
@@ -7204,12 +7204,12 @@ for,PRP
 explosive,AJ0
 power,NN1
 delivery,NN1
-Bent,AJ0-VVN
+bent,AJ0-VVN
 leg,NN1
 strengthen,VVB
 the,AT0
 abdominals,NN2
-Change,VVB
+change,VVB
 the,AT0
 training,NN1
 effects,NN2
@@ -7218,9 +7218,9 @@ varying,VVG
 your,DPS
 knee,NN1
 angles,NN2
-Agility,NN1
+agility,NN1
 training,NN1
-Train,VVB-NN1
+train,VVB-NN1
 for,PRP
 agility,NN1
 with,PRP
@@ -7231,7 +7231,7 @@ on,PRP
 the,AT0
 punch,NN1
 bag,NN1
-Repeatedly,AV0
+repeatedly,AV0
 switch,VVB
 your,DPS
 stance,NN1
@@ -7255,7 +7255,7 @@ as,CJS
 your,DPS
 weight,NN1
 settles,VVZ
-Repeat,VVB
+repeat,VVB
 the,AT0
 exercise,NN1
 but,CJC
@@ -7272,7 +7272,7 @@ as,CJS
 the,AT0
 stance,NN1
 switches,NN2-VVZ
-Practise,VVB
+practise,VVB
 fast,AJ0
 advances,NN2
 of,PRF
@@ -7286,7 +7286,7 @@ as,CJS
 you,PNP
 do,VDB
 so,AV0
-Then,AV0
+then,AV0
 immediately,AV0
 as,AV0
 quickly,AV0
@@ -7296,7 +7296,7 @@ can,VM0
 whilst,CJS
 throwing,VVG
 punches,NN2
-Jump,VVB-NN1
+jump,VVB-NN1
 diagonally,AV0
 forwards,AV0
 with,PRP
@@ -7314,7 +7314,7 @@ a,AT0
 high,AJ0
 roundhouse,NN1
 kick,NN1-VVB
-Jump,VVB-NN1
+jump,VVB-NN1
 diagonally,AV0
 back,AVP
 with,PRP
@@ -7328,9 +7328,9 @@ front,AJ0
 foot,NN1
 roundhouse,NN1
 kick,NN1-VVB
-Reaction,NN1
+reaction,NN1
 speed,NN1
-Work,VVB-NN1
+work,VVB-NN1
 on,PRP
 reaction,NN1
 speed,NN1
@@ -7341,7 +7341,7 @@ holding,VVG
 a,AT0
 target,NN1
 mitt,NN1-VVB
-First,ORD
+first,ORD
 this,DT0
 is,VBZ
 held,VVN
@@ -7370,7 +7370,7 @@ with,PRP
 a,AT0
 suitable,AJ0
 technique,NN1
-It,PNP
+it,PNP
 does,VDZ
 not,XX0
 always,AV0
@@ -7383,7 +7383,7 @@ requiring,VVG
 a,AT0
 roundhouse,NN1
 technique,NN1
-As,CJS
+as,CJS
 accuracy,NN1
 and,CJC
 speed,NN1-VVB
@@ -7397,7 +7397,7 @@ shorter,AJC
 intervals,NN2
 of,PRF
 time,NN1
-Increase,VVB
+increase,VVB
 the,AT0
 difficulty,NN1
 by,PRP
@@ -7424,14 +7424,14 @@ sudden,AJ0
 changes,NN2
 in,PRP
 range,NN1
-Practise,VVB
+practise,VVB
 controlled,AJ0
 impacts,NN2
 on,PRP
 the,AT0
 pad,NN1
-Accuracy,NN1
-Use,VVB
+accuracy,NN1
+use,VVB
 an,AT0
 impact,NN1
 pad,NN1-VVB
@@ -7441,7 +7441,7 @@ accuracy,NN1
 on,PRP
 moving,VVG-AJ0
 targets,NN2
-Your,DPS
+your,DPS
 partner,NN1
 holds,VVZ
 the,AT0
@@ -7455,7 +7455,7 @@ lunges,VVZ
 forwards,AV0
 or,CJC
 withdraws,VVZ
-You,PNP
+you,PNP
 react,VVB
 immediately,AV0
 and,CJC
@@ -7467,7 +7467,7 @@ a,AT0
 perfectly,AV0
 timed,VVN-AJ0
 technique,NN1
-This,DT0
+this,DT0
 is,VBZ
 an,AT0
 excellent,AJ0
@@ -7489,7 +7489,7 @@ hurting,VVG
 your,DPS
 own,DT0
 wrist,NN1
-Use,VVB-NN1
+use,VVB-NN1
 impact,NN1
 pads,NN2
 to,TO0
@@ -7498,9 +7498,9 @@ reaction,NN1
 speed,NN1
 and,CJC
 accuracy,NN1
-Flexibility,NN1
+flexibility,NN1
 training,NN1
-When,CJS
+when,CJS
 you,PNP
 have,VHB
 worked,VVN
@@ -7515,7 +7515,7 @@ off,AVP
 with,PRP
 flexibility,NN1
 training,NN1
-Improve,VVB
+improve,VVB
 suppleness,NN1
 in,PRP
 the,AT0
@@ -7524,16 +7524,16 @@ joint,NN1-AJ0
 by,PRP
 means,NN0
 of,PRF
-Proprioceptive,AJ0
-Neuromuscular,AJ0
-Facilitation,NN1
-PNF,NP0
+proprioceptive,AJ0
+neuromuscular,AJ0
+facilitation,NN1
+pnf,NP0
 stretching,VVG
 plus,PRP
 ballistic,AJ0
 mobility,NN1
 exercises,NN2-VVZ
-PNF,NP0
+pnf,NP0
 stretching,NN1
 allows,VVZ
 you,PNP
@@ -7546,7 +7546,7 @@ movement,NN1
 at,PRP
 your,DPS
 joints,NN2
-It,PNP
+it,PNP
 helps,VVZ
 for,PRP
 example,NN1
@@ -7582,7 +7582,7 @@ in,AVP
 to,PRP
 the,AT0
 body,NN1
-Your,DPS
+your,DPS
 partner,NN1
 kneels,VVZ
 in,PRP
@@ -7595,7 +7595,7 @@ down,AVP
 on,PRP
 your,DPS
 knees,NN2
-Allow,VVB
+allow,VVB
 the,AT0
 applied,AJ0
 force,NN1
@@ -7610,7 +7610,7 @@ down,AVP
 to,PRP
 the,AT0
 mat,NN1
-A,AT0
+a,AT0
 firm,AJ0
 steady,AJ0
 pressure,NN1
@@ -7620,7 +7620,7 @@ applied,VVN
 avoid,VVB
 jerky,AJ0
 movements,NN2
-When,CJS
+when,CJS
 you,PNP
 have,VHB
 separated,VVN
@@ -7642,7 +7642,7 @@ with,PRP
 all,DT0
 your,DPS
 might,NN1
-Maintain,VVB
+maintain,VVB
 this,DT0
 resistance,NN1
 for,PRP
@@ -7659,7 +7659,7 @@ knees,NN2
 to,TO0
 open,VVI
 out,AVP
-You,PNP
+you,PNP
 will,VM0
 find,VVI
 that,CJT
@@ -7670,7 +7670,7 @@ than,CJS
 they,PNP
 did,VDD
 before,AV0
-Another,DT0
+another,DT0
 version,NN1
 of,PRF
 this,DT0
@@ -7683,7 +7683,7 @@ against,PRP
 your,DPS
 splayed,AJ0
 legs,NN2
-Lie,VVB
+lie,VVB
 on,PRP-AVP
 your,DPS
 back,NN1
@@ -7699,7 +7699,7 @@ keeping,VVG
 your,DPS
 knees,NN2
 straight,AV0-AJ0
-Next,ORD
+next,ORD
 let,VVB
 your,DPS
 legs,NN2
@@ -7714,7 +7714,7 @@ as,CJS
 you,PNP
 can,VM0
 tolerate,VVI
-Work,VVB-NN1
+work,VVB-NN1
 at,PRP
 relaxing,VVG
 your,DPS
@@ -7734,7 +7734,7 @@ there,AV0
 for,PRP
 around,AV0
 seconds,NN2
-Lift,VVB
+lift,VVB
 your,DPS
 legs,NN2
 slightly,AV0
@@ -7754,7 +7754,7 @@ let,VVB
 them,PNP
 relax,VVI
 again,AV0
-This,DT0
+this,DT0
 exercise,NN1
 produces,VVZ
 quite,AV0
@@ -7764,7 +7764,7 @@ in,PRP
 a,AT0
 short,AJ0
 time,NN1
-Your,DPS
+your,DPS
 partner,NN1
 presses,VVZ
 down,AVP
@@ -7778,15 +7778,15 @@ to,TO0
 relax,VVI
 your,DPS
 muscles,NN2
-Force,VVB-NN1
+force,VVB-NN1
 back,AVP
 against,PRP
 the,AT0
 applied,AJ0
 pressure,NN1
-Mobility,NN1
+mobility,NN1
 training,NN1
-Improve,VVB
+improve,VVB
 mobility,NN1
 by,PRP
 swinging,VVG
@@ -7802,7 +7802,7 @@ and,CJC
 to,PRP
 the,AT0
 back,NN1
-Never,AV0
+never,AV0
 try,VVB
 to,TO0
 exceed,VVI
@@ -7816,7 +7816,7 @@ work,VVB-NN1
 within,PRP
 it,PNP
 instead,AV0
-Also,AV0
+also,AV0
 train,VVB
 on,PRP-AVP
 the,AT0
@@ -7836,7 +7836,7 @@ as,AV0
 far,AV0
 as,CJS
 possible,AJ0
-Mobility,NN1
+mobility,NN1
 training,NN1
 is,VBZ
 not,XX0
@@ -7855,13 +7855,13 @@ the,AT0
 range,NN1
 of,PRF
 movement,NN1
-Only,AV0
+only,AV0
 then,AV0
 can,VM0
 acceleration,NN1
 be,VBI
 maximised,VVN
-Remember,VVB
+remember,VVB
 a,AT0
 flexible,AJ0
 joint,NN1
@@ -7884,7 +7884,7 @@ those,DT0
 last,ORD
 few,DT0
 millimetres,NN2
-Swing,VVB
+swing,VVB
 your,DPS
 leg,NN1
 but,CJC
@@ -7892,7 +7892,7 @@ keep,VVB
 the,AT0
 knee,NN1
 straight,AV0-AJ0
-This,DT0
+this,DT0
 does,VDZ
 not,XX0
 increase,VVI
@@ -7904,7 +7904,7 @@ it,PNP
 loosens,VVZ
 the,AT0
 joint,AJ0-NN1
-I,PNP
+i,PNP
 have,VHB
 concentrated,VVN
 on,PRP
@@ -7928,7 +7928,7 @@ terms,NN2
 of,PRF
 technique,NN1
 application,NN1
-It,PNP
+it,PNP
 is,VBZ
 worth,PRP
 doing,VDG
@@ -7941,7 +7941,7 @@ have,VHB
 a,AT0
 problem,NN1
 there,AV0
-However,AV0
+however,AV0
 you,PNP
 should,VM0
 stretch,VVI
@@ -7952,7 +7952,7 @@ work,VVB-NN1
 on,PRP-AVP
 spinal,AJ0
 flexibility,NN1
-Hip,NN1-AJ0
+hip,NN1-AJ0
 mobility,NN1
 is,VBZ
 essential,AJ0
@@ -7968,16 +7968,16 @@ of,PRF
 effective,AJ0
 kicking,AJ0-NN1
 techniques,NN2
-Stretch,VVB
+stretch,VVB
 the,AT0
 hamstrings,NN2
 with,PRP
 progressive,AJ0
 smooth,AJ0
 exercises,NN2
-Controlling,VVG-AJ0
-Stress,NN1
-Perhaps,AV0
+controlling,VVG-AJ0
+stress,NN1
+perhaps,AV0
 of,PRF
 the,AT0
 greatest,AJS
@@ -7988,7 +7988,7 @@ is,VBZ
 fear,NN1
 or,CJC
 anxiety,NN1
-A,AT0
+a,AT0
 certain,AJ0
 amount,NN1
 of,PRF
@@ -8008,7 +8008,7 @@ in,PRP
 your,DPS
 own,DT0
 abilities,NN2
-If,CJS
+if,CJS
 you,PNP
 find,VVB
 that,CJT
@@ -8033,7 +8033,7 @@ a,AT0
 racing,AJ0
 pulse,NN1
 then,AV0
-I,PNP
+i,PNP
 would,VM0
 say,VVI
 you,PNP
@@ -8045,7 +8045,7 @@ of,PRF
 throwing,VVG
 everything,PNI
 away,AV0
-The,AT0
+the,AT0
 problem,NN1
 is,VBZ
 how,AVQ
@@ -8054,7 +8054,7 @@ you,PNP
 cope,VVI
 with,PRP
 stress,NN1
-This,DT0
+this,DT0
 depends,VVZ
 very,AV0
 much,DT0
@@ -8066,7 +8066,7 @@ support,NN1
 is,VBZ
 often,AV0
 invaluable,AJ0
-Train,VVB-NN1
+train,VVB-NN1
 as,PRP
 a,AT0
 unit,NN1
@@ -8089,7 +8089,7 @@ are,VBB
 on,PRP
 the,AT0
 mat,NN1
-It,PNP
+it,PNP
 is,VBZ
 comforting,AJ0-VVG
 to,TO0
@@ -8101,7 +8101,7 @@ encouragement,NN1
 during,PRP
 a,AT0
 contest,NN1
-Sit,VVB
+sit,VVB
 with,PRP
 your,DPS
 back,NN1
@@ -8109,7 +8109,7 @@ straight,AV0-AJ0
 and,CJC
 head,AJ0-NN1
 erect,AJ0
-Control,VVB
+control,VVB
 your,DPS
 breathing,NN1
 and,CJC
@@ -8117,7 +8117,7 @@ visualise,VVB
 a,AT0
 peaceful,AJ0
 scene,NN1
-The,AT0
+the,AT0
 coach,NN1
 is,VBZ
 also,AV0
@@ -8137,7 +8137,7 @@ talk,NN1
 can,VM0
 work,VVI
 wonders,NN2
-However,AV0
+however,AV0
 this,DT0
 is,VBZ
 only,AV0-AJ0
@@ -8149,7 +8149,7 @@ really,AV0
 knows,VVZ
 the,AT0
 karateka,NN1
-The,AT0
+the,AT0
 good,AJ0
 coach,NN1
 will,VM0
@@ -8179,7 +8179,7 @@ the,AT0
 task,NN1
 in,PRP
 hand,NN1
-This,DT0
+this,DT0
 is,VBZ
 a,AT0
 key,AJ0
@@ -8198,7 +8198,7 @@ that,DT0
 which,DTQ
 confronts,VVZ
 you,PNP
-If,CJS
+if,CJS
 you,PNP
 have,VHB
 done,VDN
@@ -8222,7 +8222,7 @@ good,AJ0
 account,NN1
 of,PRF
 yourself,PNX
-Some,DT0
+some,DT0
 karateka,NN1
 can,VM0
 cope,VVI
@@ -8253,7 +8253,7 @@ benefit,VVI
 by,PRP
 practising,AJ0-VVG
 meditation,NN1
-This,DT0
+this,DT0
 involves,VVZ
 sitting,VVG
 comfortably,AV0
@@ -8263,7 +8263,7 @@ back,NN1
 and,CJC
 head,AJ0-NN1
 erect,AJ0
-Look,VVB
+look,VVB
 at,PRP
 a,AT0
 particular,AJ0
@@ -8279,7 +8279,7 @@ and,CJC
 try,VVB
 to,TO0
 relax,VVI
-Breathe,VVB
+breathe,VVB
 slowly,AV0
 and,CJC
 rhythmically,AV0
@@ -8297,7 +8297,7 @@ your,DPS
 upper,AJ0
 front,AJ0-NN1
 teeth,NN2
-Select,VVB
+select,VVB
 a,AT0
 relaxing,AJ0
 image,NN1
@@ -8310,7 +8310,7 @@ or,CJC
 a,AT0
 restless,AJ0
 ocean,NN1
-Try,VVB
+try,VVB
 to,TO0
 hear,VVI
 the,AT0
@@ -8329,7 +8329,7 @@ visualise,VVB
 its,DPS
 restless,AJ0
 movement,NN1
-If,CJS
+if,CJS
 you,PNP
 concentrate,VVB
 hard,AV0
@@ -8340,7 +8340,7 @@ activity,NN1
 will,VM0
 slow,VVI
 down,AVP
-Meditate,VVB-NN1
+meditate,VVB-NN1
 for,PRP
 at,PRP
 least,AV0
@@ -8353,9 +8353,9 @@ you,PNP
 can,VM0
 manage,VVI
 it,PNP
-Positive,AJ0
+positive,AJ0
 thinking,NN1
-Even,AV0
+even,AV0
 if,CJS
 you,PNP
 are,VBB
@@ -8385,7 +8385,7 @@ be,VBI
 to,PRP
 your,DPS
 advantage,NN1
-Above,PRP
+above,PRP
 all,DT0
 you,PNP
 have,VHB
@@ -8414,7 +8414,7 @@ done,VDN
 well,AV0
 against,PRP
 others,NN2
-So,AV0
+so,AV0
 why,AVQ
 assume,VVI
 that,CJT
@@ -8422,7 +8422,7 @@ you,PNP
 must,VM0
 inevitably,AV0
 lose,VVI
-The,AT0
+the,AT0
 good,AJ0
 loser,NN1
 syndrome,NN1
@@ -8433,7 +8433,7 @@ avoided,VVN
 at,PRP
 all,DT0
 costs,NN2
-The,AT0
+the,AT0
 good,AJ0
 loser,NN1
 is,VBZ
@@ -8451,7 +8451,7 @@ time,NN1
 the,AT0
 opponent,NN1
 scores,NN2
-The,AT0
+the,AT0
 good,AJ0
 loser,NN1
 never,AV0
@@ -8465,7 +8465,7 @@ of,PRF
 any,DT0
 worthwhile,AJ0
 competition,NN1
-After,PRP
+after,PRP
 all,DT0
 what,DTQ
 the,AT0
@@ -8487,7 +8487,7 @@ how,AVQ
 ineffectual,AJ0
 you,PNP
 are,VBB
-If,CJS
+if,CJS
 you,PNP
 really,AV0
 do,VDB
@@ -8502,7 +8502,7 @@ even,AV0
 think,VVI
 of,PRF
 competing,VVG-AJ0
-The,AT0
+the,AT0
 opponent,NN1
 block,NN1
 applies,VVZ
@@ -8522,7 +8522,7 @@ to,PRP
 a,AT0
 particular,AJ0
 opponent,NN1
-Elite,NN1-AJ0
+elite,NN1-AJ0
 performers,NN2
 earn,VVB
 that,DT0-CJT
@@ -8535,7 +8535,7 @@ nature,NN1
 not,XX0
 good,AJ0
 losers,NN2
-Yet,AV0
+yet,AV0
 they,PNP
 can,VM0
 come,VVI
@@ -8551,7 +8551,7 @@ they,PNP
 will,VM0
 undoubtedly,AV0
 founder,VVI
-This,DT0
+this,DT0
 results,VVZ
 in,PRP
 dispirited,AJ0
@@ -8561,7 +8561,7 @@ marred,VVD
 by,PRP
 feigned,AJ0
 injuries,NN2
-The,AT0
+the,AT0
 only,AJ0
 solution,NN1
 to,PRP
@@ -8586,10 +8586,10 @@ that,CJT
 you,PNP
 can,VM0
 win,VVI
-USING,VVG
-THE,AT0
-AREA,NN1
-The,AT0
+using,VVG
+the,AT0
+area,NN1
+the,AT0
 ability,NN1
 to,TO0
 move,VVI
@@ -8616,7 +8616,7 @@ attack,VVI
 or,CJC
 to,TO0
 respond,VVI
-The,AT0
+the,AT0
 training,NN1
 environment,NN1
 for,PRP
@@ -8648,7 +8648,7 @@ at,PRP
 any,DT0
 given,AJ0
 time,NN1
-You,PNP
+you,PNP
 must,VM0
 never,AV0
 allow,VVI
@@ -8669,7 +8669,7 @@ overstep,VVB
 the,AT0
 area,NN1
 boundary,NN1
-To,TO0
+to,TO0
 do,VDI
 so,AV0
 is,VBZ
@@ -8690,8 +8690,8 @@ a,AT0
 single,AJ0
 scoring,NN1
 technique,NN1
-Stance,NN1
-The,AT0
+stance,NN1
+the,AT0
 karate,NN1
 bout,NN1
 has,VHZ
@@ -8713,7 +8713,7 @@ the,AT0
 ring,NN1
 exchanging,VVG
 blows,NN2
-I,PNP
+i,PNP
 know,VVB
 of,PRF
 no,AT0
@@ -8726,7 +8726,7 @@ rooted,VVN-AJ0
 to,PRP
 the,AT0
 spot,NN1
-Similarly,AV0
+similarly,AV0
 the,AT0
 karate,NN1
 competitor,NN1
@@ -8749,7 +8749,7 @@ closely,AV0
 linked,VVN
 to,PRP
 movement,NN1
-To,TO0
+to,TO0
 move,VVI
 freely,AV0
 in,PRP
@@ -8760,7 +8760,7 @@ stance,NN1
 must,VM0
 be,VBI
 unpolarised,AJ0
-This,DT0
+this,DT0
 means,VVZ
 that,CJT
 your,DPS
@@ -8773,7 +8773,7 @@ lie,VVI
 between,PRP
 both,DT0
 feet,NN2
-Any,DT0
+any,DT0
 bias,NN1
 will,VM0
 slow,VVI
@@ -8794,7 +8794,7 @@ as,CJS
 the,AT0
 is,VBZ
 shifted,VVN
-The,AT0
+the,AT0
 fighting,NN1
 stance,NN1
 is,VBZ
@@ -8803,7 +8803,7 @@ with,PRP
 weight,NN1
 distributed,VVN
 evenly,AV0
-Note,VVB
+note,VVB
 the,AT0
 low,AJ0
 target,NN1
@@ -8812,7 +8812,7 @@ commensurate,AJ0
 with,PRP
 weapon,NN1
 availability,NN1
-To,TO0
+to,TO0
 move,VVI
 explosively,AV0
 you,PNP
@@ -8828,7 +8828,7 @@ leg,NN1
 muscles,NN2
 under,PRP
 tension,NN1
-The,AT0
+the,AT0
 muscles,NN2
 behave,VVB
 like,PRP
@@ -8847,7 +8847,7 @@ when,CJS
 they,PNP
 are,VBB
 lax,AJ0
-The,AT0
+the,AT0
 length,NN1
 of,PRF
 your,DPS
@@ -8862,7 +8862,7 @@ length,NN1
 of,PRF
 your,DPS
 legs,NN2
-It,PNP
+it,PNP
 must,VM0
 be,VBI
 long,AJ0
@@ -8893,7 +8893,7 @@ thrust,VVI
 forwards,AV0
 without,PRP
 warning,NN1
-Width,NN1
+width,NN1
 of,PRF
 stance,NN1
 is,VBZ
@@ -8914,7 +8914,7 @@ target,NN1
 to,PRP
 the,AT0
 opponent,NN1
-It,PNP
+it,PNP
 used,VM0
 to,TO0
 be,VBI
@@ -8942,7 +8942,7 @@ leading,AJ0
 foot,NN1
 turned,VVD-VVN
 inwards,AV0
-Though,CJS
+though,CJS
 this,DT0
 stance,NN1
 protects,VVZ
@@ -8958,7 +8958,7 @@ to,PRP
 a,AT0
 front,AJ0
 sweep,NN1
-Groin,NN1
+groin,NN1
 kicks,NN2
 are,VBB
 not,XX0
@@ -8975,7 +8975,7 @@ stance,NN1
 has,VHZ
 relaxed,VVN
 somewhat,AV0
-When,CJS
+when,CJS
 deciding,VVG
 how,AVQ
 wide,AJ0
@@ -9003,7 +9003,7 @@ present,VVB
 for,PRP
 the,AT0
 opponent,NN1
-Narrow,VVB
+narrow,VVB
 your,DPS
 stance,NN1
 and,CJC
@@ -9056,7 +9056,7 @@ to,TO0
 remain,VVI
 immediately,AV0
 effective,AJ0
-I,PNP
+i,PNP
 know,VVB
 of,PRF
 some,DT0
@@ -9068,7 +9068,7 @@ a,AT0
 fully,AV0
 straddle,VVB
 stance,NN1
-This,DT0
+this,DT0
 stance,NN1
 has,VHZ
 a,AT0
@@ -9102,9 +9102,9 @@ or,CJC
 the,AT0
 side,NN1
 kick,NN1-VVB
-Do,VDB
+do,VDB
 stand,VVI
-Your,DPS
+your,DPS
 weight,NN1
 rests,VVZ-NN2
 on,PRP
@@ -9123,7 +9123,7 @@ calves,NN2
 are,VBB
 under,PRP
 tension,NN1
-Avoid,VVB
+avoid,VVB
 bouncing,VVG
 up,AVP
 and,CJC
@@ -9147,7 +9147,7 @@ with,PRP
 a,AT0
 strong,AJ0
 attack,NN1
-You,PNP
+you,PNP
 will,VM0
 have,VHI
 no,AT0
@@ -9178,7 +9178,7 @@ for,PRP
 an,AT0
 obvious,AJ0
 score,NN1
-Stance,NN1
+stance,NN1
 width,NN1
 is,VBZ
 an,AT0
@@ -9192,7 +9192,7 @@ produce,VVI
 serious,AJ0
 stability,NN1
 defects,NN2
-Straddle,VVB
+straddle,VVB
 stance,NN1
 has,VHZ
 a,AT0
@@ -9205,7 +9205,7 @@ weapons,NN2
 are,VBB
 seriously,AV0
 restricted,VVN-AJ0
-Your,DPS
+your,DPS
 stance,NN1
 must,VM0
 be,VBI
@@ -9218,7 +9218,7 @@ under,PRP
 a,AT0
 fierce,AJ0
 attack,NN1
-If,CJS
+if,CJS
 it,PNP
 is,VBZ
 too,AV0
@@ -9229,8 +9229,8 @@ be,VBI
 driven,VVN
 off,PRP-AVP
 balance,NN1
-Guard,VVB-NN1
-Carry,VVB
+guard,VVB-NN1
+carry,VVB
 your,DPS
 forward,AJ0-NN1
 guard,NN1-VVB
@@ -9248,7 +9248,7 @@ to,TO0
 cross,VVI
 your,DPS
 own,DT0
-If,CJS
+if,CJS
 you,PNP
 keep,VVB
 your,DPS
@@ -9274,7 +9274,7 @@ a,AT0
 direct,AJ0
 thrusting,AJ0
 action,NN1
-Once,CJS
+once,CJS
 it,PNP
 crosses,VVZ
 the,AT0
@@ -9288,7 +9288,7 @@ as,PRP-CJS
 a,AT0
 back,NN1-AJ0
 fist,NN1
-I,PNP
+i,PNP
 favour,VVB
 a,AT0
 front,AJ0-NN1
@@ -9315,7 +9315,7 @@ attacks,NN2
 closer,AV0
 to,PRP
 source,NN1
-While,CJS
+while,CJS
 short,AJ0-AV0
 fast,AV0
 snap,VVB
@@ -9335,7 +9335,7 @@ will,VM0
 not,XX0
 score,VVI
 them,PNP
-The,AT0
+the,AT0
 rear,AJ0-NN1
 guard,NN1
 hand,NN1
@@ -9363,7 +9363,7 @@ no,AT0
 place,NN1-VVB
 in,PRP
 competition,NN1
-Carry,VVB
+carry,VVB
 the,AT0
 hand,NN1
 far,AV0
@@ -9376,7 +9376,7 @@ as,PRP
 a,AT0
 reverse,AJ0
 punch,NN1
-As,CJS
+as,CJS
 before,AV0
 the,AT0
 rear,AJ0-NN1
@@ -9387,7 +9387,7 @@ never,AV0
 cross,VVI
 the,AT0
 body,NN1
-Even,AV0
+even,AV0
 during,PRP
 flurries,NN2
 of,PRF
@@ -9401,9 +9401,9 @@ respective,AJ0
 sides,NN2
 of,PRF
 the,AT0
-Arm,NN1
+arm,NN1
 movement,NN1
-Economy,NN1
+economy,NN1
 of,PRF
 arm,NN1
 movement,NN1
@@ -9427,7 +9427,7 @@ for,PRP
 an,AT0
 effective,AJ0
 punch,NN1
-Move,VVB
+move,VVB
 your,DPS
 arms,NN2
 as,AV0
@@ -9461,7 +9461,7 @@ rear,NN1
 is,VBZ
 executing,VVG
 a,AT0
-You,PNP
+you,PNP
 simply,AV0
 do,VDB
 not,XX0
@@ -9478,8 +9478,8 @@ beloved,AJ0
 in,PRP
 basic,AJ0
 training,NN1
-Line,NN1-VVB
-This,DT0
+line,NN1-VVB
+this,DT0
 is,VBZ
 of,PRF
 ways,NN2
@@ -9496,7 +9496,7 @@ even,AV0
 knowing,VVG
 about,PRP
 it,PNP
-Your,DPS
+your,DPS
 opponent,NN1
 takes,VVZ
 up,AVP
@@ -9511,7 +9511,7 @@ the,AT0
 left,AJ0
 leg,NN1
 leading,VVG-AJ0
-You,PNP
+you,PNP
 take,VVB
 up,AVP
 a,AT0
@@ -9542,7 +9542,7 @@ front,NN1
 of,PRF
 his,DPS
 left,NN1
-You,PNP
+you,PNP
 are,VBB
 now,AV0
 facing,VVG
@@ -9569,7 +9569,7 @@ to,TO0
 use,VVI
 body,NN1
 weapons,NN2
-Next,ORD
+next,ORD
 move,VVB-NN1
 to,PRP
 your,DPS
@@ -9590,7 +9590,7 @@ the,AT0
 opponent,NN1
 left,AJ0
 foot,NN1
-Finally,AV0
+finally,AV0
 turn,VVB
 your,DPS
 body,NN1
@@ -9602,7 +9602,7 @@ face,VVB
 the,AT0
 opponent,NN1
 directly,AV0
-While,CJS
+while,CJS
 you,PNP
 can,VM0
 still,AV0
@@ -9635,7 +9635,7 @@ twisting,AJ0-VVG
 to,TO0
 face,VVI
 you,PNP
-Move,VVB
+move,VVB
 slightly,AV0
 to,PRP
 the,AT0
@@ -9644,7 +9644,7 @@ and,CJC
 turn,VVB
 your,DPS
 body,NN1
-Notice,VVB
+notice,VVB
 that,CJT
 the,AT0
 opponent,NN1
@@ -9654,7 +9654,7 @@ longer,AV0
 facing,VVG
 you,PNP
 directly,AV0
-If,CJS
+if,CJS
 you,PNP
 step,VVB
 too,AV0
@@ -9675,7 +9675,7 @@ twist,VVB-NN1
 to,TO0
 face,VVI
 you,PNP
-Line,NN1-VVB
+line,NN1-VVB
 like,PRP
 stance,NN1
 is,VBZ
@@ -9703,7 +9703,7 @@ reduce,VVI
 the,AT0
 opponent,NN1
 opportunities,NN2
-Although,CJS
+although,CJS
 this,DT0
 may,VM0
 sound,VVI
@@ -9719,9 +9719,9 @@ work,VVI
 out,AVP
 your,DPS
 positioning,NN1
-Using,VVG
+using,VVG
 your,DPS
-If,CJS
+if,CJS
 you,PNP
 do,VDB
 turn,VVI
@@ -9744,7 +9744,7 @@ you,PNP
 at,PRP
 a,AT0
 disadvantage,NN1
-You,PNP
+you,PNP
 must,VM0
 always,AV0
 stand,VVI
@@ -9777,7 +9777,7 @@ opponent,NN1
 at,PRP
 a,AT0
 disadvantage,NN1
-For,PRP
+for,PRP
 example,NN1
 consider,VVB
 the,AT0
@@ -9788,7 +9788,7 @@ to,PRP
 the,AT0
 front,AJ0-NN1
 kick,NN1
-In,PRP
+in,PRP
 the,AT0
 first,ORD
 photograph,NN1
@@ -9808,7 +9808,7 @@ to,PRP
 the,AT0
 incoming,AJ0
 technique,NN1
-The,AT0
+the,AT0
 purpose,NN1
 of,PRF
 this,DT0
@@ -9819,7 +9819,7 @@ a,AT0
 more,AV0
 effective,AJ0
 deflection,NN1
-But,CJC
+but,CJC
 notice,VVB
 that,CJT
 in,PRP
@@ -9845,7 +9845,7 @@ can,VM0
 do,VDI
 to,TO0
 score,VVI
-Compare,VVB
+compare,VVB
 this,DT0
 with,PRP
 the,AT0
@@ -9863,7 +9863,7 @@ turn,VVI
 the,AT0
 body,NN1
 away,AV0
-It,PNP
+it,PNP
 is,VBZ
 the,AT0
 attacker,NN1
@@ -9879,7 +9879,7 @@ forwards,AV0
 and,CJC
 fully,AV0
 effective,AJ0
-Consider,VVB
+consider,VVB
 also,AV0
 the,AT0
 scenario,NN1
@@ -9889,7 +9889,7 @@ have,VHB
 been,VBN
 strongly,AV0
 attacked,VVN
-You,PNP
+you,PNP
 turn,VVB
 away,AV0
 from,PRP
@@ -9907,7 +9907,7 @@ a,AT0
 strong,AJ0
 scoring,VVG
 counterattack,NN1
-You,PNP
+you,PNP
 can,VM0
 use,VVI
 a,AT0
@@ -9934,7 +9934,7 @@ you,PNP
 can,VM0
 launch,VVI
 it,PNP
-Compare,VVB
+compare,VVB
 this,DT0
 with,PRP
 the,AT0
@@ -9967,7 +9967,7 @@ lull,NN1
 in,PRP
 the,AT0
 attack,NN1
-In,PRP
+in,PRP
 both,DT0
 of,PRF
 these,DT0
@@ -9987,7 +9987,7 @@ left,VVD-VVN
 your,DPS
 options,NN2
 open,AJ0
-Do,VDB
+do,VDB
 not,XX0
 turn,VVI
 your,DPS
@@ -10003,15 +10003,15 @@ and,CJC
 weakens,VVZ
 the,AT0
 attack,NN1
-Withdraw,VVB
+withdraw,VVB
 but,CJC
 keep,VVB
 your,DPS
 hips,NN2
-Line,NN1-VVB
+line,NN1-VVB
 and,CJC
 together,AV0
-It,PNP
+it,PNP
 is,VBZ
 now,AV0
 time,NN1
@@ -10031,7 +10031,7 @@ your,DPS
 partner,NN1
 launch,NN1-VVB
 attacks,NN2
-Respond,VVB
+respond,VVB
 by,PRP
 moving,VVG
 into,PRP
@@ -10045,7 +10045,7 @@ diagonals,NN2
 available,AJ0
 to,PRP
 you,PNP
-Keep,VVB
+keep,VVB
 positioning,VVG
 yourself,PNX
 in,PRP
@@ -10059,7 +10059,7 @@ own,DT0
 towards,PRP
 the,AT0
 opponent,NN1
-Disguise,VVB
+disguise,VVB
 your,DPS
 changes,NN2
 in,PRP
@@ -10081,7 +10081,7 @@ exchanged,VVN
 for,PRP
 the,AT0
 other,NN1
-Elite,NN1-AJ0
+elite,NN1-AJ0
 performers,NN2
 often,AV0
 launch,VVB
@@ -10109,7 +10109,7 @@ your,DPS
 distance,NN1
 from,PRP
 him,PNP
-However,AV0
+however,AV0
 do,VDB
 make,VVI
 too,AV0
@@ -10138,7 +10138,7 @@ middle,NN1
 of,PRF
 a,AT0
 change,NN1
-Turning,VVG
+turning,VVG
 away,AV0
 under,PRP
 a,AT0
@@ -10150,7 +10150,7 @@ sure,AJ0
 recipe,NN1
 for,PRP
 defeat,NN1
-There,EX0
+there,EX0
 are,VBB
 occasions,NN2
 during,PRP
@@ -10172,7 +10172,7 @@ to,PRP
 a,AT0
 particular,AJ0
 technique,NN1
-Sudden,AJ0
+sudden,AJ0
 and,CJC
 abrupt,AJ0
 changes,NN2
@@ -10192,7 +10192,7 @@ routines,NN2
 to,TO0
 achieve,VVI
 this,DT0
-For,PRP
+for,PRP
 example,NN1
 you,PNP
 could,VM0
@@ -10219,7 +10219,7 @@ in,PRP
 a,AT0
 shallow,AJ0
 movement,NN1
-This,DT0
+this,DT0
 means,VVZ
 that,CJT
 you,PNP
@@ -10233,7 +10233,7 @@ your,DPS
 as,CJS
 you,PNP
 move,VVB
-Practise,VVB
+practise,VVB
 this,DT0
 also,AV0
 in,PRP
@@ -10251,21 +10251,21 @@ out,AVP
 of,PRF
 line,NN1
 a,ZZ0
-Slide,VVB
+slide,VVB
 your,DPS
 front,AJ0-NN1
 foot,NN1
 diagonally,AV0
 forwards,AV0
 b,ZZ0
-Bring,VVB
+bring,VVB
 the,AT0
 rear,AJ0-NN1
 foot,NN1
 to,PRP
 it,PNP
 c,ZZ0
-Then,AV0
+then,AV0
 step,VVB
 out,AVP
 throwing,VVG
@@ -10274,7 +10274,7 @@ punch,NN1
 as,CJS
 you,PNP
 go,VVB
-Practise,VVB
+practise,VVB
 stepping,VVG
 quickly,AV0
 from,PRP
@@ -10295,7 +10295,7 @@ separates,VVZ
 your,DPS
 leading,AJ0
 guards,NN2
-This,DT0
+this,DT0
 means,VVZ
 that,CJT
 the,AT0
@@ -10317,7 +10317,7 @@ you,PNP
 well,AV0
 in,PRP
 advance,NN1
-If,CJS
+if,CJS
 you,PNP
 allow,VVB
 the,AT0
@@ -10345,8 +10345,8 @@ quick,AJ0
 with,PRP
 your,DPS
 responses,NN2
-Disguise,VVB-NN1
-Disguise,VVB
+disguise,VVB-NN1
+disguise,VVB
 your,DPS
 steps,NN2
 with,PRP
@@ -10362,7 +10362,7 @@ divert,VVB
 his,DPS
 attention,NN1
 elsewhere,AV0
-Fast,AV0-AJ0
+fast,AV0-AJ0
 jabs,VVZ-NN2
 to,PRP
 the,AT0
@@ -10386,7 +10386,7 @@ throw,VVI
 back,AVP
 his,DPS
 head,NN1
-Circular,AJ0
+circular,AJ0
 techniques,NN2
 do,VDB
 not,XX0
@@ -10402,7 +10402,7 @@ effective,AJ0
 at,PRP
 disguising,VVG
 a,AT0
-However,AV0
+however,AV0
 even,AV0
 with,PRP
 straight,AV0-AJ0
@@ -10415,7 +10415,7 @@ the,AT0
 technique,NN1
 looks,VVZ
 effective,AJ0
-An,AT0
+an,AT0
 obvious,AJ0
 feint,NN1
 or,CJC
@@ -10436,7 +10436,7 @@ succeed,VVI
 in,PRP-AVP
 diverting,VVG
 it,PNP
-A,AT0
+a,AT0
 straight,AJ0
 punch,NN1-VVB
 into,PRP
@@ -10445,8 +10445,8 @@ face,NN1
 disguises,VVZ
 your,DPS
 intent,NN1
-Timing,NN1
-Practise,VVB
+timing,NN1
+practise,VVB
 timing,NN1
 always,AV0
 aiming,VVG
@@ -10474,7 +10474,7 @@ into,PRP
 a,AT0
 full,AJ0
 point,NN1
-The,AT0
+the,AT0
 earlier,AJC
 you,PNP
 intercept,VVB
@@ -10495,7 +10495,7 @@ leeway,NN1
 open,AJ0
 to,PRP
 you,PNP
-Alternatively,AV0
+alternatively,AV0
 wait,VVB
 until,CJS-PRP
 the,AT0
@@ -10507,7 +10507,7 @@ and,CJC
 is,VBZ
 being,VBG
 withdrawn,VVN
-This,DT0
+this,DT0
 is,VBZ
 also,AV0
 a,AT0
@@ -10519,7 +10519,7 @@ you,PNP
 can,VM0
 profitably,AV0
 respond,VVI
-You,PNP
+you,PNP
 can,VM0
 sometimes,AV0
 discover,VVI
@@ -10539,7 +10539,7 @@ sudden,AJ0
 move,NN1
 towards,PRP
 him,PNP
-He,PNP
+he,PNP
 will,VM0
 either,AV0
 come,VVI
@@ -10556,7 +10556,7 @@ punch,VVI
 or,CJC
 back,VVB-NN1
 off,AVP
-It,PNP
+it,PNP
 is,VBZ
 useful,AJ0
 to,TO0
@@ -10577,7 +10577,7 @@ way,NN1
 of,PRF
 finding,VVG
 out,AVP
-We,PNP
+we,PNP
 will,VM0
 explore,VVI
 this,DT0
@@ -10588,7 +10588,7 @@ chapter,NN1
 dealing,VVG
 with,PRP
 tactics,NN2
-Deliver,VVB
+deliver,VVB
 your,DPS
 attack,NN1
 even,AV0
@@ -10597,14 +10597,14 @@ the,AT0
 opponent,NN1
 begins,VVZ
 his,DPS
-BLOCKS,NN2
-AND,CJC
-DEFLECTIONS,NN2
-In,PRP
+blocks,NN2
+and,CJC
+deflections,NN2
+in,PRP
 the,AT0
 last,ORD
 chapter,NN1
-I,PNP
+i,PNP
 outlined,VVD
 certain,AJ0
 similarities,NN2
@@ -10613,7 +10613,7 @@ karate,NN1
 competition,NN1
 and,CJC
 boxing,NN1
-I,PNP
+i,PNP
 would,VM0
 now,AV0
 like,VVI
@@ -10648,7 +10648,7 @@ they,PNP
 have,VHB
 in,PRP
 boxing,NN1
-This,DT0
+this,DT0
 is,VBZ
 not,XX0
 to,TO0
@@ -10667,8 +10667,8 @@ counter,VVB-NN1
 because,CJS
 you,PNP
 will,VM0
-What,DTQ
-I,PNP
+what,DTQ
+i,PNP
 mean,VVB
 is,VBZ
 that,CJT
@@ -10687,7 +10687,7 @@ of,PRF
 block,NN1
 followed,VVN
 by,PRP
-The,AT0
+the,AT0
 speed,NN1
 of,PRF
 élite,NN1-AJ0
@@ -10713,7 +10713,7 @@ very,AV0
 soon,AV0
 after,PRP
 it,PNP
-Attack,VVB
+attack,VVB
 the,AT0
 opponent,NN1
 open,AJ0
@@ -10726,7 +10726,7 @@ targets,NN2
 to,TO0
 aim,VVI
 for,CJS
-Before,PRP
+before,PRP
 going,VVG
 on,AVP
 to,TO0
@@ -10740,13 +10740,13 @@ one,PNI-CRD
 might,VM0
 nevertheless,AV0
 use,VVI
-I,PNP
+i,PNP
 want,VVB
 to,TO0
 briefly,AV0
 explain,VVI
 what,DTQ
-I,PNP
+i,PNP
 mean,VVB
 by,PRP
 the,AT0
@@ -10775,7 +10775,7 @@ leg,NN1
 and,CJC
 fist,NN1-VVB
 leading,VVG-AJ0
-His,DPS
+his,DPS
 closed,AJ0
 side,NN1
 lies,VVZ-NN2
@@ -10787,7 +10787,7 @@ you,PNP
 look,VVB
 at,PRP
 him,PNP
-There,EX0
+there,EX0
 is,VBZ
 little,DT0
 target,NN1-VVB
@@ -10809,7 +10809,7 @@ near,AJ0
 to,PRP
 the,AT0
 ribs,NN2
-The,AT0
+the,AT0
 leading,AJ0
 shoulder,NN1
 protects,VVZ
@@ -10825,7 +10825,7 @@ loop,VVI
 high,AJ0-AV0
 over,PRP
 it,PNP
-The,AT0
+the,AT0
 opponent,NN1
 open,AJ0
 side,NN1
@@ -10837,7 +10837,7 @@ as,CJS
 you,PNP
 view,VVB
 him,PNP
-Here,AV0
+here,AV0
 the,AT0
 right,AJ0-NN1
 guard,NN1-VVB
@@ -10854,7 +10854,7 @@ the,AT0
 body,NN1
 and,CJC
 head,NN1-VVB
-Stepping,VVG
+stepping,VVG
 towards,PRP
 the,AT0
 opponent,NN1
@@ -10873,7 +10873,7 @@ an,AT0
 immediate,AJ0
 effective,AJ0
 counter,NN1
-Stepping,VVG
+stepping,VVG
 to,PRP
 the,AT0
 open,AJ0
@@ -10889,7 +10889,7 @@ the,AT0
 opponent,NN1
 opportunities,NN2
 too,AV0
-Remember,VVB
+remember,VVB
 that,CJT
 blocks,NN2
 do,VDB
@@ -10909,7 +10909,7 @@ or,CJC
 strike,NN1-VVB
 is,VBZ
 essential,AJ0
-Underline,VVB
+underline,VVB
 the,AT0
 by,PRP
 means,NN0
@@ -10931,7 +10931,7 @@ effort,NN1
 in,PRP
 the,AT0
 technique,NN1
-This,DT0
+this,DT0
 is,VBZ
 an,AT0
 important,AJ0
@@ -10952,7 +10952,7 @@ delivered,VVN
 without,PRP
 a,AT0
 shout,NN1
-On,PRP
+on,PRP
 the,AT0
 other,AJ0
 hand,NN1
@@ -10982,9 +10982,9 @@ miss,VVB
 an,AT0
 actual,AJ0
 score,NN1
-Slapping,AJ0-VVG
+slapping,AJ0-VVG
 blocks,NN2
-The,AT0
+the,AT0
 first,ORD
 of,PRF
 the,AT0
@@ -11003,7 +11003,7 @@ are,VBB
 the,AT0
 slapping,AJ0
 blocks,NN2
-These,DT0
+these,DT0
 use,VVB
 the,AT0
 cupped,AJ0
@@ -11021,7 +11021,7 @@ down,AVP
 or,CJC
 to,PRP
 side,NN1
-The,AT0
+the,AT0
 following,AJ0
 is,VBZ
 a,AT0
@@ -11034,7 +11034,7 @@ block,NN1
 might,VM0
 be,VBI
 applied,VVN
-Your,DPS
+your,DPS
 opponent,NN1
 throws,VVZ
 a,AT0
@@ -11055,7 +11055,7 @@ your,DPS
 body,NN1
 from,PRP
 danger,NN1
-Your,DPS
+your,DPS
 leading,AJ0
 hand,NN1
 slaps,VVZ
@@ -11075,7 +11075,7 @@ into,PRP
 the,AT0
 opponent,NN1
 face,NN1
-Being,VBG
+being,VBG
 a,AT0
 combination,NN1
 this,DT0
@@ -11091,7 +11091,7 @@ face,NN1
 punch,NN1-VVB
 which,DTQ
 as,CJS
-I,PNP
+i,PNP
 said,VVD
 earlier,AV0
 is,VBZ
@@ -11101,7 +11101,7 @@ overlooked,VVN
 by,PRP
 the,AT0
 referee,NN1
-Sometimes,AV0
+sometimes,AV0
 the,AT0
 alert,AJ0
 referee,NN1
@@ -11117,7 +11117,7 @@ though,CJS
 this,DT0
 is,VBZ
 rare,AJ0
-Slide,VVB
+slide,VVB
 back,AVP
 into,PRP
 cat,NN1
@@ -11132,7 +11132,7 @@ at,PRP
 the,AT0
 same,DT0
 time,NN1
-A,AT0
+a,AT0
 few,DT0
 points,NN2
 need,VVB
@@ -11146,7 +11146,7 @@ trying,VVG
 out,AVP
 this,DT0
 sequence,NN1
-The,AT0
+the,AT0
 first,ORD
 is,VBZ
 that,CJT
@@ -11160,7 +11160,7 @@ by,PRP
 the,AT0
 smallest,AJS
 amount,NN1
-Pull,VVB
+pull,VVB
 back,AVP
 too,AV0
 far,AJ0-AV0
@@ -11173,7 +11173,7 @@ also,AV0
 falling,VVG
 well,AV0
 short,AJ0
-The,AT0
+the,AT0
 second,ORD
 point,NN1
 is,VBZ
@@ -11205,7 +11205,7 @@ about,AVP-PRP
 here,AV0
 not,XX0
 one,PNI
-The,AT0
+the,AT0
 third,ORD
 point,NN1
 is,VBZ
@@ -11228,7 +11228,7 @@ your,DPS
 action,NN1
 too,AV0
 pronounced,AJ0
-The,AT0
+the,AT0
 slapping,AJ0
 block,NN1
 can,VM0
@@ -11257,7 +11257,7 @@ act,VVI
 as,PRP
 a,AT0
 guard,NN1
-Remember,VVB
+remember,VVB
 to,TO0
 keep,VVI
 your,DPS
@@ -11275,7 +11275,7 @@ away,AV0
 from,PRP
 the,AT0
 opponent,NN1
-Rock,VVB-NN1
+rock,VVB-NN1
 back,AVP
 into,PRP
 a,AT0
@@ -11293,7 +11293,7 @@ with,PRP
 your,DPS
 leading,AJ0
 hand,NN1
-Finish,VVB-NN1
+finish,VVB-NN1
 with,PRP
 a,AT0
 thrust,NN1
@@ -11312,9 +11312,9 @@ happen,VVB
 smoothly,AV0
 and,CJC
 quickly,AV0
-In,PRP
+in,PRP
 theory,NN1
-I,PNP
+i,PNP
 have,VHB
 never,AV0
 seen,VVN
@@ -11338,7 +11338,7 @@ a,AT0
 reverse,AJ0
 punch,NN1
 a,ZZ0
-Rock,VVB-NN1
+rock,VVB-NN1
 back,AVP
 into,PRP
 cat,NN1
@@ -11350,7 +11350,7 @@ punch,NN1
 to,PRP
 side,NN1
 b,ZZ0
-Use,VVB
+use,VVB
 the,AT0
 blocking,AJ0-NN1
 hand,NN1
@@ -11358,7 +11358,7 @@ to,TO0
 deliver,VVI
 a,AT0
 c,ZZ0
-Thrust,VVB
+thrust,VVB
 forwards,AV0
 and,CJC
 reverse,AJ0
@@ -11366,9 +11366,9 @@ punch,NN1-VVB
 to,PRP
 the,AT0
 opponent,NN1
-Scooping,VVG-AJ0
+scooping,VVG-AJ0
 block,NN1
-Since,CJS
+since,CJS
 we,PNP
 discussed,VVD
 the,AT0
@@ -11385,7 +11385,7 @@ recap,NN1
 is,VBZ
 necessary,AJ0
 here,AV0
-The,AT0
+the,AT0
 opponent,NN1
 throws,VVZ
 a,AT0
@@ -11399,7 +11399,7 @@ into,PRP
 a,AT0
 cat,NN1
 stance,NN1
-Your,DPS
+your,DPS
 leading,AJ0
 guard,NN1
 hand,NN1
@@ -11407,7 +11407,7 @@ curls,NN2
 under,PRP
 the,AT0
 opponent,NN1
-Achilles,NN1
+achilles,NN1
 tendon,NN1
 and,CJC
 draws,VVZ
@@ -11420,7 +11420,7 @@ and,CJC
 to,PRP
 the,AT0
 side,NN1
-The,AT0
+the,AT0
 drawing,NN1
 movement,NN1
 is,VBZ
@@ -11442,7 +11442,7 @@ to,TO0
 fall,VVI
 heavily,AV0
 forwards,AV0
-The,AT0
+the,AT0
 deflection,NN1
 is,VBZ
 intended,VVN
@@ -11466,7 +11466,7 @@ back,NN1-AJ0
 fist,NN1
 or,CJC
 suchlike,AJ0
-Do,VDB
+do,VDB
 not,XX0
 deflect,VVI
 the,AT0
@@ -11494,7 +11494,7 @@ by,PRP
 the,AT0
 fall,NN1
 forward,AV0
-If,CJS
+if,CJS
 you,PNP
 are,VBB
 liable,AJ0
@@ -11527,7 +11527,7 @@ closed,AJ0
 side,NN1
 towards,PRP
 you,PNP
-Then,AV0
+then,AV0
 finish,VVB
 with,PRP
 a,AT0
@@ -11537,7 +11537,7 @@ into,PRP
 the,AT0
 opponent,NN1
 head,NN1
-The,AT0
+the,AT0
 object,NN1
 is,VBZ
 always,AV0
@@ -11556,7 +11556,7 @@ his,DPS
 away,AV0
 from,PRP
 you,PNP
-Follow,VVB
+follow,VVB
 the,AT0
 opponent,NN1
 shape,NN1
@@ -11580,7 +11580,7 @@ still,AV0
 remains,VVZ
 potentially,AV0
 dangerous,AJ0
-Scoop,VVB
+scoop,VVB
 the,AT0
 opponent,NN1
 front,AJ0
@@ -11594,7 +11594,7 @@ to,TO0
 break,VVI
 his,DPS
 balance,NN1
-If,CJS
+if,CJS
 you,PNP
 are,VBB
 likely,AJ0
@@ -11613,7 +11613,7 @@ you,PNP
 twist,VVB
 him,PNP
 away,AV0
-A,AT0
+a,AT0
 front,AJ0
 kick,NN1
 can,VM0
@@ -11627,7 +11627,7 @@ back,AVP
 on,PRP
 the,AT0
 diagonal,AJ0
-Face,VVB
+face,VVB
 the,AT0
 opponent,NN1
 in,PRP
@@ -11648,7 +11648,7 @@ left,AJ0-NN1
 and,CJC
 vice,UNC
 versa,UNC
-As,CJS
+as,CJS
 he,PNP
 kicks,VVZ
 slide,VVB
@@ -11674,7 +11674,7 @@ not,XX0
 become,VVI
 too,AV0
 long,AJ0
-Do,VDB
+do,VDB
 not,XX0
 turn,VVI
 your,DPS
@@ -11699,7 +11699,7 @@ and,CJC
 draw,VVI
 him,PNP
 out,AVP
-It,PNP
+it,PNP
 does,VDZ
 really,AV0
 matter,VVI
@@ -11728,7 +11728,7 @@ turning,VVG
 to,TO0
 face,VVI
 him,PNP
-This,DT0
+this,DT0
 puts,VVZ
 you,PNP
 in,PRP-AVP
@@ -11736,7 +11736,7 @@ a,AT0
 strong,AJ0
 position,NN1
 to,PRP
-Move,VVB
+move,VVB
 diagonally,AV0
 back,AVP
 and,CJC
@@ -11750,9 +11750,9 @@ a,AT0
 reverse,AJ0-NN1
 scooping,AJ0-NN1
 block,NN1
-Advancing,AJ0
+advancing,AJ0
 blocks,NN2
-The,AT0
+the,AT0
 blocks,NN2
 which,DTQ
 we,PNP
@@ -11769,7 +11769,7 @@ coupled,VVN
 with,PRP
 withdrawal,NN1
 actions,NN2
-But,CJC
+but,CJC
 this,DT0
 is,VBZ
 not,XX0
@@ -11781,7 +11781,7 @@ deal,VVI
 with,PRP
 an,AT0
 attack,NN1
-Dramatic,AJ0
+dramatic,AJ0
 results,NN2
 are,VBB
 obtained,VVN
@@ -11797,7 +11797,7 @@ just,AV0
 as,CJS
 he,PNP
 attacks,VVZ
-If,CJS
+if,CJS
 you,PNP
 have,VHB
 a,AT0
@@ -11825,7 +11825,7 @@ twisting,VVG
 to,TO0
 face,VVI
 him,PNP
-Thus,AV0
+thus,AV0
 the,AT0
 advance,NN1
 is,VBZ
@@ -11838,7 +11838,7 @@ discerning,VVG
 the,AT0
 opponent,NN1
 attack,NN1
-However,AV0
+however,AV0
 those,DT0
 of,PRF
 a,AT0
@@ -11860,7 +11860,7 @@ combination,NN1
 block,NN1
 and,CJC
 counter,NN1-VVB
-Actually,AV0
+actually,AV0
 providing,VVG
 your,DPS
 timing,NN1
@@ -11889,9 +11889,9 @@ is,VBZ
 at,PRP
 its,DPS
 weakest,AJS
-Reverse,AJ0
+reverse,AJ0
 block,NN1
-For,PRP
+for,PRP
 this,DT0
 type,NN1
 of,PRF
@@ -11915,7 +11915,7 @@ the,AT0
 opponent,NN1
 front,AJ0
 kick,NN1
-Try,VVB
+try,VVB
 to,TO0
 scoop,VVI
 the,AT0
@@ -11926,7 +11926,7 @@ your,DPS
 rear,AJ0-NN1
 guard,NN1
 hand,NN1
-If,CJS
+if,CJS
 this,DT0
 succeeds,VVZ
 then,AV0
@@ -11946,7 +11946,7 @@ the,AT0
 opponent,NN1
 opposite,AJ0
 shoulder,NN1
-This,DT0
+this,DT0
 corkscrews,NN2
 the,AT0
 opponent,NN1
@@ -11961,12 +11961,12 @@ him,PNP
 on,PRP
 the,AT0
 mat,NN1
-Finish,VVB-NN1
+finish,VVB-NN1
 with,PRP
 a,AT0
 reverse,AJ0
 punch,NN1
-Slide,VVB-NN1
+slide,VVB-NN1
 diagonally,AV0
 forwards,AV0
 catching,VVG
@@ -11979,7 +11979,7 @@ your,DPS
 rear,AJ0-NN1
 guard,NN1
 hand,NN1
-Thrust,VVB
+thrust,VVB
 against,PRP
 the,AT0
 opponent,NN1
@@ -11987,14 +11987,14 @@ chest,NN1
 to,TO0
 unbalance,VVI
 him,PNP
-Alternatively,AV0
+alternatively,AV0
 knock,VVB
 his,DPS
 kick,NN1
 to,PRP
 side,NN1
 and,CJC
-If,CJS
+if,CJS
 you,PNP
 do,VDB
 succeed,VVI
@@ -12018,7 +12018,7 @@ with,PRP
 the,AT0
 other,AJ0
 hand,NN1
-The,AT0
+the,AT0
 third,ORD
 example,NN1
 uses,VVZ
@@ -12042,7 +12042,7 @@ opponent,NN1
 incoming,AJ0
 reverse,AJ0-NN1
 punch,NN1
-Use,VVB
+use,VVB
 a,AT0
 long,AJ0-AV0
 thrusting,AJ0-VVG
@@ -12065,7 +12065,7 @@ with,PRP
 a,AT0
 reverse,AJ0
 punch,NN1
-If,CJS
+if,CJS
 the,AT0
 opponent,NN1
 attack,NN1
@@ -12094,7 +12094,7 @@ into,PRP
 the,AT0
 target,NN1
 a,ZZ0
-Step,VVB-NN1
+step,VVB-NN1
 diagonally,AV0
 forwards,AV0
 catching,VVG
@@ -12107,16 +12107,16 @@ your,DPS
 leading,AJ0
 forearm,NN1
 b,ZZ0
-Continue,VVB
+continue,VVB
 your,DPS
 fist,NN1
 into,PRP
 the,AT0
 opponent,NN1
 face,NN1
-Blocking,AJ0-NN1
-Kicks,NN2
-Of,PRF
+blocking,AJ0-NN1
+kicks,NN2
+of,PRF
 all,DT0
 the,AT0
 kicks,NN2
@@ -12140,7 +12140,7 @@ ways,NN2
 of,PRF
 disguising,VVG
 this,DT0
-If,CJS
+if,CJS
 your,DPS
 opponent,NN1
 attempts,VVZ
@@ -12170,7 +12170,7 @@ hips,NN2
 begin,VVB
 to,TO0
 rotate,VVI
-Then,AV0
+then,AV0
 turn,VVB
 your,DPS
 hips,NN2
@@ -12197,7 +12197,7 @@ to,PRP
 its,DPS
 full,AJ0
 height,NN1
-The,AT0
+the,AT0
 effect,NN1
 of,PRF
 this,DT0
@@ -12214,7 +12214,7 @@ you,PNP
 a,AT0
 full,AJ0
 point,NN1
-It,PNP
+it,PNP
 is,VBZ
 also,AV0
 possible,AJ0
@@ -12241,7 +12241,7 @@ leave,VVB
 it,PNP
 too,AV0
 late,AJ0-AV0
-Thrust,VVB
+thrust,VVB
 forwards,AV0
 strongly,AV0
 as,CJS
@@ -12258,7 +12258,7 @@ kicking,AJ0-NN1
 knee,NN1
 moves,VVZ
 forward,AV0
-Bring,VVB
+bring,VVB
 your,DPS
 leading,AJ0
 hand,NN1
@@ -12274,7 +12274,7 @@ punch,NN1-VVB
 to,PRP
 your,DPS
 opponent,NN1
-There,EX0
+there,EX0
 are,VBB
 main,AJ0
 requirements,NN2
@@ -12282,7 +12282,7 @@ for,PRP
 these,DT0
 last,ORD
 techniques,NN2
-The,AT0
+the,AT0
 first,ORD
 is,VBZ
 that,CJT
@@ -12310,7 +12310,7 @@ wo,VM0
 kick,VVI
 at,PRP
 all,DT0
-Conversely,AV0
+conversely,AV0
 you,PNP
 should,VM0
 be,VBI
@@ -12324,7 +12324,7 @@ not,XX0
 close,VVI
 quickly,AV0
 enough,AV0
-This,DT0
+this,DT0
 may,VM0
 prove,VVI
 difficult,AJ0
@@ -12336,7 +12336,7 @@ much,AV0
 taller,AJC
 than,CJS
 you,PNP
-The,AT0
+the,AT0
 second,ORD
 requirement,NN1
 is,VBZ
@@ -12344,7 +12344,7 @@ that,DT0
 of,PRF
 good,AJ0
 timing,NN1
-Some,DT0
+some,DT0
 competitors,NN2
 just,AV0
 are,VBB
@@ -12362,7 +12362,7 @@ of,PRF
 thrusting,VVG-AJ0
 in,AVP-PRP
 strongly,AV0
-Either,DT0
+either,DT0
 of,PRF
 these,DT0
 faults,NN2
@@ -12389,7 +12389,7 @@ or,CJC
 groin,NN1
 suffer,VVB
 accordingly,AV0
-Move,VVB
+move,VVB
 directly,AV0
 into,PRP
 a,AT0
@@ -12398,7 +12398,7 @@ roundhouse,NN1
 kick,NN1-VVB
 and,CJC
 it,PNP
-Stop,VVB
+stop,VVB
 a,AT0
 front,AJ0
 kick,NN1
@@ -12414,9 +12414,9 @@ to,PRP
 the,AT0
 opponent,NN1
 chest,NN1
-Forearm,VVB-NN1
+forearm,VVB-NN1
 blocks,NN2
-Although,CJS
+although,CJS
 rarely,AV0
 used,VVN-VVD
 there,EX0
@@ -12432,7 +12432,7 @@ prove,VVI
 effective,AJ0
 in,PRP
 competition,NN1
-I,PNP
+i,PNP
 say,VVB
 modified,AJ0-VVN
 because,CJS
@@ -12445,7 +12445,7 @@ as,PRP
 attacks,NN2-VVZ
 in,PRP
 themselves,PNX
-Thus,AV0
+thus,AV0
 whereas,CJS
 a,AT0
 basic,AJ0
@@ -12463,7 +12463,7 @@ version,NN1
 deflects,VVZ
 the,AT0
 opponent,NN1
-To,TO0
+to,TO0
 perform,VVI
 this,DT0
 version,NN1
@@ -12475,7 +12475,7 @@ stance,NN1
 to,PRP
 the,AT0
 opponent,NN1
-Then,AV0
+then,AV0
 thrust,VVB
 off,AVP-PRP
 your,DPS
@@ -12490,7 +12490,7 @@ the,AT0
 opponent,NN1
 leading,AJ0
 guard,NN1
-The,AT0
+the,AT0
 direction,NN1
 of,PRF
 your,DPS
@@ -12505,7 +12505,7 @@ towards,PRP
 his,DPS
 guard,NN1
 hand,NN1
-This,DT0
+this,DT0
 closes,VVZ
 the,AT0
 opponent,NN1
@@ -12525,7 +12525,7 @@ into,PRP
 the,AT0
 opponent,NN1
 face,NN1
-Do,VDB
+do,VDB
 not,XX0
 allow,VVI
 your,DPS
@@ -12545,7 +12545,7 @@ and,CJC
 any,DT0
 slowed,VVD-VVN
 down,AVP
-Notice,VVB
+notice,VVB
 that,CJT
 the,AT0
 blocking,AJ0-NN1
@@ -12556,7 +12556,7 @@ pulled,VVN
 into,PRP
 a,AT0
 fist,NN1
-Instead,AV0
+instead,AV0
 it,PNP
 is,VBZ
 turned,VVN
@@ -12569,7 +12569,7 @@ opponent,NN1
 leading,AJ0
 guard,NN1
 hand,NN1
-This,DT0
+this,DT0
 hooking,AJ0-NN1
 action,NN1
 is,VBZ
@@ -12594,7 +12594,7 @@ for,PRP
 a,AT0
 longer,AJC
 period,NN1
-Use,VVB
+use,VVB
 any,DT0
 opportunity,NN1
 to,TO0
@@ -12633,7 +12633,7 @@ a,AT0
 powerful,AJ0
 scoring,NN1
 punch,NN1-VVB
-It,PNP
+it,PNP
 is,VBZ
 possible,AJ0
 to,TO0
@@ -12660,7 +12660,7 @@ nerve,NN1
 and,CJC
 good,AJ0
 timing,NN1
-Begin,VVB
+begin,VVB
 from,PRP
 the,AT0
 opposite,AJ0
@@ -12670,7 +12670,7 @@ advance,VVB-NN1
 into,PRP
 the,AT0
 opponent,NN1
-Thrust,VVB
+thrust,VVB
 your,DPS
 hooked,AJ0
 forearm,NN1
@@ -12682,7 +12682,7 @@ guard,NN1-VVB
 closing,VVG
 him,PNP
 off,AVP
-To,TO0
+to,TO0
 do,VDI
 this,DT0
 you,PNP
@@ -12711,7 +12711,7 @@ centre,NN1
 of,PRF
 gravity,NN1
 drops,NN2-VVZ
-If,CJS
+if,CJS
 the,AT0
 action,NN1
 is,VBZ
@@ -12737,7 +12737,7 @@ a,AT0
 fast,AJ0
 rising,AJ0-NN1
 block,NN1
-As,CJS
+as,CJS
 well,AV0
 as,CJS
 dealing,VVG
@@ -12762,7 +12762,7 @@ on,PRP
 the,AT0
 attacking,AJ0
 arm,NN1
-Do,VDB
+do,VDB
 not,XX0
 lean,VVI
 forwards,AV0
@@ -12781,7 +12781,7 @@ the,AT0
 opponent,NN1
 other,AJ0
 fist,NN1
-There,EX0
+there,EX0
 is,VBZ
 no,AT0
 need,NN1
@@ -12803,7 +12803,7 @@ enough,DT0
 time,NN1
 to,PRP
 anyway,AV0
-The,AT0
+the,AT0
 main,AJ0
 thing,NN1
 is,VBZ
@@ -12826,7 +12826,7 @@ with,PRP
 plenty,PNI
 of,PRF
 power,NN1
-Simply,AV0
+simply,AV0
 rock,VVB-NN1
 forwards,AV0
 on,AVP
@@ -12837,8 +12837,8 @@ knee,NN1
 to,TO0
 achieve,VVI
 this,DT0
-Summary,NN1
-The,AT0
+summary,NN1
+the,AT0
 following,AJ0
 are,VBB
 the,AT0
@@ -12886,7 +12886,7 @@ to,TO0
 underline,VVI
 your,DPS
 score,NN1
-Drop,VVB-NN1
+drop,VVB-NN1
 under,PRP
 the,AT0
 opponent,NN1
@@ -12905,11 +12905,11 @@ strongly,AV0
 with,PRP
 the,AT0
 other,AJ0-NN1
-MAKING,VVG
-YOUR,DPS
-PUNCH,NN1
-SCORE,NN1-VVB
-As,CJS
+making,VVG
+your,DPS
+punch,NN1
+score,NN1-VVB
+as,CJS
 we,PNP
 saw,VVD
 in,PRP
@@ -12945,14 +12945,14 @@ making,VVG
 its,DPS
 success,NN1
 obvious,AJ0
-The,AT0
+the,AT0
 first,ORD
 way,NN1
 to,TO0
 do,VDI
 this,DT0
 as,CJS
-I,PNP
+i,PNP
 mentioned,VVD
 in,PRP
 the,AT0
@@ -12967,7 +12967,7 @@ with,PRP
 a,AT0
 loud,AJ0
 shout,NN1
-However,AV0
+however,AV0
 many,DT0
 people,NN0
 shout,VVB-NN1
@@ -12986,7 +12986,7 @@ pitched,VVN
 and,CJC
 lacks,VVZ
 penetration,NN1
-A,AT0
+a,AT0
 correct,AJ0
 shout,NN1
 emanates,VVZ
@@ -13004,11 +13004,11 @@ contraction,NN1
 accompanying,VVG
 the,AT0
 punch,NN1
-WUKO,NP0-NN1
-Chief,AJ0-NN1
-Referee,NN1
-Tommy,NP0
-Morris,NP0
+wuko,NP0-NN1
+chief,AJ0-NN1
+referee,NN1
+tommy,NP0
+morris,NP0
 describes,VVZ
 it,PNP
 as,PRP-CJS
@@ -13033,7 +13033,7 @@ you,PNP
 as,CJS
 it,PNP
 were,VBD
-Use,VVB
+use,VVB
 your,DPS
 shouts,NN2
 sparingly,AV0
@@ -13055,7 +13055,7 @@ and,CJC
 will,VM0
 ignore,VVI
 them,PNP
-The,AT0
+the,AT0
 second,ORD
 way,NN1
 to,TO0
@@ -13078,7 +13078,7 @@ can,VM0
 not,XX0
 be,VBI
 mistaken,VVN
-While,CJS
+while,CJS
 not,XX0
 seeking,VVG
 to,TO0
@@ -13110,7 +13110,7 @@ on,PRP
 the,AT0
 scoring,NN1-AJ0
 area,NN1
-Be,VBB
+be,VBB
 careful,AJ0
 during,PRP
 team,NN1
@@ -13143,7 +13143,7 @@ result,VVI
 in,PRP
 a,AT0
 penalty,NN1
-Having,VHG
+having,VHG
 said,VVN
 that,DT0
 if,CJS
@@ -13182,7 +13182,7 @@ with,PRP
 a,AT0
 full,AJ0
 point,NN1
-Obviously,AV0
+obviously,AV0
 you,PNP
 can,VM0
 not,XX0
@@ -13203,7 +13203,7 @@ means,NN0
 must,VM0
 be,VBI
 employed,VVN
-The,AT0
+the,AT0
 third,ORD
 way,NN1
 to,TO0
@@ -13228,7 +13228,7 @@ panel,NN1
 to,TO0
 see,VVI
 it,PNP
-Even,AV0
+even,AV0
 in,PRP
 the,AT0
 case,NN1
@@ -13253,7 +13253,7 @@ rather,AV0
 than,CJS
 a,AT0
 snap,NN1
-Many,DT0
+many,DT0
 valid,AJ0
 front,AJ0-NN1
 punches,NN2
@@ -13278,7 +13278,7 @@ the,AT0
 panel,NN1
 can,VM0
 react,VVI
-A,AT0
+a,AT0
 thrusting,AJ0
 action,NN1
 should,VM0
@@ -13307,7 +13307,7 @@ snapping,AJ0
 action,NN1
 is,VBZ
 not,XX0
-There,EX0
+there,EX0
 are,VBB
 exceptions,NN2
 which,DTQ
@@ -13316,7 +13316,7 @@ shall,VM0
 come,VVI
 to,PRP
 later,AJC
-Slide,VVB
+slide,VVB
 forwards,AV0
 on,PRP
 the,AT0
@@ -13331,7 +13331,7 @@ with,PRP
 a,AT0
 thrusting,AJ0
 action,NN1
-Hip,NN1-AJ0
+hip,NN1-AJ0
 action,NN1
 must,VM0
 be,VBI
@@ -13345,7 +13345,7 @@ this,DT0
 with,PRP
 powerful,AJ0
 technique,NN1
-The,AT0
+the,AT0
 refereeing,NN1
 panel,NN1
 will,VM0
@@ -13363,7 +13363,7 @@ evidence,NN1
 of,PRF
 body,NN1
 involvement,NN1
-A,AT0
+a,AT0
 simple,AJ0
 movement,NN1
 of,PRF
@@ -13377,7 +13377,7 @@ to,TO0
 ensure,VVI
 a,AT0
 score,NN1
-Therefore,AV0
+therefore,AV0
 the,AT0
 fourth,ORD
 way,NN1
@@ -13413,7 +13413,7 @@ stance,NN1
 will,VM0
 stretch,VVI
 out,AVP
-Even,AV0
+even,AV0
 if,CJS
 the,AT0
 slide,NN1
@@ -13437,7 +13437,7 @@ on,PRP
 the,AT0
 leading,AJ0
 leg,NN1
-The,AT0
+the,AT0
 fifth,ORD
 is,VBZ
 the,AT0
@@ -13449,7 +13449,7 @@ should,VM0
 accompany,VVI
 every,AT0
 punch,NN1
-This,DT0
+this,DT0
 shows,VVZ
 that,CJT
 the,AT0
@@ -13465,7 +13465,7 @@ a,AT0
 powerful,AJ0
 body,NN1
 action,NN1
-The,AT0
+the,AT0
 punching,AJ0-NN1
 hip,NN1
 be,VBB
@@ -13495,7 +13495,7 @@ directly,AV0
 faces,VVZ
 the,AT0
 opponent,NN1
-You,PNP
+you,PNP
 may,VM0
 well,AV0
 decide,VVI
@@ -13521,10 +13521,10 @@ opponent,NN1
 immediately,AV0
 counter,VVI
 attack,VVB-NN1
-The,AT0
+the,AT0
 reverse,AJ0-NN1
 punch,NN1
-This,DT0
+this,DT0
 technique,NN1
 has,VHZ
 probably,AV0
@@ -13544,7 +13544,7 @@ history,NN1
 of,PRF
 karate,NN1
 competition,NN1
-It,PNP
+it,PNP
 therefore,AV0
 follows,VVZ
 that,CJT
@@ -13560,7 +13560,7 @@ your,DPS
 most,AV0
 energetic,AJ0
 practice,NN1
-Begin,VVB
+begin,VVB
 from,PRP
 a,AT0
 fighting,NN1
@@ -13580,12 +13580,12 @@ from,PRP
 the,AT0
 front,AJ0-NN1
 hand,NN1
-You,PNP
+you,PNP
 do,VDB
 this,DT0
 for,PRP
 reasons,NN2
-The,AT0
+the,AT0
 first,ORD
 reason,NN1
 is,VBZ
@@ -13604,7 +13604,7 @@ away,AV0
 from,PRP
 what,DTQ
 follows,VVZ
-The,AT0
+the,AT0
 second,ORD
 reason,NN1
 is,VBZ
@@ -13626,7 +13626,7 @@ fact,NN1
 to,PRP
 the,AT0
 opponent,NN1
-Even,AV0
+even,AV0
 as,CJS
 you,PNP
 begin,VVB
@@ -13660,7 +13660,7 @@ leg,NN1
 to,TO0
 cover,VVI
 ground,NN1
-Begin,VVB
+begin,VVB
 to,TO0
 thrust,VVI
 your,DPS
@@ -13678,7 +13678,7 @@ power,VVI
 the,AT0
 reverse,AJ0-NN1
 punch,NN1
-Move,VVB
+move,VVB
 your,DPS
 centre,NN1
 of,PRF
@@ -13694,7 +13694,7 @@ trailing,AJ0
 foot,NN1
 is,VBZ
 lifted,VVN
-This,DT0
+this,DT0
 last,ORD
 point,NN1
 is,VBZ
@@ -13717,7 +13717,7 @@ a,AT0
 competition,NN1
 reverse,NN1-AJ0
 punch,NN1-VVB
-Throw,VVB
+throw,VVB
 a,AT0
 fast,AJ0-AV0
 snap,AJ0
@@ -13726,7 +13726,7 @@ at,PRP
 the,AT0
 opponent,NN1
 face,NN1
-This,DT0
+this,DT0
 cocks,VVZ
 the,AT0
 hips,NN2
@@ -13734,7 +13734,7 @@ for,PRP
 a,AT0
 reverse,AJ0
 punch,NN1
-Go,VVB
+go,VVB
 for,PRP
 maximum,AJ0
 range,NN1
@@ -13745,7 +13745,7 @@ heel,NN1
 to,TO0
 lift,VVI
 off,AVP
-Lean,VVB
+lean,VVB
 your,DPS
 body,NN1
 forwards,AV0
@@ -13761,7 +13761,7 @@ out,AVP
 of,PRF
 the,AT0
 punch,NN1
-However,AV0
+however,AV0
 do,VDB
 thrust,VVI
 the,AT0
@@ -13789,7 +13789,7 @@ ribs,NN2
 or,CJC
 the,AT0
 hip,NN1
-Withdrawing,VVG
+withdrawing,VVG
 the,AT0
 hand,NN1
 too,AV0
@@ -13803,7 +13803,7 @@ launch,VVI
 a,AT0
 fast,AJ0
 technique,NN1
-Withdraw,VVB
+withdraw,VVB
 to,PRP
 a,AT0
 safe,AJ0
@@ -13826,10 +13826,10 @@ any,DT0
 score,NN1-VVB
 being,VBG
 awarded,VVN
-Defensive,AJ0
+defensive,AJ0
 reverse,AJ0-NN1
 punch,NN1
-Practise,VVB
+practise,VVB
 digging,VVG
 in,AVP
 under,PRP
@@ -13846,7 +13846,7 @@ cocking,VVG
 the,AT0
 punching,AJ0-NN1
 hip,NN1
-Then,AV0
+then,AV0
 drop,VVB
 low,AJ0-AV0
 under,PRP
@@ -13861,7 +13861,7 @@ forwards,AV0
 into,PRP
 the,AT0
 punch,NN1
-Keep,VVB
+keep,VVB
 your,DPS
 front,AJ0-NN1
 guard,NN1
@@ -13875,7 +13875,7 @@ it,PNP
 can,VM0
 give,VVI
 protection,NN1
-The,AT0
+the,AT0
 best,AJS
 way,NN1
 to,TO0
@@ -13896,7 +13896,7 @@ pad,NN1-VVB
 against,PRP
 his,DPS
 chest,NN1
-It,PNP
+it,PNP
 is,VBZ
 actually,AV0
 quite,AV0
@@ -13920,7 +13920,7 @@ skill,NN1
 in,PRP
 this,DT0
 respect,NN1
-Practise,VVB
+practise,VVB
 the,AT0
 pad,NN1
 as,CJS
@@ -13929,10 +13929,10 @@ partner,NN1
 advances,VVZ-NN2
 into,PRP
 you,PNP
-Advancing,AJ0
+advancing,AJ0
 reverse,AJ0-NN1
 punch,NN1
-Practise,VVB
+practise,VVB
 an,AT0
 advancing,AJ0
 competition,NN1
@@ -13952,7 +13952,7 @@ you,PNP
 quickly,AV0
 step,VVB
 forwards,AV0
-Your,DPS
+your,DPS
 leading,AJ0
 hand,NN1
 is,VBZ
@@ -13974,7 +13974,7 @@ refereeing,NN1
 panel,NN1
 would,VM0
 like,VVI
-You,PNP
+you,PNP
 can,VM0
 make,VVI
 sure,AJ0
@@ -13988,7 +13988,7 @@ with,PRP
 a,AT0
 snap,AJ0
 punch,NN1
-Practise,VVB
+practise,VVB
 an,AT0
 advancing,AJ0
 double,AJ0
@@ -14009,7 +14009,7 @@ on,PRP
 the,AT0
 front,AJ0-NN1
 foot,NN1
-Next,ORD
+next,ORD
 as,CJS
 you,PNP
 withdraw,VVB
@@ -14018,7 +14018,7 @@ punch,NN1
 simultaneously,AV0
 step,VVB
 forward,AV0
-Time,NN1
+time,NN1
 the,AT0
 action,NN1
 so,AV0
@@ -14041,13 +14041,13 @@ up,AVP
 its,DPS
 new,AJ0
 position,NN1
-Then,AV0
+then,AV0
 throw,VVB
 the,AT0
 second,ORD
 reverse,AJ0-NN1
 punch,NN1
-Skilled,AJ0
+skilled,AJ0
 performers,NN2
 use,VVB
 the,AT0
@@ -14066,7 +14066,7 @@ the,AT0
 second,ORD
 punch,NN1-VVB
 a,ZZ0
-Hold,VVB
+hold,VVB
 your,DPS
 guard,NN1
 still,AV0
@@ -14077,14 +14077,14 @@ forwards,AV0
 b,ZZ0
 then,AV0
 c,ZZ0
-Complete,VVB
+complete,VVB
 the,AT0
 sequence,NN1
 with,PRP
 snap,AJ0
 punch,NN1
 a,ZZ0
-Reverse,AJ0
+reverse,AJ0
 punch,NN1-VVB
 and,CJC
 allow,VVB
@@ -14096,7 +14096,7 @@ begin,VVI
 moving,VVG
 forwards,AV0
 b,ZZ0
-Use,VVB
+use,VVB
 the,AT0
 of,PRF
 the,AT0
@@ -14108,7 +14108,7 @@ the,AT0
 step,NN1
 through,PRP-AVP
 c,ZZ0
-Then,AV0
+then,AV0
 complete,VVB
 the,AT0
 step,NN1
@@ -14117,10 +14117,10 @@ a,AT0
 second,ORD
 reverse,AJ0-NN1
 punch,NN1-VVB
-The,AT0
-Snap,AJ0
+the,AT0
+snap,AJ0
 punch,NN1
-The,AT0
+the,AT0
 second,ORD
 punch,NN1
 used,VVD-VVN
@@ -14131,7 +14131,7 @@ is,VBZ
 the,AT0
 snap,AJ0
 punch,NN1
-This,DT0
+this,DT0
 employs,VVZ
 a,AT0
 thrusting,AJ0
@@ -14150,7 +14150,7 @@ of,PRF
 the,AT0
 forward,AJ0
 hip,NN1
-Begin,VVB
+begin,VVB
 from,PRP
 a,AT0
 fighting,NN1
@@ -14170,7 +14170,7 @@ distance,NN1
 with,PRP
 the,AT0
 front,NN1
-Let,VVB
+let,VVB
 your,DPS
 rear,NN1
 guard,VVI
@@ -14182,7 +14182,7 @@ as,CJS
 you,PNP
 do,VDB
 this,DT0
-Even,AV0
+even,AV0
 before,CJS
 the,AT0
 slide,NN1
@@ -14206,7 +14206,7 @@ augment,VVI
 the,AT0
 snap,AJ0
 punch,NN1
-The,AT0
+the,AT0
 hips,NN2
 turn,VVB
 strongly,AV0
@@ -14220,7 +14220,7 @@ shout,NN1
 should,VM0
 accompany,VVI
 it,PNP
-It,PNP
+it,PNP
 is,VBZ
 nearly,AV0
 always,AV0
@@ -14240,7 +14240,7 @@ the,AT0
 snap,AJ0
 punching,AJ0-NN1
 fist,NN1
-To,TO0
+to,TO0
 see,VVI
 how,AVQ
 this,DT0
@@ -14254,11 +14254,11 @@ description,NN1
 of,PRF
 reverse,AJ0
 punch,NN1
-The,AT0
+the,AT0
 snap,AJ0
 punch,NN1
 a,ZZ0
-Advance,VVB
+advance,VVB
 your,DPS
 rear,AJ0-NN1
 guard,NN1
@@ -14283,7 +14283,7 @@ snap,AJ0
 punch,NN1-VVB
 out,AVP
 c,ZZ0
-Complete,VVB
+complete,VVB
 the,AT0
 sequence,NN1
 with,PRP
@@ -14292,7 +14292,7 @@ reverse,AJ0
 punch,NN1
 snap,AJ0
 punch,NN1
-Try,VVB
+try,VVB
 sliding,VVG-AJ0
 diagonally,AV0
 forwards,AV0
@@ -14305,7 +14305,7 @@ foot,NN1
 turned,VVD
 slightly,AV0
 inwards,AV0
-Perform,VVB
+perform,VVB
 the,AT0
 snap,AJ0
 punch,NN1-VVB
@@ -14319,7 +14319,7 @@ hip,NN1
 more,AV0
 than,CJS
 previously,AV0
-You,PNP
+you,PNP
 will,VM0
 have,VHI
 now,AV0
@@ -14348,7 +14348,7 @@ you,PNP
 snap,AJ0
 punch,NN1
 a,ZZ0
-Turn,VVB
+turn,VVB
 your,DPS
 leading,AJ0
 foot,NN1
@@ -14358,14 +14358,14 @@ slide,VVB
 diagonally,AV0
 forwards,AV0
 b,ZZ0
-Twist,VVB
+twist,VVB
 your,DPS
 hips,NN2
 strongly,AV0
 as,CJS
 you,PNP
 punch,VVB
-Notice,VVB
+notice,VVB
 that,CJT
 the,AT0
 punch,NN1
@@ -14381,11 +14381,11 @@ diagonal,AJ0
 rather,AV0
 than,CJS
 direct,VVI
-Snap,VVB
+snap,VVB
 punch,NN1-VVB
 stepping,VVG
 forwards,AV0
-Take,VVB
+take,VVB
 a,AT0
 fast,AJ0
 step,NN1-VVB
@@ -14399,7 +14399,7 @@ as,CJS
 you,PNP
 do,VDB
 so,AV0
-The,AT0
+the,AT0
 length,NN1
 of,PRF
 your,DPS
@@ -14417,7 +14417,7 @@ away,AV0
 from,PRP
 your,DPS
 opponent,NN1
-Throw,VVB
+throw,VVB
 your,DPS
 forwards,AV0
 and,CJC
@@ -14437,7 +14437,7 @@ into,PRP
 the,AT0
 opponent,NN1
 face,NN1
-Time,NN1
+time,NN1
 the,AT0
 delivery,NN1
 of,PRF
@@ -14461,7 +14461,7 @@ moment,NN1
 of,PRF
 imagined,AJ0
 impact,NN1
-Some,DT0
+some,DT0
 people,NN0
 change,VVB
 their,DPS
@@ -14476,10 +14476,10 @@ curtails,VVZ
 the,AT0
 punch,NN1
 potential,NN1-AJ0
-Defensive,AJ0
+defensive,AJ0
 snap,AJ0
 punch,NN1
-Dig,VVB
+dig,VVB
 in,AVP
 and,CJC
 throw,VVB
@@ -14493,7 +14493,7 @@ fist,NN1
 as,CJS
 your,DPS
 opponent,NN1
-Turn,VVB-NN1
+turn,VVB-NN1
 your,DPS
 hips,NN2
 and,CJC
@@ -14509,7 +14509,7 @@ strongly,AV0
 in,PRP
 the,AT0
 chest,NN1
-Add,VVB
+add,VVB
 a,AT0
 reverse,AJ0-NN1
 punch,NN1-VVB
@@ -14517,7 +14517,7 @@ to,TO0
 underline,VVI
 your,DPS
 technique,NN1
-Alternatively,AV0
+alternatively,AV0
 you,PNP
 can,VM0
 rock,VVI
@@ -14540,7 +14540,7 @@ with,PRP
 the,AT0
 rear,AJ0-NN1
 hand,NN1
-Then,AV0
+then,AV0
 snap,VVB
 punch,NN1-VVB
 off,PRP-AVP
@@ -14551,7 +14551,7 @@ into,PRP
 the,AT0
 opponent,NN1
 face,NN1
-Step,VVB
+step,VVB
 forwards,AV0
 quickly,AV0
 holding,VVG
@@ -14562,10 +14562,10 @@ as,CJS
 you,PNP
 do,VDB
 so,AV0
-The,AT0
+the,AT0
 back,NN1-AJ0
 fist,NN1
-This,DT0
+this,DT0
 punch,NN1
 is,VBZ
 not,XX0
@@ -14578,7 +14578,7 @@ previous,AJ0
 but,CJC
 a,AT0
 circular,AJ0
-The,AT0
+the,AT0
 back,NN1-AJ0
 fist,NN1
 unrolls,VVZ-NN2
@@ -14599,7 +14599,7 @@ the,AT0
 arm,NN1
 action,NN1
 itself,PNX
-Many,DT0
+many,DT0
 karateka,NN1
 get,VVB
 this,DT0
@@ -14612,7 +14612,7 @@ of,PRF
 the,AT0
 arm,NN1
 action,NN1
-A,AT0
+a,AT0
 back,NN1-AJ0
 fist,NN1
 will,VM0
@@ -14641,7 +14641,7 @@ consider,VVI
 it,PNP
 powerful,AJ0
 enough,AV0
-Nevertheless,AV0
+nevertheless,AV0
 it,PNP
 remains,VVZ
 an,AT0
@@ -14664,7 +14664,7 @@ a,AT0
 powerful,AJ0
 reverse,AJ0-NN1
 punch,NN1
-However,AV0
+however,AV0
 all,DT0
 the,AT0
 time,NN1
@@ -14684,7 +14684,7 @@ vulnerable,AJ0
 to,PRP
 a,AT0
 strong,AJ0
-Lean,VVB
+lean,VVB
 in,AVP
 behind,PRP
 the,AT0
@@ -14704,7 +14704,7 @@ hand,NN1
 as,PRP
 a,AT0
 guard,NN1
-Unfortunately,AV0
+unfortunately,AV0
 the,AT0
 cocking,NN1
 action,NN1
@@ -14721,7 +14721,7 @@ cue,NN1
 to,PRP
 the,AT0
 opponent,NN1
-The,AT0
+the,AT0
 punching,AJ0-NN1
 elbow,NN1
 must,VM0
@@ -14753,7 +14753,7 @@ weakness,NN1
 of,PRF
 the,AT0
 technique,NN1
-The,AT0
+the,AT0
 question,NN1
 is,VBZ
 how,AVQ
@@ -14773,7 +14773,7 @@ reverse,AJ0
 punch,NN1
 to,PRP
 the,AT0
-Flex,VVB
+flex,VVB
 your,DPS
 elbow,NN1
 strongly,AV0
@@ -14791,14 +14791,14 @@ help,VVI
 unroll,VVI
 the,AT0
 strike,NN1
-Your,DPS
+your,DPS
 stance,NN1
 will,VM0
 lift,VVI
 as,CJS-PRP
 this,DT0
 happens,VVZ
-Then,AV0
+then,AV0
 strike,VVB
 into,PRP
 the,AT0
@@ -14822,7 +14822,7 @@ a,AT0
 highly,AV0
 effective,AJ0
 sequence,NN1
-Back,NN1-AJ0
+back,NN1-AJ0
 fist,NN1
 will,VM0
 a,AT0
@@ -14835,7 +14835,7 @@ of,PRF
 similar,AJ0
 size,NN1
 a,ZZ0
-Begin,VVB
+begin,VVB
 with,PRP
 a,AT0
 reverse,AJ0
@@ -14851,7 +14851,7 @@ of,PRF
 your,DPS
 arm,NN1
 b,ZZ0
-Pull,VVB
+pull,VVB
 back,AVP
 the,AT0
 spent,AJ0
@@ -14866,7 +14866,7 @@ unroll,VVI
 the,AT0
 back,NN1-AJ0
 fist,NN1
-Notice,VVB
+notice,VVB
 that,CJT
 the,AT0
 rear,AJ0-NN1
@@ -14874,7 +14874,7 @@ foot,NN1
 slides,VVZ
 forward,AV0
 c,ZZ0
-Step,VVB
+step,VVB
 forwards,AV0
 drop,VVB
 down,AVP
@@ -14884,9 +14884,9 @@ a,AT0
 final,AJ0
 reverse,AJ0-NN1
 punch,NN1
-COMPETITIVE,AJ0
-KICKS,NN2
-Kicks,NN2
+competitive,AJ0
+kicks,NN2
+kicks,NN2
 are,VBB
 harder,AJC
 to,TO0
@@ -14910,7 +14910,7 @@ by,PRP
 the,AT0
 refereeing,NN1
 panel,NN1
-Scoring,VVG-NN1
+scoring,VVG-NN1
 head,NN1
 kicks,NN2-VVZ
 in,PRP
@@ -14934,7 +14934,7 @@ range,NN1-VVB
 power,NN1
 control,NN1-VVB
 etc,AV0
-Before,PRP
+before,PRP
 beginning,VVG
 a,AT0
 detailed,AJ0
@@ -14942,14 +14942,14 @@ discussion,NN1
 of,PRF
 kicks,NN2
 however,AV0
-I,PNP
+i,PNP
 would,VM0
 like,VVI
 to,TO0
 make,VVI
 important,AJ0
 points,NN2
-The,AT0
+the,AT0
 first,ORD
 is,VBZ
 never,AV0
@@ -14960,7 +14960,7 @@ are,VBB
 within,PRP
 punching,VVG-AJ0
 range,NN1
-A,AT0
+a,AT0
 punch,NN1
 travels,VVZ
 faster,AJC
@@ -14975,7 +14975,7 @@ by,PRP
 an,AT0
 alert,AJ0
 opponent,NN1
-Bear,VVB
+bear,VVB
 in,PRP
 mind,NN1
 that,CJT
@@ -15008,7 +15008,7 @@ are,VBB
 out,AVP
 of,PRF
 range,NN1
-Therefore,AV0
+therefore,AV0
 use,NN1-VVB
 kicks,VVZ-NN2
 from,PRP
@@ -15025,7 +15025,7 @@ close,AJ0
 to,PRP
 the,AT0
 opponent,NN1
-The,AT0
+the,AT0
 second,ORD
 important,AJ0
 point,NN1
@@ -15037,7 +15037,7 @@ you,PNP
 have,VHB
 a,AT0
 target,NN1
-Many,DT0
+many,DT0
 people,NN0
 seemingly,AV0
 throw,VVB
@@ -15049,7 +15049,7 @@ hope,NN1
 of,PRF
 hitting,VVG
 something,PNI
-As,CJS
+as,CJS
 you,PNP
 might,VM0
 expect,VVI
@@ -15062,7 +15062,7 @@ insteps,NN2
 toes,NN2
 and,CJC
 shins,NN2
-The,AT0
+the,AT0
 cocked,AJ0
 fist,NN1
 in,PRP
@@ -15077,7 +15077,7 @@ metre,NN1
 to,PRP
 its,DPS
 target,NN1
-The,AT0
+the,AT0
 instep,NN1
 must,VM0
 travel,VVI
@@ -15089,7 +15089,7 @@ reach,VVI
 the,AT0
 opponent,NN1
 head,NN1
-This,DT0
+this,DT0
 distance,NN1
 is,VBZ
 further,AV0
@@ -15106,7 +15106,7 @@ to,TO0
 close,VVI
 range,NN1
 slightly,AV0
-Use,NN1-VVB
+use,NN1-VVB
 kicks,VVZ-NN2
 only,AV0
 when,CJS
@@ -15116,7 +15116,7 @@ well,AJ0
 outside,PRP
 punching,VVG-AJ0
 range,NN1
-Front,AJ0
+front,AJ0
 leg,NN1
 kicks,NN2
 travel,VVB
@@ -15133,7 +15133,7 @@ too,AV0
 weak,AJ0
 to,TO0
 score,VVI
-However,AV0
+however,AV0
 with,PRP
 a,AT0
 bit,NN1
@@ -15157,7 +15157,7 @@ worth,PRP
 a,AT0
 full,AJ0
 point,NN1
-As,PRP
+as,PRP
 a,AT0
 rule,NN1
 of,PRF
@@ -15171,7 +15171,7 @@ kick,NN1-VVB
 after,PRP
 a,AT0
 feint,NN1
-The,AT0
+the,AT0
 following,AJ0
 remarks,NN2
 apply,VVB
@@ -15194,7 +15194,7 @@ to,PRP
 the,AT0
 front,AJ0-NN1
 kick,NN1
-I,PNP
+i,PNP
 have,VHB
 repeatedly,AV0
 stressed,VVN
@@ -15221,7 +15221,7 @@ by,PRP
 as,AV0
 much,DT0
 as,CJS
-This,DT0
+this,DT0
 must,VM0
 of,PRF
 necessity,NN1
@@ -15234,7 +15234,7 @@ weak,AJ0
 defensive,AJ0
 position,NN1
 and,CJC
-I,PNP
+i,PNP
 would,VM0
 maintain,VVI
 that,CJT
@@ -15249,7 +15249,7 @@ than,CJS
 any,DT0
 other,AJ0
 factor,NN1
-The,AT0
+the,AT0
 kick,NN1
 misses,NN2-VVZ
 recovery,NN1
@@ -15266,7 +15266,7 @@ you,PNP
 know,VVB
 what,DTQ
 happened,VVN
-It,PNP
+it,PNP
 therefore,AV0
 makes,VVZ
 sense,NN1
@@ -15289,7 +15289,7 @@ not,XX0
 expecting,VVG
 a,AT0
 kick,NN1
-Bag,NN1
+bag,NN1
 work,NN1
 is,VBZ
 essential,AJ0
@@ -15297,7 +15297,7 @@ for,PRP
 training,NN1
 competition,NN1
 kicks,NN2-VVZ
-Much,DT0
+much,DT0
 modern,AJ0
 training,NN1
 aims,VVZ-NN2
@@ -15313,7 +15313,7 @@ recoil,NN1
 is,VBZ
 never,AV0
 experienced,VVN-VVD
-Consequently,AV0
+consequently,AV0
 you,PNP
 fall,VVB
 over,AVP
@@ -15325,7 +15325,7 @@ time,NN1
 you,PNP
 land,VVB
 heavily,AV0
-Train,VVB-NN1
+train,VVB-NN1
 for,PRP
 accuracy,NN1
 range,NN1-VVB
@@ -15345,10 +15345,10 @@ for,PRP
 front,AJ0
 kick,NN1
 practice,NN1
-The,AT0
+the,AT0
 front,AJ0-NN1
 kick,NN1
-Different,AJ0
+different,AJ0
 styles,NN2
 of,PRF
 karate,NN1
@@ -15370,7 +15370,7 @@ common,AJ0
 to,PRP
 them,PNP
 all,DT0
-First,ORD
+first,ORD
 of,PRF
 all,DT0
 it,PNP
@@ -15382,7 +15382,7 @@ not,XX0
 a,AT0
 snapping,AJ0
 kick,NN1
-It,PNP
+it,PNP
 digs,VVZ
 into,PRP
 the,AT0
@@ -15392,7 +15392,7 @@ does,VDZ
 just,AV0
 tap,VVI
 it,PNP
-Secondly,AV0
+secondly,AV0
 it,PNP
 is,VBZ
 aimed,VVN
@@ -15413,10 +15413,10 @@ more,AV0
 difficult,AJ0
 to,TO0
 block,VVI
-Front,AJ0
+front,AJ0
 kick,NN1
 a,ZZ0
-Throw,VVB
+throw,VVB
 a,AT0
 reverse,AJ0-NN1
 punch,NN1-VVB
@@ -15425,7 +15425,7 @@ the,AT0
 opponent,NN1
 face,NN1
 b,ZZ0
-Draw,VVB
+draw,VVB
 back,AVP
 the,AT0
 spent,AJ0
@@ -15440,7 +15440,7 @@ knee,NN1
 forwards,AV0
 and,CJC
 up,AVP
-Notice,VVB
+notice,VVB
 that,CJT
 the,AT0
 sole,NN1-AJ0
@@ -15452,7 +15452,7 @@ parallel,AJ0
 with,PRP
 the,AT0
 mat,NN1
-Begin,VVB
+begin,VVB
 the,AT0
 front,AJ0-NN1
 kick,NN1-VVB
@@ -15470,7 +15470,7 @@ to,PRP
 the,AT0
 opponent,NN1
 face,NN1
-This,DT0
+this,DT0
 transfers,VVZ
 your,DPS
 weight,NN1
@@ -15484,7 +15484,7 @@ the,AT0
 rear,AJ0-NN1
 foot,NN1
 quickly,AV0
-Bring,VVB
+bring,VVB
 your,DPS
 foot,NN1
 up,AVP
@@ -15496,7 +15496,7 @@ parallel,NN1
 to,PRP
 the,AT0
 mat,NN1
-Some,DT0
+some,DT0
 schools,NN2
 spring,VVB
 the,AT0
@@ -15509,7 +15509,7 @@ the,AT0
 foot,NN1
 points,VVZ-NN2
 downwards,AV0
-This,DT0
+this,DT0
 may,VM0
 be,VBI
 faster,AJC
@@ -15534,7 +15534,7 @@ than,CJS
 pass,VVI
 over,PRP-AVP
 it,PNP
-The,AT0
+the,AT0
 kicking,AJ0-NN1
 knee,NN1
 rises,VVZ
@@ -15549,7 +15549,7 @@ is,VBZ
 held,VVN
 in,PRP
 place,NN1
-The,AT0
+the,AT0
 supporting,AJ0
 knee,NN1
 is,VBZ
@@ -15563,7 +15563,7 @@ foot,NN1
 swivels,VVZ
 slightly,AV0
 outwards,AV0
-Do,VDB
+do,VDB
 twist,VVI
 the,AT0
 foot,NN1
@@ -15585,7 +15585,7 @@ away,AV0
 from,PRP
 the,AT0
 opponent,NN1
-Thrust,VVB
+thrust,VVB
 your,DPS
 lower,AJC
 foot,NN1
@@ -15603,7 +15603,7 @@ used,VVN-VVD
 in,PRP-AVP
 some,DT0
 styles,NN2
-Note,VVB
+note,VVB
 that,CJT
 the,AT0
 knee,NN1
@@ -15619,7 +15619,7 @@ the,AT0
 thrusting,AJ0
 action,NN1
 c,ZZ0
-The,AT0
+the,AT0
 knee,NN1
 drops,VVZ
 slightly,AV0
@@ -15632,7 +15632,7 @@ to,PRP
 the,AT0
 opponent,NN1
 midsection,NN1
-For,PRP
+for,PRP
 a,AT0
 powerful,AJ0
 kick,NN1-VVB
@@ -15668,7 +15668,7 @@ be,VBI
 hooked,VVN
 or,CJC
 swept,VVN
-If,CJS
+if,CJS
 your,DPS
 kick,NN1
 is,VBZ
@@ -15690,7 +15690,7 @@ too,AV0
 weak,AJ0
 to,TO0
 score,VVI
-This,DT0
+this,DT0
 of,PRF
 course,NN1
 is,VBZ
@@ -15720,7 +15720,7 @@ you,PNP
 the,AT0
 required,AJ0
 stability,NN1
-You,PNP
+you,PNP
 should,VM0
 land,VVI
 ready,AJ0
@@ -15734,7 +15734,7 @@ the,AT0
 opponent,NN1
 foot,NN1
 sweep,NN1-VVB
-Where,CJS
+where,CJS
 the,AT0
 opponent,NN1
 does,VDZ
@@ -15764,7 +15764,7 @@ the,AT0
 kicking,AJ0-NN1
 knee,NN1
 rises,NN2-VVZ
-Preferably,AV0
+preferably,AV0
 you,PNP
 should,VM0
 use,VVI
@@ -15788,7 +15788,7 @@ unable,AJ0
 to,TO0
 respond,VVI
 powerfully,AV0
-Use,VVB
+use,VVB
 the,AT0
 opening,NN1-AJ0
 reverse,NN1-AJ0
@@ -15802,7 +15802,7 @@ on,PRP
 a,AT0
 diagonal,AJ0
 d,ZZ0
-Turning,VVG
+turning,VVG
 the,AT0
 hip,NN1
 too,AV0
@@ -15818,10 +15818,10 @@ renders,VVZ
 you,PNP
 more,AV0
 vulnerable,AJ0
-The,AT0
+the,AT0
 roundhouse,NN1
 kick,NN1-VVB
-This,DT0
+this,DT0
 is,VBZ
 the,AT0
 most,AV0
@@ -15840,7 +15840,7 @@ other,AJ0
 kicks,NN2
 put,VVB
 together,AV0
-The,AT0
+the,AT0
 kick,NN1
 uses,VVZ
 a,AT0
@@ -15856,7 +15856,7 @@ area,NN1
 to,PRP
 the,AT0
 opponent,NN1
-The,AT0
+the,AT0
 first,ORD
 objective,NN1
 is,VBZ
@@ -15865,7 +15865,7 @@ to,TO0
 shorten,VVI
 this,DT0
 interval,NN1
-Throw,VVB
+throw,VVB
 a,AT0
 reverse,AJ0
 punch,NN1
@@ -15887,7 +15887,7 @@ is,VBZ
 free,AJ0
 to,TO0
 lift,VVI
-Swivel,VVB
+swivel,VVB
 on,PRP-AVP
 your,DPS
 supporting,AJ0
@@ -15910,7 +15910,7 @@ the,AT0
 attacker,NN1
 if,CJS
 necessary,AJ0
-Your,DPS
+your,DPS
 lower,AJC
 leg,NN1
 should,VM0
@@ -15929,7 +15929,7 @@ points,NN2
 to,PRP
 the,AT0
 target,NN1
-Lean,VVB
+lean,VVB
 away,AV0
 from,PRP
 the,AT0
@@ -15948,7 +15948,7 @@ avoid,VVB
 hunching,VVG
 your,DPS
 shoulders,NN2
-Power,VVB-NN1
+power,VVB-NN1
 the,AT0
 lower,AJC
 leg,NN1
@@ -15974,10 +15974,10 @@ going,VVG
 for,PRP
 the,AT0
 ribs,NN2
-Roundhouse,NN1-NP0
+roundhouse,NN1-NP0
 kick,NN1-VVB
 a,ZZ0
-Pull,VVB
+pull,VVB
 back,AVP
 the,AT0
 spent,AJ0
@@ -15999,7 +15999,7 @@ of,PRF
 your,DPS
 body,NN1
 b,ZZ0
-Lean,VVB
+lean,VVB
 away,AV0
 and,CJC
 power,NN1-VVB
@@ -16008,7 +16008,7 @@ kick,NN1
 into,PRP
 the,AT0
 target,NN1
-Here,AV0
+here,AV0
 the,AT0
 attacker,NN1
 foot,NN1
@@ -16022,7 +16022,7 @@ the,AT0
 opponent,NN1
 leading,AJ0
 leg,NN1
-You,PNP
+you,PNP
 are,VBB
 almost,AV0
 certain,AJ0
@@ -16042,7 +16042,7 @@ a,AT0
 possible,AJ0
 foot,NN1
 sweep,NN1-VVB
-However,AV0
+however,AV0
 unlike,PRP
 with,PRP
 the,AT0
@@ -16074,7 +16074,7 @@ least,AV0
 land,VVI
 comparatively,AV0
 lightly,AV0
-Should,VM0
+should,VM0
 your,DPS
 foot,NN1
 drop,VVI
@@ -16103,7 +16103,7 @@ way,NN1
 it,PNP
 is,VBZ
 pointing,VVG
-Lean,VVB
+lean,VVB
 away,AV0
 as,CJS
 you,PNP
@@ -16120,7 +16120,7 @@ with,PRP
 a,AT0
 snap,AJ0
 punch,NN1
-If,CJS
+if,CJS
 you,PNP
 succeed,VVB
 twist,VVB
@@ -16134,7 +16134,7 @@ the,AT0
 opponent,NN1
 s,ZZ0
 face,NN1-VVB
-If,CJS
+if,CJS
 the,AT0
 hook,NN1
 fails,VVZ
@@ -16151,10 +16151,10 @@ with,PRP
 your,DPS
 guard,NN1
 raised,VVD-VVN
-Diagonal,AJ0
+diagonal,AJ0
 roundhouse,NN1
 kick,NN1-VVB
-There,EX0
+there,EX0
 is,VBZ
 a,AT0
 version,NN1
@@ -16172,7 +16172,7 @@ away,AV0
 from,PRP
 the,AT0
 opponent,NN1
-This,DT0
+this,DT0
 uses,VVZ
 a,AT0
 diagonal,AJ0
@@ -16189,7 +16189,7 @@ a,AT0
 roundhouse,NN1
 kick,VVB-NN1
 proper,AJ0
-Though,CJS
+though,CJS
 this,DT0
 tends,VVZ
 to,TO0
@@ -16223,7 +16223,7 @@ roundhouse,NN1
 kick,NN1-VVB
 roundhouse,NN1
 kick,NN1-VVB
-Correct,AJ0
+correct,AJ0
 distance,NN1
 is,VBZ
 crucial,AJ0
@@ -16252,7 +16252,7 @@ before,PRP
 throwing,VVG
 the,AT0
 kick,NN1
-This,DT0
+this,DT0
 means,VVZ
 that,CJT
 even,AV0
@@ -16271,7 +16271,7 @@ and,CJC
 out,AVP
 of,PRF
 range,NN1
-You,PNP
+you,PNP
 can,VM0
 increase,VVI
 your,DPS
@@ -16292,7 +16292,7 @@ horizontally,AV0
 into,PRP
 the,AT0
 target,NN1
-If,CJS
+if,CJS
 you,PNP
 get,VVB
 the,AT0
@@ -16318,7 +16318,7 @@ and,CJC
 into,PRP
 his,DPS
 head,NN1
-He,PNP
+he,PNP
 hooks,VVZ
 the,AT0
 opponent,NN1
@@ -16329,7 +16329,7 @@ as,CJS
 he,PNP
 does,VDZ
 so,AV0
-The,AT0
+the,AT0
 sequence,NN1
 is,VBZ
 completed,VVN
@@ -16337,8 +16337,8 @@ with,PRP
 a,AT0
 reverse,AJ0
 punch,NN1
-Left,AJ0-VVN
-A,ZZ0
+left,AJ0-VVN
+a,ZZ0
 diagonal,AJ0
 roundhouse,NN1
 kick,NN1
@@ -16357,8 +16357,8 @@ off,AVP-PRP
 elbows,NN2
 and,CJC
 shoulders,NN2
-Below,AV0
-Draw,VVB
+below,AV0
+draw,VVB
 your,DPS
 front,AJ0-NN1
 foot,NN1
@@ -16374,10 +16374,10 @@ punch,NN1
 will,VM0
 fall,VVI
 short,AJ0
-Disguised,AJ0
+disguised,AJ0
 roundhouse,NN1
 kick,NN1-VVB
-If,CJS
+if,CJS
 you,PNP
 can,VM0
 do,VDI
@@ -16395,7 +16395,7 @@ you,PNP
 an,AT0
 added,AJ0
 advantage,NN1
-Throw,VVB
+throw,VVB
 a,AT0
 reverse,AJ0
 punch,NN1
@@ -16416,7 +16416,7 @@ or,CJC
 turning,VVG
 the,AT0
 hips,NN2
-This,DT0
+this,DT0
 is,VBZ
 the,AT0
 cue,NN1
@@ -16428,7 +16428,7 @@ not,XX0
 a,AT0
 roundhouse,NN1
 kick,NN1-VVB
-However,AV0
+however,AV0
 as,CJS
 you,PNP
 thrust,VVB
@@ -16452,10 +16452,10 @@ to,PRP
 a,AT0
 roundhouse,NN1
 kick,NN1-VVB
-More,AV0
+more,AV0
 than,CJS
 once,CJS
-I,PNP
+i,PNP
 have,VHB
 seen,VVN
 a,AT0
@@ -16481,7 +16481,7 @@ side,NN1
 of,PRF
 the,AT0
 head,NN1
-Though,CJS
+though,CJS
 this,DT0
 technique,NN1
 is,VBZ
@@ -16502,7 +16502,7 @@ a,AT0
 full,AJ0
 point,NN1
 a,ZZ0
-At,PRP
+at,PRP
 this,DT0
 stage,NN1
 the,AT0
@@ -16514,7 +16514,7 @@ a,AT0
 front,AJ0
 kick,NN1
 b,ZZ0
-The,AT0
+the,AT0
 hips,NN2
 then,AV0
 begin,VVB
@@ -16529,7 +16529,7 @@ to,PRP
 the,AT0
 side,NN1
 c,ZZ0
-The,AT0
+the,AT0
 opponent,NN1
 has,VHZ
 responded,VVN
@@ -16547,7 +16547,7 @@ roundhouse,NN1
 kick,NN1-VVB
 roundhouse,NN1
 kick,NN1-VVB
-This,DT0
+this,DT0
 kick,NN1
 is,VBZ
 useful,AJ0
@@ -16564,7 +16564,7 @@ before,PRP
 launching,VVG
 the,AT0
 kick,NN1
-Throw,VVB
+throw,VVB
 a,AT0
 snap,AJ0
 punch,NN1
@@ -16573,7 +16573,7 @@ your,DPS
 leading,AJ0
 guard,NN1
 hand,NN1
-Slide,VVB-NN1
+slide,VVB-NN1
 diagonally,AV0
 forwards,AV0
 as,CJS
@@ -16590,7 +16590,7 @@ your,DPS
 faces,VVZ
 the,AT0
 opponent,NN1
-Aim,VVB
+aim,VVB
 your,DPS
 snap,AJ0
 punch,NN1
@@ -16606,7 +16606,7 @@ of,PRF
 your,DPS
 rear,AJ0-NN1
 foot,NN1
-Note,VVB
+note,VVB
 that,CJT
 the,AT0
 rear,AJ0-NN1
@@ -16621,7 +16621,7 @@ heels,NN2
 touch,VVB
 each,DT0
 other,NN1
-Then,AV0
+then,AV0
 lift,VVB
 the,AT0
 kicking,AJ0-NN1
@@ -16635,17 +16635,17 @@ target,NN1
 roundhouse,NN1
 kick,NN1-VVB
 a,ZZ0
-Use,VVB
+use,VVB
 a,AT0
 snap,AJ0
 punch,NN1-VVB
 to,TO0
 disguise,VVI
 your,DPS
-Reverse,AJ0
+reverse,AJ0
 roundhouse,NN1
 kick,NN1-VVB
-This,DT0
+this,DT0
 is,VBZ
 another,DT0
 high,AJ0
@@ -16658,7 +16658,7 @@ is,VBZ
 fraught,AJ0
 with,PRP
 danger,NN1
-You,PNP
+you,PNP
 must,VM0
 turn,VVI
 until,CJS-PRP
@@ -16678,7 +16678,7 @@ position,NN1
 to,TO0
 be,VBI
 in,AVP
-However,AV0
+however,AV0
 the,AT0
 kick,NN1
 enjoys,VVZ
@@ -16705,7 +16705,7 @@ of,PRF
 the,AT0
 opponent,NN1
 head,NN1
-Even,AV0
+even,AV0
 if,CJS
 it,PNP
 is,VBZ
@@ -16729,7 +16729,7 @@ the,AT0
 opponent,NN1
 over,PRP
 it,PNP
-It,PNP
+it,PNP
 goes,VVZ
 without,PRP
 saying,VVG
@@ -16748,13 +16748,13 @@ tables,NN2
 on,PRP
 you,PNP
 b,ZZ0
-Then,AV0
+then,AV0
 kick,VVB
 with,PRP
 the,AT0
 front,AJ0-NN1
 foot,NN1
-Reverse,AJ0
+reverse,AJ0
 roundhouse,NN1
 kick,NN1
 has,VHZ
@@ -16767,7 +16767,7 @@ the,AT0
 opponent,NN1
 guard,NN1
 a,ZZ0
-Your,DPS
+your,DPS
 failed,AJ0
 reverse,AJ0-NN1
 roundhouse,NN1
@@ -16782,7 +16782,7 @@ opponent,NN1
 leading,AJ0
 leg,NN1
 b,ZZ0
-Push,VVB
+push,VVB
 the,AT0
 opponent,NN1
 over,PRP-AVP
@@ -16792,7 +16792,7 @@ knee,NN1
 reverse,NN1-AJ0
 roundhouse,NN1
 kick,NN1-VVB
-Practise,VVB
+practise,VVB
 the,AT0
 version,NN1
 of,PRF
@@ -16811,7 +16811,7 @@ heels,NN2
 brush,VVB
 each,DT0
 other,NN1
-Then,AV0
+then,AV0
 lift,VVB
 the,AT0
 front,AJ0-NN1
@@ -16825,7 +16825,7 @@ into,PRP
 the,AT0
 opponent,NN1
 head,NN1
-If,CJS
+if,CJS
 you,PNP
 kick,VVB
 at,PRP
@@ -16853,7 +16853,7 @@ of,PRF
 the,AT0
 opponent,NN1
 face,NN1
-If,CJS
+if,CJS
 you,PNP
 are,VBB
 closer,AJC
@@ -16872,7 +16872,7 @@ reverse,NN1-AJ0
 roundhouse,NN1
 kick,NN1-VVB
 a,ZZ0
-Slide,VVB
+slide,VVB
 the,AT0
 back,NN1-AJ0
 foot,NN1
@@ -16882,7 +16882,7 @@ the,AT0
 heels,NN2
 touch,VVB-NN1
 b,ZZ0
-Lift,VVB
+lift,VVB
 the,AT0
 front,AJ0-NN1
 foot,NN1
@@ -16895,10 +16895,10 @@ into,PRP
 the,AT0
 opponent,NN1
 head,NN1
-The,AT0
+the,AT0
 side,NN1
 kick,NN1-VVB
-This,DT0
+this,DT0
 is,VBZ
 an,AT0
 extremely,AV0
@@ -16915,7 +16915,7 @@ when,CJS
 it,PNP
 thuds,VVZ
 home,AV0
-Also,AV0
+also,AV0
 there,EX0
 are,VBB
 situations,NN2
@@ -16927,7 +16927,7 @@ well,AV0
 save,VVI
 the,AT0
 day,NN1
-However,AV0
+however,AV0
 the,AT0
 angle,NN1
 at,PRP
@@ -16947,7 +16947,7 @@ view,NN1
 of,PRF
 defending,VVG
 yourself,PNX
-Practise,VVB
+practise,VVB
 the,AT0
 kick,NN1
 from,PRP
@@ -16957,7 +16957,7 @@ such,DT0
 as,PRP
 a,AT0
 straddle,VVB
-Slide,VVB
+slide,VVB
 your,DPS
 back,NN1
 foot,NN1
@@ -16984,7 +16984,7 @@ directly,AV0
 at,PRP
 the,AT0
 opponent,NN1
-Note,VVB
+note,VVB
 that,CJT
 the,AT0
 supporting,AJ0
@@ -17000,7 +17000,7 @@ away,AV0
 from,PRP
 a,AT0
 position,NN1
-Then,AV0
+then,AV0
 thrust,VVD
 your,DPS
 kicking,AJ0-NN1
@@ -17012,7 +17012,7 @@ in,PRP-AVP
 a,AT0
 straight,AJ0
 line,NN1
-Slide,VVB-NN1
+slide,VVB-NN1
 in,PRP
 the,AT0
 direction,NN1
@@ -17044,10 +17044,10 @@ before,PRP
 setting,VVG
 it,PNP
 down,AVP
-Side,NN1
+side,NN1
 kick,NN1-VVB
 a,ZZ0
-Lean,VVB
+lean,VVB
 away,AV0
 and,CJC
 point,VVB-NN1
@@ -17058,7 +17058,7 @@ at,PRP
 the,AT0
 opponent,NN1
 midsection,NN1
-Note,VVB
+note,VVB
 that,CJT
 the,AT0
 foot,NN1
@@ -17066,7 +17066,7 @@ does,VDZ
 not,XX0
 travel,VVI
 upwards,AV0
-It,PNP
+it,PNP
 is,VBZ
 brought,VVN
 to,PRP
@@ -17079,7 +17079,7 @@ then,AV0
 thrust,VVB
 out,AVP
 horizontally,AV0
-This,DT0
+this,DT0
 peculiar,AJ0
 action,NN1
 is,VBZ
@@ -17104,7 +17104,7 @@ a,AT0
 very,AV0
 short,AJ0
 action,NN1
-Imagine,VVB
+imagine,VVB
 that,CJT
 you,PNP
 have,VHB
@@ -17122,7 +17122,7 @@ dropped,VVN-VVD
 into,PRP
 a,AT0
 position,NN1
-The,AT0
+the,AT0
 opponent,NN1
 sees,VVZ
 the,AT0
@@ -17135,7 +17135,7 @@ sweep,VVI
 or,CJC
 punch,VVI
 you,PNP
-You,PNP
+you,PNP
 could,VM0
 then,AV0
 lean,VVI
@@ -17154,7 +17154,7 @@ the,AT0
 opponent,NN1
 solar,AJ0
 plexus,NN1
-The,AT0
+the,AT0
 recoil,NN1
 gives,VVZ
 you,PNP
@@ -17174,7 +17174,7 @@ backwards,AV0
 and,CJC
 off,PRP-AVP
 balance,NN1
-Bag,NN1
+bag,NN1
 work,NN1
 is,VBZ
 essential,AJ0
@@ -17203,7 +17203,7 @@ in,PRP
 a,AT0
 straight,AJ0
 line,NN1
-The,AT0
+the,AT0
 side,NN1
 kick,NN1
 delivered,VVN-VVD
@@ -17223,7 +17223,7 @@ a,AT0
 good,AJ0
 front,AJ0-NN1
 kick,NN1
-In,PRP
+in,PRP
 fact,NN1
 it,PNP
 does,VDZ
@@ -17231,7 +17231,7 @@ a,AT0
 great,AJ0
 deal,NN1
 less,AV0
-It,PNP
+it,PNP
 contains,VVZ
 more,DT0
 moves,NN2
@@ -17249,7 +17249,7 @@ away,AV0
 from,PRP
 the,AT0
 opponent,NN1
-Therefore,AV0
+therefore,AV0
 do,VDB
 not,XX0
 substitute,VVI
@@ -17261,10 +17261,10 @@ front,AJ0
 kick,NN1
 will,VM0
 work,VVI
-The,AT0
+the,AT0
 back,NN1-AJ0
 kick,NN1-VVB
-This,DT0
+this,DT0
 kick,NN1
 is,VBZ
 not,XX0
@@ -17289,11 +17289,11 @@ and,CJC
 thus,AV0
 rarely,AV0
 scores,NN2-VVZ
-FOOT,NN1
-SWEEPS,VVZ-NN2
-AND,CJC
-HOOKS,NN2
-Foot,NN1
+foot,NN1
+sweeps,VVZ-NN2
+and,CJC
+hooks,NN2
+foot,NN1
 sweeps,VVZ-NN2
 and,CJC
 hooks,NN2
@@ -17307,7 +17307,7 @@ of,PRF
 the,AT0
 karate,NN1
 champion,NN1
-Their,DPS
+their,DPS
 application,NN1
 is,VBZ
 a,AT0
@@ -17329,7 +17329,7 @@ from,PRP
 the,AT0
 refereeing,NN1
 panel,NN1
-Surprisingly,AV0
+surprisingly,AV0
 some,DT0
 people,NN0
 think,VVB
@@ -17349,7 +17349,7 @@ is,VBZ
 not,XX0
 the,AT0
 case,NN1
-The,AT0
+the,AT0
 sweep,NN1
 is,VBZ
 only,AV0
@@ -17369,7 +17369,7 @@ must,VM0
 immediately,AV0
 follow,VVI
 it,PNP
-In,PRP
+in,PRP
 practice,NN1
 the,AT0
 is,VBZ
@@ -17388,7 +17388,7 @@ good,AJ0
 opportunity,NN1
 is,VBZ
 missed,VVN
-The,AT0
+the,AT0
 often,AV0
 fails,VVZ
 because,CJS
@@ -17403,7 +17403,7 @@ success,NN1
 as,CJS
 your,DPS
 opponent,NN1
-Also,AV0
+also,AV0
 the,AT0
 opponent,NN1
 may,VM0
@@ -17427,7 +17427,7 @@ step,NN1
 to,TO0
 reach,VVI
 him,PNP
-By,PRP
+by,PRP
 that,DT0
 time,NN1
 of,PRF
@@ -17445,7 +17445,7 @@ is,VBZ
 ready,AJ0
 and,CJC
 waiting,VVG-NN1
-The,AT0
+the,AT0
 remainder,NN1
 of,PRF
 the,AT0
@@ -17460,9 +17460,9 @@ pumping,VVG-NN1
 arms,NN2
 and,CJC
 legs,NN2
-The,AT0
+the,AT0
 hook,NN1
-At,PRP
+at,PRP
 this,DT0
 point,NN1
 it,PNP
@@ -17475,7 +17475,7 @@ foot,NN1
 sweeps,VVZ-NN2
 and,CJC
 hooks,NN2
-In,PRP
+in,PRP
 fact,NN1
 there,EX0
 is,VBZ
@@ -17492,7 +17492,7 @@ merges,VVZ
 into,PRP
 the,AT0
 other,NN1
-However,AV0
+however,AV0
 we,PNP
 can,VM0
 see,VVI
@@ -17504,10 +17504,10 @@ compare,VVB
 the,AT0
 extreme,AJ0
 forms,NN2
-The,AT0
+the,AT0
 hook,NN1
 a,ZZ0
-Slide,VVB
+slide,VVB
 back,AVP
 to,TO0
 avoid,VVI
@@ -17522,11 +17522,11 @@ foot,NN1
 as,CJS
 it,PNP
 lands,VVZ
-Consider,VVB
+consider,VVB
 the,AT0
 following,AJ0
 scenario,NN1
-The,AT0
+the,AT0
 opponent,NN1
 launches,VVZ
 a,AT0
@@ -17538,7 +17538,7 @@ evade,VVB
 by,PRP
 stepping,VVG
 back,AVP
-The,AT0
+the,AT0
 spent,AJ0
 kick,NN1
 slaps,VVZ
@@ -17558,7 +17558,7 @@ crook,NN1
 of,PRF
 your,DPS
 ankle,NN1
-There,EX0
+there,EX0
 are,VBB
 points,NN2-VVZ
 to,TO0
@@ -17566,7 +17566,7 @@ take,VVI
 into,PRP
 account,NN1-VVB
 here,AV0
-Firstly,AV0
+firstly,AV0
 an,AT0
 effective,AJ0
 guard,NN1
@@ -17579,7 +17579,7 @@ your,DPS
 opponent,NN1
 wild,AJ0
 punches,NN2
-Secondly,AV0
+secondly,AV0
 your,DPS
 step,NN1
 back,NN1
@@ -17604,7 +17604,7 @@ slightly,AV0
 away,AV0
 from,PRP
 you,PNP
-Thirdly,AV0
+thirdly,AV0
 you,PNP
 should,VM0
 hook,VVI
@@ -17626,7 +17626,7 @@ line,NN1
 of,PRF
 least,DT0
 resistance,NN1
-Finally,AV0
+finally,AV0
 note,VVB-NN1
 that,CJT
 you,PNP
@@ -17643,13 +17643,13 @@ on,AVP
 to,PRP
 it,PNP
 b,ZZ0
-Be,VBI
+be,VBI
 ready,AJ0
 with,PRP
 a,AT0
 reverse,AJ0
 punch,NN1
-The,AT0
+the,AT0
 fourth,ORD
 point,NN1
 is,VBZ
@@ -17673,7 +17673,7 @@ precisely,AV0
 the,AT0
 right,AJ0
 time,NN1
-Once,CJS
+once,CJS
 the,AT0
 opponent,NN1
 has,VHZ
@@ -17704,7 +17704,7 @@ appropriate,AJ0
 technique,NN1
 to,TO0
 apply,VVI
-If,CJS
+if,CJS
 the,AT0
 opponent,NN1
 is,VBZ
@@ -17716,7 +17716,7 @@ wo,VM0
 work,VVI
 at,PRP
 all,DT0
-However,AV0
+however,AV0
 assuming,VVG
 that,CJT
 you,PNP
@@ -17748,7 +17748,7 @@ on,AVP
 to,PRP
 his,DPS
 side,NN1
-Be,VBB
+be,VBB
 prepared,VVN
 for,PRP
 this,DT0
@@ -17764,16 +17764,16 @@ with,PRP
 a,AT0
 reverse,AJ0
 punch,NN1
-The,AT0
-Sweep,NN1
-Compare,VVB
+the,AT0
+sweep,NN1
+compare,VVB
 the,AT0
 previous,AJ0
 example,NN1
 with,PRP
 the,AT0
 following,AJ0
-You,PNP
+you,PNP
 notice,VVB
 that,CJT
 the,AT0
@@ -17794,7 +17794,7 @@ punch,NN1-VVB
 at,PRP
 his,DPS
 face,NN1
-The,AT0
+the,AT0
 object,NN1
 of,PRF
 doing,VDG
@@ -17816,7 +17816,7 @@ his,DPS
 weight,NN1
 back,AVP
 slightly,AV0
-As,CJS
+as,CJS
 you,PNP
 throw,VVB
 the,AT0
@@ -17849,7 +17849,7 @@ which,DTQ
 knocks,VVZ
 it,PNP
 outwards,AV0
-This,DT0
+this,DT0
 jars,NN2
 the,AT0
 opponent,NN1
@@ -17867,7 +17867,7 @@ of,PRF
 a,AT0
 following,AJ0
 punch,NN1
-Notice,VVB
+notice,VVB
 that,CJT-DT0
 in,PRP
 this,DT0
@@ -17896,7 +17896,7 @@ than,CJS
 drawn,VVN
 to,PRP
 side,NN1
-That,DT0
+that,DT0
 is,VBZ
 the,AT0
 basic,AJ0
@@ -17909,16 +17909,16 @@ the,AT0
 sweep,NN1
 though,CJS
 as,CJS
-I,PNP
+i,PNP
 said,VVD
 the,AT0
 do,VDB
 blur,VVI
 into,PRP
-The,AT0
+the,AT0
 sweep,NN1
 a,ZZ0
-Throw,VVB
+throw,VVB
 a,AT0
 reverse,AJ0-NN1
 punch,NN1-VVB
@@ -17926,7 +17926,7 @@ to,PRP
 the,AT0
 opponent,NN1
 face,NN1
-Use,VVB
+use,VVB
 this,DT0
 to,TO0
 set,VVI
@@ -17934,7 +17934,7 @@ your,DPS
 hips,NN2
 up,AVP
 b,ZZ0
-Scoop,VVB
+scoop,VVB
 the,AT0
 opponent,NN1
 foot,NN1
@@ -17942,7 +17942,7 @@ knocking,VVG
 it,PNP
 yet,AV0
 wider,AJC
-The,AT0
+the,AT0
 rules,NN2
 of,PRF
 competition,NN1
@@ -17960,7 +17960,7 @@ foot,NN1
 sweeps,VVZ
 with,PRP
 care,NN1
-I,PNP
+i,PNP
 have,VHB
 seen,VVN
 many,DT0
@@ -17986,7 +17986,7 @@ side,NN1
 of,PRF
 the,AT0
 knee,NN1
-These,DT0
+these,DT0
 sweeps,NN2-VVZ
 nearly,AV0
 always,AV0
@@ -17999,7 +17999,7 @@ warning,NN1
 from,PRP
 the,AT0
 referee,NN1
-Bear,VVB
+bear,VVB
 this,DT0
 in,PRP
 mind,NN1
@@ -18033,7 +18033,7 @@ ankle,NN1
 to,TO0
 be,VBI
 attacked,VVN
-This,DT0
+this,DT0
 is,VBZ
 particularly,AV0
 important,AJ0
@@ -18046,23 +18046,23 @@ than,CJS
 you,PNP
 are,VBB
 c,ZZ0
-Complete,VVB
+complete,VVB
 the,AT0
 sequence,NN1
 with,PRP
 reverse,AJ0
 punch,NN1
-Faults,NN2
+faults,NN2
 to,TO0
 avoid,VVI
-Beware,VVB
+beware,VVB
 of,PRF
 yourself,PNX
 to,PRP
 the,AT0
 foot,NN1
 sweep,NN1-VVB
-The,AT0
+the,AT0
 opponent,NN1
 may,VM0
 be,VBI
@@ -18075,7 +18075,7 @@ his,DPS
 leading,AJ0
 foot,NN1
 inwards,AV0
-Then,AV0
+then,AV0
 when,CJS
 you,PNP
 swing,VVB
@@ -18093,7 +18093,7 @@ sweep,NN1
 passes,VVZ-NN2
 underneath,PRP
 it,PNP
-The,AT0
+the,AT0
 momentum,NN1
 of,PRF
 the,AT0
@@ -18115,7 +18115,7 @@ at,PRP
 the,AT0
 first,ORD
 opportunity,NN1
-Nevertheless,AV0
+nevertheless,AV0
 a,AT0
 foot,NN1
 sweep,NN1
@@ -18151,7 +18151,7 @@ opponent,NN1
 full,AJ0
 point,NN1
 counter,NN1-VVB
-The,AT0
+the,AT0
 trick,NN1
 then,AV0
 is,VBZ
@@ -18160,10 +18160,10 @@ generate,VVI
 sufficient,AJ0
 power,NN1
 without,PRP
-The,AT0
+the,AT0
 best,AJS
 method,NN1
-I,PNP
+i,PNP
 have,VHB
 seen,VVN
 for,PRP
@@ -18174,7 +18174,7 @@ uses,VVZ
 an,AT0
 impact,NN1
 pad,NN1-VVB
-Have,VHB
+have,VHB
 your,DPS
 partner,NN1
 sit,VVB
@@ -18188,7 +18188,7 @@ and,CJC
 flexing,VVG
 the,AT0
 other,NN1
-Your,DPS
+your,DPS
 partner,NN1
 holds,VVZ
 the,AT0
@@ -18203,7 +18203,7 @@ of,PRF
 the,AT0
 flexed,VVN
 leg,NN1
-You,PNP
+you,PNP
 then,AV0
 sweep,VVB
 hard,AV0-AJ0
@@ -18221,7 +18221,7 @@ leaning,VVG
 forwards,AV0
 or,CJC
 yourself,PNX
-Sweep,VVB
+sweep,VVB
 the,AT0
 pad,NN1
 really,AV0
@@ -18238,10 +18238,10 @@ the,AT0
 force,NN1
 of,PRF
 impact,NN1
-Reverse,AJ0
+reverse,AJ0
 foot,NN1
 sweep,NN1-VVB
-The,AT0
+the,AT0
 following,AJ0
 technique,NN1
 is,VBZ
@@ -18262,7 +18262,7 @@ fair,AJ0
 turn,NN1
 of,PRF
 speed,NN1
-When,CJS
+when,CJS
 it,PNP
 is,VBZ
 used,VVN
@@ -18273,7 +18273,7 @@ score,NN1
 nearly,AV0
 always,AV0
 follows,VVZ
-Your,DPS
+your,DPS
 opponent,NN1
 performs,VVZ
 a,AT0
@@ -18299,7 +18299,7 @@ free,VVI
 the,AT0
 rear,AJ0-NN1
 leg,NN1
-Next,ORD
+next,ORD
 you,PNP
 spin,VVB
 on,PRP-AVP
@@ -18324,7 +18324,7 @@ the,AT0
 opponent,NN1
 supporting,AJ0
 leg,NN1
-Provided,VVN
+provided,VVN
 that,CJT
 you,PNP
 have,VHB
@@ -18350,7 +18350,7 @@ ball,NN1
 of,PRF
 his,DPS
 foot,NN1
-Your,DPS
+your,DPS
 swinging,AJ0
 leg,NN1
 then,AV0
@@ -18359,14 +18359,14 @@ takes,VVZ
 away,AV0
 his,DPS
 support,NN1
-Follow,VVB
+follow,VVB
 this,DT0
 with,PRP
 an,AT0
 effective,AJ0
 punch,NN1
-Summary,NN1
-Do,VDB
+summary,NN1
+do,VDB
 not,XX0
 attempt,VVI
 to,TO0
@@ -18377,7 +18377,7 @@ a,AT0
 solidly,AV0
 planted,VVN-AJ0
 opponent,NN1
-Attack,VVB
+attack,VVB
 only,AV0-AJ0
 vulnerable,AJ0
 stances,NN2
@@ -18391,7 +18391,7 @@ have,VHB
 no,AT0
 sidestep,NN1
 etc,AV0
-Wait,VVB
+wait,VVB
 for,PRP
 the,AT0
 opponent,NN1
@@ -18413,14 +18413,14 @@ sweeping,AJ0
 or,CJC
 hooking,VVG
 it,PNP
-Maintain,VVB
+maintain,VVB
 an,AT0
 effective,AJ0
 guard,NN1
 and,CJC
 do,VDB
 yourself,PNX
-Drop,VVB
+drop,VVB
 down,AVP
 and,CJC
 spin,VVB
@@ -18434,7 +18434,7 @@ the,AT0
 opponent,NN1
 supporting,AJ0
 leg,NN1
-Notice,VVB
+notice,VVB
 how,AVQ
 close,AJ0
 you,PNP
@@ -18442,10 +18442,10 @@ come,VVB
 to,PRP
 the,AT0
 opponent,NN1
-TACTICS,NN2
-Combination,NN1
+tactics,NN2
+combination,NN1
 techniques,NN2
-These,DT0
+these,DT0
 are,VBB
 series,NN0
 of,PRF
@@ -18459,7 +18459,7 @@ in,PRP
 a,AT0
 logical,AJ0
 fashion,NN1
-Whereas,CJS
+whereas,CJS
 an,AT0
 opponent,NN1
 may,VM0
@@ -18494,7 +18494,7 @@ often,AV0
 widely,AV0
 separated,AJ0
 targets,NN2
-The,AT0
+the,AT0
 first,ORD
 punch,NN1
 may,VM0
@@ -18507,7 +18507,7 @@ attention,NN1
 is,VBZ
 focused,VVN
 there,AV0
-The,AT0
+the,AT0
 second,ORD
 technique,NN1
 which,DTQ
@@ -18522,7 +18522,7 @@ kick,NN1
 to,PRP
 the,AT0
 ribs,NN2
-Not,XX0
+not,XX0
 only,AV0
 has,VHZ
 the,AT0
@@ -18545,7 +18545,7 @@ to,PRP
 a,AT0
 circular,AJ0
 one,PNI
-It,PNP
+it,PNP
 follows,VVZ
 that,CJT
 if,CJS
@@ -18570,7 +18570,7 @@ throw,VVB
 a,AT0
 single,AJ0
 technique,NN1
-When,CJS
+when,CJS
 putting,VVG
 a,AT0
 combination,NN1
@@ -18594,7 +18594,7 @@ as,CJS
 the,AT0
 combination,NN1
 progresses,VVZ
-Thus,AV0
+thus,AV0
 if,CJS
 you,PNP
 begin,VVB
@@ -18623,7 +18623,7 @@ constant,AJ0
 distance,NN1
 from,PRP
 you,PNP
-Similarly,AV0
+similarly,AV0
 if,CJS
 you,PNP
 advance,VVB
@@ -18650,7 +18650,7 @@ than,CJS
 you,PNP
 have,VHB
 advanced,VVN
-You,PNP
+you,PNP
 may,VM0
 find,VVI
 that,CJT
@@ -18675,7 +18675,7 @@ within,PRP
 reverse,AJ0-NN1
 punch,NN1
 range,NN1
-Do,VDB
+do,VDB
 wait,VVI
 around,AVP
 when,CJS
@@ -18699,7 +18699,7 @@ the,AT0
 one,PNI
 that,CJT
 scores,NN2
-A,AT0
+a,AT0
 brief,AJ0
 feint,NN1
 at,PRP
@@ -18712,7 +18712,7 @@ enough,DT0
 to,TO0
 clinch,VVI
 the,AT0
-Bear,VVB
+bear,VVB
 in,PRP
 mind,NN1
 the,AT0
@@ -18727,7 +18727,7 @@ in,PRP
 a,AT0
 different,AJ0
 way,NN1
-Thus,AV0
+thus,AV0
 a,AT0
 snap,AJ0
 punch,NN1
@@ -18748,7 +18748,7 @@ as,CJS
 it,PNP
 slides,VVZ
 up,AVP
-The,AT0
+the,AT0
 front,AJ0-NN1
 leg,NN1
 then,AV0
@@ -18773,7 +18773,7 @@ a,AT0
 powerful,AJ0
 reverse,AJ0-NN1
 punch,NN1
-Each,DT0
+each,DT0
 time,NN1
 hip,NN1
 thrusts,VVZ-NN2
@@ -18794,7 +18794,7 @@ for,PRP
 the,AT0
 next,ORD
 punch,NN1
-This,DT0
+this,DT0
 is,VBZ
 the,AT0
 principle,NN1
@@ -18804,7 +18804,7 @@ flurries,NN2
 of,PRF
 powerful,AJ0
 punches,NN2
-Training,NN1
+training,NN1
 methods,NN2
 involve,VVB
 repeating,VVG
@@ -18820,7 +18820,7 @@ and,CJC
 shoulder,NN1
 becomes,VVZ
 automatic,AJ0
-Perform,VVB
+perform,VVB
 combination,NN1
 techniques,NN2
 on,PRP
@@ -18843,10 +18843,10 @@ as,CJS
 an,AT0
 advancing,AJ0
 mode,NN1
-Assessing,VVG
+assessing,VVG
 your,DPS
 opponent,NN1
-Apply,VVB
+apply,VVB
 tactical,AJ0
 thinking,NN1
 to,PRP
@@ -18855,7 +18855,7 @@ opponent,NN1
 stance,NN1
 and,CJC
 attitude,NN1
-What,DTQ
+what,DTQ
 happens,VVZ
 when,CJS
 you,PNP
@@ -18867,7 +18867,7 @@ to,TO0
 move,VVI
 into,PRP
 him,PNP
-Does,VDZ
+does,VDZ
 he,PNP
 stand,VVI
 his,DPS
@@ -18889,7 +18889,7 @@ you,PNP
 come,VVB
 into,PRP
 range,NN1
-Does,VDZ
+does,VDZ
 he,PNP
 withdraw,VVI
 his,DPS
@@ -18901,7 +18901,7 @@ preference,NN1
 to,TO0
 give,VVI
 ground,NN1
-Or,CJC
+or,CJC
 does,VDZ
 he,PNP
 come,VVI
@@ -18909,7 +18909,7 @@ forwards,AV0
 to,TO0
 meet,VVI
 you,PNP
-Competitors,NN2
+competitors,NN2
 generally,AV0
 adopt,VVB
 an,AT0
@@ -18923,7 +18923,7 @@ their,DPS
 usage,NN1
 of,PRF
 technique,NN1
-Thus,AV0
+thus,AV0
 the,AT0
 defensive,AJ0
 fighter,NN1
@@ -18940,7 +18940,7 @@ your,DPS
 technique,NN1
 is,VBZ
 concluding,VVG-AJ0
-Do,VDB
+do,VDB
 fall,VVI
 for,PRP
 this,DT0
@@ -18952,7 +18952,7 @@ instead,AV0
 by,PRP
 providing,VVG
 openings,NN2
-Then,AV0
+then,AV0
 just,AV0
 as,CJS
 he,PNP
@@ -18967,7 +18967,7 @@ his,DPS
 technique,NN1
 and,CJC
 countering,VVG-NN1
-The,AT0
+the,AT0
 wary,AJ0
 fighter,NN1
 backs,VVZ
@@ -18984,7 +18984,7 @@ make,VVI
 all,DT0
 the,AT0
 running,NN1
-The,AT0
+the,AT0
 aggressive,AJ0
 fighter,NN1
 comes,VVZ
@@ -18999,7 +18999,7 @@ attack,NN1
 in,PRP
 its,DPS
 tracks,NN2
-The,AT0
+the,AT0
 aggressive,AJ0
 fighter,NN1
 is,VBZ
@@ -19023,7 +19023,7 @@ proceed,VVI
 with,PRP
 his,DPS
 own,DT0
-In,PRP
+in,PRP
 this,DT0
 case,NN1
 you,PNP
@@ -19047,7 +19047,7 @@ from,PRP
 the,AT0
 correct,AJ0
 distance,NN1
-The,AT0
+the,AT0
 object,NN1
 therefore,AV0
 is,VBZ
@@ -19067,7 +19067,7 @@ that,CJT
 he,PNP
 finds,VVZ
 difficult,AJ0
-However,AV0
+however,AV0
 in,PRP
 order,NN1
 to,TO0
@@ -19087,7 +19087,7 @@ assume,VVI
 many,DT0
 different,AJ0
 roles,NN2
-If,CJS
+if,CJS
 you,PNP
 are,VBB
 by,PRP
@@ -19111,7 +19111,7 @@ effectively,AV0
 double,VVI
 your,DPS
 capability,NN1
-Put,VVB
+put,VVB
 an,AT0
 aggressive,AJ0
 fighter,NN1
@@ -19121,7 +19121,7 @@ defensive,AJ0
 by,PRP
 attacking,VVG
 strongly,AV0
-Perhaps,AV0
+perhaps,AV0
 the,AT0
 first,ORD
 step,NN1-VVB
@@ -19145,7 +19145,7 @@ sides,NN2
 with,PRP
 equal,AJ0
 effectiveness,NN1
-Few,DT0
+few,DT0
 of,PRF
 us,PNP
 are,VBB
@@ -19163,7 +19163,7 @@ be,VBI
 achieved,VVN
 through,PRP
 training,NN1
-Be,VBB
+be,VBB
 prepared,AJ0
 to,TO0
 train,VVI
@@ -19193,7 +19193,7 @@ give,VVI
 yourself,PNX
 a,AT0
 boost,NN1
-Remember,VVB
+remember,VVB
 that,CJT
 the,AT0
 competitor,NN1
@@ -19214,7 +19214,7 @@ complete,AJ0
 range,NN1
 of,PRF
 techniques,NN2
-If,CJS
+if,CJS
 you,PNP
 can,VM0
 use,VVI
@@ -19235,7 +19235,7 @@ you,PNP
 are,VBB
 always,AV0
 being,VBG
-What,DTQ
+what,DTQ
 stance,NN1
 is,VBZ
 the,AT0
@@ -19244,12 +19244,12 @@ using,VVG
 at,PRP
 any,DT0
 time,NN1
-Is,VBZ
+is,VBZ
 it,PNP
 a,AT0
 high,AJ0
 stance,NN1
-If,CJS
+if,CJS
 so,AV0
 thrust,VVB
 forwards,AV0
@@ -19257,13 +19257,13 @@ with,PRP
 a,AT0
 committed,AJ0
 attack,NN1
-Is,VBZ
+is,VBZ
 the,AT0
 stance,NN1
 long,AV0-AJ0
 and,CJC
 low,AJ0-AV0
-If,CJS
+if,CJS
 this,DT0
 is,VBZ
 the,AT0
@@ -19287,7 +19287,7 @@ on,PRP
 the,AT0
 closed,AJ0
 side,NN1
-Alternatively,AV0
+alternatively,AV0
 you,PNP
 could,VM0
 hook,VVI
@@ -19298,11 +19298,11 @@ and,CJC
 draw,VVB
 it,PNP
 out,AVP
-Is,VBZ
+is,VBZ
 the,AT0
 stance,NN1
 narrow,AJ0
-If,CJS
+if,CJS
 it,PNP
 is,VBZ
 sweep,VVB
@@ -19312,12 +19312,12 @@ foot,NN1
 to,PRP
 either,DT0
 side,NN1
-Is,VBZ
+is,VBZ
 the,AT0
 stance,NN1
 too,AV0
 wide,AJ0-AV0
-If,CJS
+if,CJS
 so,AV0
 make,VVB
 it,PNP
@@ -19329,14 +19329,14 @@ the,AT0
 lead,NN1
 foot,NN1
 outwards,AV0
-Is,VBZ
+is,VBZ
 the,AT0
 opponent,NN1
 bouncing,VVG
 up,AVP
 and,CJC
 down,AVP
-If,CJS
+if,CJS
 he,PNP
 is,VBZ
 attack,VVB-NN1
@@ -19355,7 +19355,7 @@ to,TO0
 launch,VVI
 a,AT0
 powerful,AJ0
-Southpaw,VVB-NN1
+southpaw,VVB-NN1
 stance,NN1
 forces,VVZ
 the,AT0
@@ -19369,7 +19369,7 @@ making,VVG
 rear,AJ0
 foot,NN1
 kicks,NN2-VVZ
-Advance,VVB-NN1
+advance,VVB-NN1
 strongly,AV0
 into,PRP
 an,AT0
@@ -19380,13 +19380,13 @@ in,PRP
 a,AT0
 high,AJ0
 stance,NN1
-Are,VBB
+are,VBB
 there,EX0
 openings,NN2
 in,PRP
 the,AT0
 guard,NN1
-If,CJS
+if,CJS
 the,AT0
 front,AJ0-NN1
 guard,NN1
@@ -19403,7 +19403,7 @@ and,CJC
 pull,VVI
 at,PRP
 it,PNP
-This,DT0
+this,DT0
 will,VM0
 provoke,VVI
 a,AT0
@@ -19415,7 +19415,7 @@ you,PNP
 towards,PRP
 the,AT0
 opponent,NN1
-Lash,VVB-NN1
+lash,VVB-NN1
 out,AVP
 with,PRP
 a,AT0
@@ -19425,7 +19425,7 @@ the,AT0
 instant,NN1
 this,DT0
 happens,VVZ
-Alternatively,AV0
+alternatively,AV0
 you,PNP
 can,VM0
 close,VVI
@@ -19452,13 +19452,13 @@ to,PRP
 the,AT0
 opponents,NN2
 face,VVB-NN1
-Is,VBZ
+is,VBZ
 the,AT0
 leading,AJ0
 elbow,NN1
 too,AV0
 high,AJ0-AV0
-If,CJS
+if,CJS
 it,PNP
 is,VBZ
 lift,VVB
@@ -19484,7 +19484,7 @@ to,PRP
 the,AT0
 floating,AJ0
 ribs,NN2
-If,CJS
+if,CJS
 however,AV0
 the,AT0
 opponent,NN1
@@ -19504,13 +19504,13 @@ reverse,AJ0
 punch,NN1
 to,PRP
 his,DPS
-Is,VBZ
+is,VBZ
 the,AT0
 leading,AJ0
 hand,NN1
 too,AV0
 low,AJ0-AV0
-Begin,VVB
+begin,VVB
 what,DTQ
 seems,VVZ
 to,TO0
@@ -19530,7 +19530,7 @@ a,AT0
 high,AJ0
 roundhouse,NN1
 kick,NN1-VVB
-Is,VBZ
+is,VBZ
 the,AT0
 guard,NN1
 comprehensive,NN1-AJ0
@@ -19541,7 +19541,7 @@ immediate,AJ0
 openings,NN2
 are,VBB
 visible,AJ0
-If,CJS
+if,CJS
 so,AV0
 provide,VVB
 an,AT0
@@ -19561,7 +19561,7 @@ punch,VVB-NN1
 over,AVP-PRP
 the,AT0
 top,NN1
-Snap,VVB
+snap,VVB
 punch,VVB-NN1
 to,TO0
 bring,VVI
@@ -19569,10 +19569,10 @@ the,AT0
 opponent,NN1
 attention,NN1
 high,AJ0-AV0
-Maintaining,VVG
+maintaining,VVG
 effective,AJ0
 pressure,NN1
-If,CJS
+if,CJS
 your,DPS
 tactics,NN2
 are,VBB
@@ -19581,7 +19581,7 @@ you,PNP
 will,VM0
 accrue,VVI
 points,NN2
-If,CJS
+if,CJS
 they,PNP
 are,VBB
 unbalanced,AJ0-VVN
@@ -19602,7 +19602,7 @@ also,AV0
 will,VM0
 accrue,VVI
 points,NN2
-Bear,VVB
+bear,VVB
 in,PRP
 mind,NN1
 that,CJT
@@ -19619,7 +19619,7 @@ reached,VVN
 within,PRP
 bout,NN1
 time,NN1
-It,PNP
+it,PNP
 therefore,AV0
 follows,VVZ
 that,CJT
@@ -19647,7 +19647,7 @@ final,AJ0
 point,NN1
 to,TO0
 win,VVI
-The,AT0
+the,AT0
 moral,NN1-AJ0
 is,VBZ
 simple,AJ0
@@ -19659,7 +19659,7 @@ until,CJS
 the,AT0
 bell,NN1
 sounds,VVZ
-That,DT0
+that,DT0
 is,VBZ
 the,AT0
 only,AJ0
@@ -19671,7 +19671,7 @@ rest,VVI
 on,PRP-AVP
 your,DPS
 laurels,NN2
-Similarly,AV0
+similarly,AV0
 if,CJS
 you,PNP
 are,VBB
@@ -19692,7 +19692,7 @@ to,TO0
 win,VVI
 the,AT0
 bout,NN1
-You,PNP
+you,PNP
 have,VHB
 little,DT0
 to,TO0
@@ -19703,7 +19703,7 @@ with,PRP
 the,AT0
 utmost,AJ0
 determination,NN1
-You,PNP
+you,PNP
 may,VM0
 at,PRP
 least,AV0
@@ -19722,7 +19722,7 @@ to,TO0
 lose,VVI
 than,CJS
 you,PNP
-If,CJS
+if,CJS
 he,PNP
 backs,VVZ
 off,AVP
@@ -19742,12 +19742,12 @@ penalty,NN1
 then,AV0
 into,PRP
 the,AT0
-SQUAD,NN1
-TRAINING,NN1
-SESSIONS,NN2
-National,AJ0
+squad,NN1
+training,NN1
+sessions,NN2
+national,AJ0
 squads,NN2
-Access,NN1-VVB
+access,NN1-VVB
 to,PRP
 international,AJ0
 competition,NN1
@@ -19756,7 +19756,7 @@ via,PRP
 the,AT0
 national,AJ0
 squads,NN2
-There,EX0
+there,EX0
 are,VBB
 squads,NN2
 for,PRP
@@ -19768,7 +19768,7 @@ and,CJC
 squads,NN2
 for,PRP
 females,NN2
-Your,DPS
+your,DPS
 karate,NN1
 school,NN1
 is,VBZ
@@ -19779,7 +19779,7 @@ you,PNP
 to,PRP
 the,AT0
 open,AJ0
-B,ZZ0
+b,ZZ0
 or,CJC
 regional,AJ0
 squad,NN1
@@ -19793,7 +19793,7 @@ least,AV0
 twice,AV0
 a,AT0
 year,NN1
-Note,VVB-NN1
+note,VVB-NN1
 that,CJT
 you,PNP
 can,VM0
@@ -19803,12 +19803,12 @@ yourself,PNX
 for,PRP
 a,AT0
 place,NN1
-A,AT0
+a,AT0
 good,AJ0
 performance,NN1
 in,PRP
 the,AT0
-B,ZZ0
+b,ZZ0
 or,CJC
 regional,AJ0
 squads,NN2
@@ -19833,7 +19833,7 @@ to,PRP
 the,AT0
 élite,NN1-AJ0
 squads,NN2
-Another,DT0
+another,DT0
 way,NN1
 of,PRF
 getting,VVG
@@ -19849,7 +19849,7 @@ by,PRP
 your,DPS
 governing,AJ0
 body,NN1
-Some,DT0
+some,DT0
 people,NN0
 do,VDB
 well,AV0
@@ -19875,7 +19875,7 @@ each,DT0
 brings,VVZ
 to,TO0
 bear,VVI
-Though,CJS
+though,CJS
 you,PNP
 may,VM0
 pick,VVI
@@ -19901,7 +19901,7 @@ karate,NN1
 tactics,NN2
 or,CJC
 techniques,NN2
-Wear,VVB
+wear,VVB
 a,AT0
 clean,AJ0
 white,AJ0
@@ -19915,7 +19915,7 @@ shield,NN1-VVB
 protectors,NN2
 and,CJC
 mitts,NN2-VVZ
-Some,DT0
+some,DT0
 sessions,NN2
 involve,VVB
 a,AT0
@@ -19933,7 +19933,7 @@ for,PRP
 the,AT0
 second,ORD
 session,NN1
-Take,VVB
+take,VVB
 your,DPS
 governing,AJ0
 body,NN1
@@ -19942,7 +19942,7 @@ along,AVP
 for,PRP
 good,AJ0
 measure,NN1
-The,AT0
+the,AT0
 national,AJ0
 coach,NN1
 will,VM0
@@ -19965,7 +19965,7 @@ you,PNP
 to,TO0
 work,VVI
 on,AVP
-Fairly,AV0
+fairly,AV0
 soon,AV0
 the,AT0
 group,NN1
@@ -19978,7 +19978,7 @@ pairs,NN2
 for,PRP
 free,AJ0
 sparring,NN1
-The,AT0
+the,AT0
 second,ORD
 session,NN1
 begins,VVZ
@@ -19993,7 +19993,7 @@ immediately,AV0
 to,PRP
 the,AT0
 selection,NN1
-You,PNP
+you,PNP
 will,VM0
 fight,VVI
 in,AVP-PRP
@@ -20012,7 +20012,7 @@ by,PRP
 the,AT0
 national,AJ0
 coach,NN1
-You,PNP
+you,PNP
 may,VM0
 be,VBI
 asked,VVN
@@ -20043,7 +20043,7 @@ will,VM0
 be,VBI
 read,VVN
 out,AVP
-Do,VDB
+do,VDB
 expect,VVI
 to,TO0
 be,VBI
@@ -20052,7 +20052,7 @@ on,PRP
 your,DPS
 first,ORD
 session,NN1
-The,AT0
+the,AT0
 élite,NN1-AJ0
 squads,NN2
 work,VVB
@@ -20070,7 +20070,7 @@ in,PRP
 each,DT0
 weight,NN1
 division,NN1
-More,DT0
+more,DT0
 techniques,NN2
 are,VBB
 taught,VVN
@@ -20083,7 +20083,7 @@ to,TO0
 demonstrate,VVI
 your,DPS
 ability,NN1
-After,PRP-CJS
+after,PRP-CJS
 or,CJC
 such,DT0
 sessions,NN2
@@ -20096,9 +20096,9 @@ the,AT0
 leading,AJ0
 contenders,NN2
 selected,VVN
-The,AT0
+the,AT0
 selected,AJ0
-A,ZZ0
+a,ZZ0
 squad,NN1
 then,AV0
 works,VVZ
@@ -20116,7 +20116,7 @@ of,PRF
 residential,AJ0
 training,NN1
 sessions,NN2
-During,PRP
+during,PRP
 the,AT0
 last,ORD
 session,NN1
@@ -20129,7 +20129,7 @@ forthcoming,AJ0
 tournament,NN1
 is,VBZ
 chosen,VVN
-Most,DT0
+most,DT0
 successful,AJ0
 governing,AJ0
 bodies,NN2
@@ -20148,7 +20148,7 @@ to,PRP
 a,AT0
 world,NN1
 event,NN1
-This,DT0
+this,DT0
 sharpens,VVZ
 everyone,PNI
 up,AVP
@@ -20160,7 +20160,7 @@ into,PRP
 a,AT0
 cohesive,AJ0
 unit,NN1
-The,AT0
+the,AT0
 idea,NN1
 of,PRF
 getting,VVG
@@ -20184,8 +20184,8 @@ the,AT0
 task,NN1
 in,PRP
 hand,NN1
-Training,NN1
-To,TO0
+training,NN1
+to,TO0
 conclude,VVI
 this,DT0
 section,NN1
@@ -20203,7 +20203,7 @@ the,AT0
 squad,NN1
 training,NN1
 sessions,NN2
-Firstly,AV0
+firstly,AV0
 karateka,NN1
 are,VBB
 not,XX0
@@ -20245,7 +20245,7 @@ instead,AV0
 of,PRF
 remaining,VVG
 together,AV0
-The,AT0
+the,AT0
 second,ORD
 point,NN1
 is,VBZ
@@ -20263,7 +20263,7 @@ at,PRP
 any,DT0
 squad,NN1
 session,NN1
-If,CJS
+if,CJS
 you,PNP
 refuse,VVB
 you,PNP
@@ -20284,7 +20284,7 @@ face,VVI
 a,AT0
 lifetime,NN1
 ban,NN1-VVB
-Thirdly,AV0
+thirdly,AV0
 the,AT0
 coach,NN1
 is,VBZ
@@ -20316,7 +20316,7 @@ did,VDD
 deserve,VVI
 to,TO0
 be,VBI
-The,AT0
+the,AT0
 final,AJ0
 point,NN1
 which,DTQ
@@ -20350,7 +20350,7 @@ still,AV0
 do,VDB
 get,VVI
 selected,AJ0-VVN
-We,PNP
+we,PNP
 covered,VVD
 this,DT0
 earlier,AV0
@@ -20377,7 +20377,7 @@ of,PRF
 an,AT0
 actual,AJ0
 competition,NN1
-It,PNP
+it,PNP
 was,VBD
 hard,AJ0
 work,NN1
@@ -20386,10 +20386,10 @@ it,PNP
 was,VBD
 worth,PRP
 it,PNP
-DEALING,VVG
-WITH,PRP
-INJURIES,NN2
-Being,VBG
+dealing,VVG
+with,PRP
+injuries,NN2
+being,VBG
 a,AT0
 combat,NN1
 sport,NN1
@@ -20414,7 +20414,7 @@ are,VBB
 to,TO0
 suffer,VVI
 injury,NN1
-Thankfully,AV0
+thankfully,AV0
 the,AT0
 majority,NN1
 of,PRF
@@ -20428,7 +20428,7 @@ little,AJ0
 care,NN1
 heal,VVB-NN1
 quickly,AV0
-The,AT0
+the,AT0
 purpose,NN1
 of,PRF
 this,DT0
@@ -20457,8 +20457,8 @@ as,AV0
 little,DT0
 as,CJS
 possible,AJ0
-Bruises,NN2
-This,DT0
+bruises,NN2
+this,DT0
 class,NN1
 of,PRF
 injury,NN1
@@ -20481,7 +20481,7 @@ how,AVQ
 it,PNP
 is,VBZ
 caused,VVN
-Freezing,AJ0
+freezing,AJ0
 sprays,NN2
 give,VVB
 immediate,AJ0
@@ -20490,7 +20490,7 @@ and,CJC
 help,VVB-NN1
 reduce,VVI
 swelling,AJ0-VVG
-However,AV0
+however,AV0
 they,PNP
 should,VM0
 not,XX0
@@ -20501,7 +20501,7 @@ anywhere,AV0
 near,PRP
 the,AT0
 face,NN1
-You,PNP
+you,PNP
 can,VM0
 buy,VVI
 small,AJ0
@@ -20518,7 +20518,7 @@ form,VVI
 a,AT0
 cooling,AJ0
 solution,NN1
-These,DT0
+these,DT0
 are,VBB
 excellent,AJ0
 at,PRP
@@ -20532,7 +20532,7 @@ expensive,AJ0
 and,CJC
 are,VBB
 not,XX0
-As,CJS
+as,CJS
 well,AV0
 as,CJS
 a,AT0
@@ -20545,8 +20545,8 @@ for,PRP
 storing,VVG
 cold,AJ0
 applications,NN2
-Bandaging,NP0
-Having,VHG
+bandaging,NP0
+having,VHG
 administered,VVN
 first,ORD
 aid,NN1
@@ -20559,7 +20559,7 @@ to,TO0
 minimise,VVI
 further,AJC
 damage,NN1-VVB
-The,AT0
+the,AT0
 best,AJS
 method,NN1
 is,VBZ
@@ -20578,7 +20578,7 @@ tape,NN1
 not,XX0
 a,AT0
 pin,NN1
-Then,AV0
+then,AV0
 a,AT0
 shin,NN1
 guard,NN1
@@ -20588,7 +20588,7 @@ over,PRP-AVP
 the,AT0
 whole,AJ0
 thing,NN1
-However,AV0
+however,AV0
 before,PRP
 competing,VVG
 again,AV0
@@ -20609,7 +20609,7 @@ and,CJC
 your,DPS
 bandaging,NN1
 accepted,VVD-VVN
-Tournament,NN1
+tournament,NN1
 organisers,NN2
 and,CJC
 the,AT0
@@ -20632,7 +20632,7 @@ not,XX0
 shrouded,VVN
 in,PRP
 bandages,NN2
-Therefore,AV0
+therefore,AV0
 you,PNP
 may,VM0
 find,VVI
@@ -20652,7 +20652,7 @@ in,PRP
 that,DT0
 day,NN1
 competition,NN1
-Severe,AJ0
+severe,AJ0
 forearm,NN1
 bruising,VVG-AJ0
 may,VM0
@@ -20671,7 +20671,7 @@ but,CJC
 not,XX0
 a,AT0
 protector,NN1
-Less,AV0
+less,AV0
 severe,AJ0
 bruising,AJ0-VVG
 on,PRP
@@ -20685,7 +20685,7 @@ by,PRP
 a,AT0
 crêpe,NN1
 bandage,NN1-VVB
-Since,CJS
+since,CJS
 crêpe,NN1
 bandages,NN2
 are,VBB
@@ -20703,7 +20703,7 @@ bandages,NN2
 known,VVN
 as,PRP
 lyobands,VVZ-NN2
-These,DT0
+these,DT0
 are,VBB
 made,VVN
 from,PRP
@@ -20717,7 +20717,7 @@ very,AV0
 light,AJ0
 to,TO0
 wear,VVI
-You,PNP
+you,PNP
 should,VM0
 discard,VVI
 your,DPS
@@ -20729,7 +20729,7 @@ have,VHB
 lost,VVN
 their,DPS
 elasticity,NN1
-Wrap,VVB
+wrap,VVB
 the,AT0
 bandage,NN1
 around,PRP
@@ -20758,7 +20758,7 @@ third,ORD
 and,CJC
 so,AV0
 on,AV0
-This,DT0
+this,DT0
 method,NN1
 of,PRF
 bandaging,NN1-VVG
@@ -20781,7 +20781,7 @@ during,PRP
 the,AT0
 ensuing,AJ0
 bout,NN1
-Do,VDB
+do,VDB
 not,XX0
 put,VVI
 the,AT0
@@ -20803,7 +20803,7 @@ through,PRP
 lack,NN1
 of,PRF
 circulation,NN1
-Remove,VVB
+remove,VVB
 any,DT0
 bandages,NN2
 after,PRP-CJS
@@ -20826,7 +20826,7 @@ your,DPS
 normal,AJ0
 daily,AJ0
 activities,NN2
-Insteps,NN2
+insteps,NN2
 frequently,AV0
 smash,VVB
 into,PRP
@@ -20844,7 +20844,7 @@ shin,NN1
 or,CJC
 instep,NN1
 pads,NN2
-Do,VDB
+do,VDB
 not,XX0
 bandage,VVI
 too,AV0
@@ -20864,8 +20864,8 @@ to,TO0
 use,VVI
 foot,NN1
 techniques,NN2
-However,AV0
-I,PNP
+however,AV0
+i,PNP
 would,VM0
 suggest,VVI
 that,CJT
@@ -20883,7 +20883,7 @@ than,CJS
 the,AT0
 injured,AJ0
 instep,NN1
-Bruised,AJ0
+bruised,AJ0
 knuckles,NN2
 can,VM0
 be,VBI
@@ -20906,7 +20906,7 @@ punches,NN2
 to,TO0
 be,VBI
 used,VVN
-Severe,AJ0
+severe,AJ0
 bruising,AJ0-VVG
 to,PRP
 the,AT0
@@ -20937,7 +20937,7 @@ over,PRP-AVP
 the,AT0
 injury,NN1
 site,NN1
-You,PNP
+you,PNP
 must,VM0
 make,VVI
 a,AT0
@@ -20958,7 +20958,7 @@ on,PRP
 the,AT0
 injury,NN1
 site,NN1
-I,PNP
+i,PNP
 would,VM0
 suggest,VVI
 that,CJT
@@ -20981,7 +20981,7 @@ painful,AJ0
 you,PNP
 should,VM0
 withdraw,VVI
-If,CJS
+if,CJS
 on,PRP
 the,AT0
 other,AJ0
@@ -21002,7 +21002,7 @@ risk,NN1
 of,PRF
 further,AJC
 pain,NN1
-Begin,VVB
+begin,VVB
 by,PRP
 wrapping,VVG
 the,AT0
@@ -21013,7 +21013,7 @@ turn,NN1-VVB
 around,AVP
 the,AT0
 limb,NN1
-Then,AV0
+then,AV0
 spiral,VVB
 the,AT0
 bandage,NN1
@@ -21023,7 +21023,7 @@ a,AT0
 per,UNC
 cent,UNC
 overlap,NN1
-Close,VVB
+close,VVB
 the,AT0
 spiral,NN1-AJ0
 with,PRP
@@ -21032,8 +21032,8 @@ turn,NN1
 and,CJC
 so,AV0
 on,AV0
-Haematomas,NN2
-A,AT0
+haematomas,NN2
+a,AT0
 hard,AJ0
 impact,NN1
 on,PRP
@@ -21048,7 +21048,7 @@ bleeding,AJ0-VVG
 under,PRP
 the,AT0
 skin,NN1
-This,DT0
+this,DT0
 raises,VVZ
 a,AT0
 lump,NN1
@@ -21061,7 +21061,7 @@ as,CJS
 a,AT0
 small,AJ0
 orange,NN1
-This,DT0
+this,DT0
 is,VBZ
 a,AT0
 haematoma,NN1
@@ -21086,7 +21086,7 @@ withdraw,VVI
 from,PRP
 the,AT0
 competition,NN1
-Further,AJC
+further,AJC
 impacts,NN2
 on,PRP
 a,AT0
@@ -21109,7 +21109,7 @@ discomfort,NN1
 and,CJC
 delayed,AJ0-VVD
 healing,NN1-AJ0
-Haematomas,NN2
+haematomas,NN2
 may,VM0
 need,VVI
 draining,VVG
@@ -21129,8 +21129,8 @@ of,PRF
 your,DPS
 local,AJ0
 hospital,NN1
-Fractures,NN2
-Some,DT0
+fractures,NN2
+some,DT0
 broken,AJ0
 bones,NN2
 have,VHB
@@ -21159,7 +21159,7 @@ stage,NN1
 you,PNP
 are,VBB
 at,PRP
-Unfortunately,AV0
+unfortunately,AV0
 it,PNP
 is,VBZ
 virtually,AV0
@@ -21186,7 +21186,7 @@ your,DPS
 withdrawal,NN1
 pending,AJ0
 examination,NN1
-Whereas,CJS
+whereas,CJS
 it,PNP
 may,VM0
 just,AV0
@@ -21207,7 +21207,7 @@ compete,VVI
 with,PRP
 broken,AJ0
 ones,NN2
-This,DT0
+this,DT0
 is,VBZ
 a,AT0
 good,AJ0
@@ -21227,9 +21227,9 @@ inwards,AV0
 skewering,VVG
 your,DPS
 lungs,NN2
-Joint,AJ0
+joint,AJ0
 injuries,NN2
-Joint,AJ0
+joint,AJ0
 injuries,NN2
 are,VBB
 also,AV0
@@ -21246,7 +21246,7 @@ toes,NN2
 and,CJC
 dislocated,VVD-AJ0
 fingers,NN2
-Apply,VVB
+apply,VVB
 your,DPS
 freezing,AJ0
 spray,NN1
@@ -21259,7 +21259,7 @@ to,PRP
 the,AT0
 tournament,NN1
 doctor,NN1
-Provided,CJS
+provided,CJS
 no,AT0
 fracture,NN1
 is,VBZ
@@ -21289,7 +21289,7 @@ advice,NN1
 is,VBZ
 relevant,AJ0
 here,AV0
-Clean,VVB
+clean,VVB
 your,DPS
 feet,NN2
 thoroughly,AV0
@@ -21302,7 +21302,7 @@ it,PNP
 will,VM0
 come,VVI
 off,AVP
-Do,VDB
+do,VDB
 not,XX0
 apply,VVI
 it,PNP
@@ -21327,7 +21327,7 @@ cold,AJ0-NN1
 to,PRP
 the,AT0
 touch,NN1
-If,CJS
+if,CJS
 so,AV0
 this,DT0
 may,VM0
@@ -21339,13 +21339,13 @@ the,AT0
 strapping,NN1
 too,AV0
 tightly,AV0
-Take,VVB
+take,VVB
 it,PNP
 off,AVP
 and,CJC
 reapply,AV0
 it,PNP
-Though,CJS
+though,CJS
 extremely,AV0
 painful,AJ0
 you,PNP
@@ -21364,7 +21364,7 @@ as,CJS
 you,PNP
 step,VVB
 forwards,AV0
-If,CJS
+if,CJS
 applied,VVN-AJ0
 early,AV0
 on,AVP
@@ -21377,7 +21377,7 @@ in,PRP
 the,AT0
 damaged,AJ0
 joints,NN2
-Ankles,NN2
+ankles,NN2
 suffer,VVB
 a,AT0
 high,AJ0
@@ -21389,7 +21389,7 @@ poor,AJ0
 mats,NN2
 are,VBB
 used,VVN-AJ0
-For,PRP
+for,PRP
 example,NN1
 the,AT0
 foot,NN1
@@ -21416,7 +21416,7 @@ in,PRP
 a,AT0
 twisting,AJ0
 stress,NN1
-As,CJS
+as,CJS
 before,AV0
 apply,VVB
 your,DPS
@@ -21436,7 +21436,7 @@ to,TO0
 help,VVI
 reduce,VVI
 swelling,AJ0-VVG
-Have,VHB
+have,VHB
 the,AT0
 doctor,NN1
 check,VVB-NN1
@@ -21462,7 +21462,7 @@ the,AT0
 ankle,NN1
 is,VBZ
 supported,VVN
-You,PNP
+you,PNP
 may,VM0
 use,VVI
 strapping,AJ0
@@ -21489,7 +21489,7 @@ pay,VVI
 for,PRP
 carrying,VVG
 on,AVP
-After,CJS-PRP
+after,CJS-PRP
 the,AT0
 competition,NN1
 you,PNP
@@ -21509,7 +21509,7 @@ as,AV0
 much,DT0
 as,CJS
 possible,AJ0
-Begin,VVB
+begin,VVB
 with,PRP
 a,AT0
 light,AJ0
@@ -21543,7 +21543,7 @@ comes,VVZ
 to,PRP
 an,AT0
 end,NN1
-Knee,NN1
+knee,NN1
 injuries,NN2
 are,VBB
 the,AT0
@@ -21553,7 +21553,7 @@ the,AT0
 karate,NN1
 competitor,NN1
 life,NN1
-Research,NN1
+research,NN1
 seems,VVZ
 to,TO0
 indicate,VVI
@@ -21592,7 +21592,7 @@ limits,NN2
 of,PRF
 the,AT0
 joint,NN1
-Repeatedly,AV0
+repeatedly,AV0
 slamming,VVG
 the,AT0
 kick,NN1-VVB
@@ -21615,7 +21615,7 @@ to,PRP
 the,AT0
 supporting,AJ0
 ligaments,NN2
-The,AT0
+the,AT0
 final,AJ0
 result,NN1
 is,VBZ
@@ -21624,7 +21624,7 @@ permanently,AV0
 damaged,VVN-AJ0
 knee,NN1
 joint,NN1-AJ0
-Prevention,NN1
+prevention,NN1
 is,VBZ
 better,AJC
 than,CJS
@@ -21642,7 +21642,7 @@ during,PRP
 your,DPS
 basic,AJ0
 training,NN1
-These,DT0
+these,DT0
 contract,VVB
 the,AT0
 muscles,NN2
@@ -21664,7 +21664,7 @@ managing,VVG-AJ0
 acute,AJ0
 knee,NN1
 injury,NN1
-Chronic,AJ0
+chronic,AJ0
 knee,NN1
 injury,NN1
 can,VM0
@@ -21679,7 +21679,7 @@ exercises,VVZ-NN2
 on,PRP
 a,AT0
 multigym,NN1
-This,DT0
+this,DT0
 builds,VVZ
 up,AVP
 the,AT0
@@ -21701,7 +21701,7 @@ up,AVP
 bits,NN2
 of,PRF
 cartilage,NN1
-If,CJS
+if,CJS
 your,DPS
 training,NN1
 routine,NN1
@@ -21725,7 +21725,7 @@ beginning,VVG
 the,AT0
 day,NN1
 competition,NN1
-Bandage,VVB
+bandage,VVB
 the,AT0
 knee,NN1
 in,PRP
@@ -21742,7 +21742,7 @@ especially,AV0
 below,PRP
 the,AT0
 kneecap,NN1
-If,CJS
+if,CJS
 the,AT0
 joint,NN1
 begins,VVZ
@@ -21771,7 +21771,7 @@ this,DT0
 time,NN1
 slightly,AV0
 tighter,AJC
-If,CJS
+if,CJS
 you,PNP
 suffer,VVB
 acute,AJ0
@@ -21783,7 +21783,7 @@ day,NN1
 you,PNP
 should,VM0
 withdraw,VVI
-Otherwise,AV0
+otherwise,AV0
 you,PNP
 may,VM0
 aggravate,VVI
@@ -21805,7 +21805,7 @@ than,CJS
 a,AT0
 minor,AJ0
 injury,NN1
-Deep,AJ0
+deep,AJ0
 stances,NN2
 help,VVB
 to,TO0
@@ -21819,9 +21819,9 @@ stabilise,VVB
 the,AT0
 knee,NN1
 joint,NN1
-Spinal,AJ0
+spinal,AJ0
 injury,NN1
-An,AT0
+an,AT0
 interesting,AJ0
 and,CJC
 persistent,AJ0
@@ -21843,7 +21843,7 @@ performing,VVG
 the,AT0
 roundhouse,NN1
 kick,NN1-VVB
-This,DT0
+this,DT0
 stops,VVZ
 the,AT0
 hip,NN1
@@ -21872,7 +21872,7 @@ base,NN1
 of,PRF
 the,AT0
 spine,NN1
-Though,CJS
+though,CJS
 this,DT0
 is,VBZ
 called,VVN
@@ -21897,7 +21897,7 @@ joint,AJ0
 surfaces,NN2
 become,VVB
 inflamed,AJ0-VVN
-Interestingly,AV0
+interestingly,AV0
 the,AT0
 pain,NN1
 this,DT0
@@ -21912,7 +21912,7 @@ be,VBI
 called,VVN
 groin,NN1
 strain,NN1
-Though,CJS
+though,CJS
 debilitating,AJ0
 this,DT0
 should,VM0
@@ -21921,12 +21921,12 @@ prevent,VVI
 you,PNP
 from,PRP
 continuing,VVG-AJ0
-Treatment,NN1
+treatment,NN1
 consists,VVZ
 of,PRF
 giving,VVG
 injections,NN2
-Straining,VVG
+straining,VVG
 the,AT0
 sacroiliac,AJ0
 joint,NN1
@@ -21947,9 +21947,9 @@ to,PRP
 pain,NN1
 and,CJC
 discomfort,NN1
-Shoulder,NN1-VVB
+shoulder,NN1-VVB
 injuries,NN2
-Shoulder,NN1-VVB
+shoulder,NN1-VVB
 injuries,NN2
 occur,VVB
 in,PRP-AVP
@@ -21963,7 +21963,7 @@ problems,NN2
 with,PRP
 that,AV0
 joint,AJ0-NN1
-It,PNP
+it,PNP
 is,VBZ
 particularly,AV0
 common,AJ0
@@ -21977,7 +21977,7 @@ by,PRP
 an,AT0
 awkward,AJ0
 fall,NN1
-What,DTQ
+what,DTQ
 happens,VVZ
 is,VBZ
 that,CJT
@@ -22001,7 +22001,7 @@ insult,NN1-VVB
 and,CJC
 great,AJ0
 pain,NN1
-The,AT0
+the,AT0
 tournament,NN1
 doctor,NN1
 may,VM0
@@ -22033,7 +22033,7 @@ of,PRF
 your,DPS
 day,NN1
 competition,NN1
-Reduce,VVB
+reduce,VVB
 the,AT0
 possibility,NN1
 of,PRF
@@ -22054,9 +22054,9 @@ by,PRP
 using,VVG
 free,AJ0
 weights,NN2
-Wrist,NN1
+wrist,NN1
 injuries,NN2
-Wrist,NN1
+wrist,NN1
 injuries,NN2
 are,VBB
 best,AV0
@@ -22066,7 +22066,7 @@ with,PRP
 strapping,AJ0
 or,CJC
 bandaging,VVG-NN1
-It,PNP
+it,PNP
 is,VBZ
 important,AJ0
 to,TO0
@@ -22093,7 +22093,7 @@ without,PRP
 losing,VVG-AJ0
 technical,AJ0
 effectiveness,NN1
-Loosen,VVB
+loosen,VVB
 the,AT0
 support,NN1
 when,CJS-AVQ
@@ -22116,9 +22116,9 @@ its,DPS
 range,NN1
 of,PRF
 movement,NN1
-Finger,NN1
+finger,NN1
 injuries,NN2
-Finger,NN1
+finger,NN1
 injuries,NN2
 should,VM0
 be,VBI
@@ -22131,7 +22131,7 @@ damaged,AJ0
 tissues,NN2
 start,VVB
 swelling,VVG
-Unfortunately,AV0
+unfortunately,AV0
 dislocations,NN2
 occur,VVB
 frequently,AV0
@@ -22146,7 +22146,7 @@ of,PRF
 an,AT0
 incoming,AJ0
 kick,NN1
-Get,VVB
+get,VVB
 these,DT0
 seen,VVN
 to,PRP
@@ -22163,7 +22163,7 @@ between,PRP
 adjacent,AJ0
 uninjured,AJ0
 digits,NN2
-Do,VDB
+do,VDB
 try,VVI
 making,VVG
 a,AT0
@@ -22172,8 +22172,8 @@ with,PRP
 the,AT0
 injured,AJ0
 hand,NN1
-Cuts,NN2
-Cuts,NN2
+cuts,NN2
+cuts,NN2
 are,VBB
 not,XX0
 common,AJ0
@@ -22194,7 +22194,7 @@ the,AT0
 opponent,NN1
 long,AJ0
 toenails,NN2
-Apply,VVB
+apply,VVB
 a,AT0
 sterile,AJ0
 eyepad,NN1
@@ -22206,7 +22206,7 @@ place,NN1
 with,PRP
 micropore,NN1
 tape,NN1
-But,CJC
+but,CJC
 remember,VVB
 that,CJT-DT0
 with,PRP
@@ -22225,7 +22225,7 @@ means,VVZ
 poor,AJ0
 range,NN1
 perception,NN1
-Clean,AJ0
+clean,AJ0
 cuts,NN2
 on,PRP
 other,AJ0
@@ -22244,7 +22244,7 @@ plaster,NN1
 to,TO0
 exclude,VVI
 dirt,NN1
-Split,AJ0
+split,AJ0
 lips,NN2
 occur,VVB
 when,CJS
@@ -22259,7 +22259,7 @@ and,CJC
 the,AT0
 incoming,AJ0
 kick,NN1
-These,DT0
+these,DT0
 are,VBB
 sore,AJ0
 and,CJC
@@ -22277,7 +22277,7 @@ is,VBZ
 held,VVN
 against,PRP
 them,PNP
-Clean,VVB
+clean,VVB
 up,AVP-PRP
 the,AT0
 area,NN1
@@ -22310,7 +22310,7 @@ stick,VVI
 firmly,AV0
 onto,PRP
 skin,NN1
-Stitches,NN2
+stitches,NN2
 may,VM0
 be,VBI
 necessary,AJ0
@@ -22330,7 +22330,7 @@ permanent,AJ0
 scar,NN1
 may,VM0
 result,VVI
-Do,VDB
+do,VDB
 not,XX0
 fight,VVI
 on,AVP
@@ -22343,15 +22343,15 @@ danger,NN1
 of,PRF
 being,VBG
 ruptured,VVN
-Teeth,NN2
-Dental,AJ0
+teeth,NN2
+dental,AJ0
 damage,NN1
 is,VBZ
 both,AV0
 painful,AJ0
 and,CJC
 disfiguring,VVG-NN1
-If,CJS
+if,CJS
 your,DPS
 tooth,NN1
 is,VBZ
@@ -22364,7 +22364,7 @@ if,CJS
 you,PNP
 want,VVB
 to,TO0
-If,CJS
+if,CJS
 the,AT0
 tooth,NN1
 is,VBZ
@@ -22384,7 +22384,7 @@ it,PNP
 to,PRP
 adjacent,AJ0
 teeth,NN2
-However,AV0
+however,AV0
 if,CJS
 the,AT0
 tooth,NN1
@@ -22401,9 +22401,9 @@ done,VDN
 by,PRP
 fighting,VVG
 on,AVP
-Nose,NN1
+nose,NN1
 bleeds,VVZ
-Immediate,AJ0
+immediate,AJ0
 first,ORD
 aid,NN1
 for,PRP
@@ -22427,7 +22427,7 @@ long,AV0
 as,CJS
 it,PNP
 takes,VVZ
-Next,ORD
+next,ORD
 pack,VVB
 the,AT0
 nose,NN1
@@ -22452,7 +22452,7 @@ you,PNP
 sustained,VVD
 this,DT0
 injury,NN1
-Do,VDB
+do,VDB
 not,XX0
 fight,VVI
 in,PRP-AVP
@@ -22472,7 +22472,7 @@ mind,VVI
 losing,VVG
 your,DPS
 looks,NN2
-As,CJS
+as,CJS
 well,AV0
 as,CJS
 being,VBG
@@ -22488,12 +22488,12 @@ can,VM0
 greatly,AV0
 increase,VVI
 disfigurement,NN1
-Head,NN1
+head,NN1
 injuries,NN2
-The,AT0
+the,AT0
 final,AJ0
 injury,NN1
-I,PNP
+i,PNP
 want,VVB
 to,TO0
 talk,VVI
@@ -22509,7 +22509,7 @@ blow,NN1
 to,PRP
 the,AT0
 head,NN1
-If,CJS
+if,CJS
 you,PNP
 lose,VVB
 consciousness,NN1
@@ -22529,14 +22529,14 @@ withdraw,VVI
 from,PRP
 further,AJC
 competition,NN1
-There,EX0
+there,EX0
 is,VBZ
 no,AT0
 leeway,NN1
 in,PRP
 this,DT0
 case,NN1
-If,CJS
+if,CJS
 you,PNP
 fight,VVB
 on,AVP
@@ -22567,7 +22567,7 @@ multiplied,VVN
 several,DT0
 times,NN2
 over,AVP
-The,AT0
+the,AT0
 problem,NN1
 with,PRP
 head,NN1
@@ -22589,7 +22589,7 @@ serious,AJ0
 damage,NN1
 has,VHZ
 ensued,VVN
-If,CJS
+if,CJS
 you,PNP
 are,VBB
 knocked,VVN
@@ -22613,7 +22613,7 @@ possible,AJ0
 after,PRP
 the,AT0
 competition,NN1
-Allow,VVB
+allow,VVB
 at,PRP
 least,AV0
 weeks,NN2
@@ -22623,7 +22623,7 @@ from,PRP
 a,AT0
 head,NN1
 injury,NN1
-Maintain,VVB
+maintain,VVB
 your,DPS
 fitness,NN1
 level,NN1
@@ -22634,7 +22634,7 @@ but,CJC
 cut,VVB
 out,AVP
 sparring,VVG-NN1
-First,ORD
+first,ORD
 aid,NN1
 for,PRP
 a,AT0
@@ -22651,8 +22651,8 @@ tilting,VVG
 the,AT0
 head,NN1
 back,AVP
-Withdrawal,NN1
-It,PNP
+withdrawal,NN1
+it,PNP
 is,VBZ
 possible,AJ0
 to,TO0
@@ -22683,8 +22683,8 @@ for,PRP
 your,DPS
 own,DT0
 safety,NN1
-Drugs,NN2
-There,EX0
+drugs,NN2
+there,EX0
 is,VBZ
 not,XX0
 doubt,NN1
@@ -22710,7 +22710,7 @@ they,PNP
 are,VBB
 all,DT0
 banned,VVN
-Under,PRP
+under,PRP
 the,AT0
 governing,AJ0
 body,NN1
@@ -22724,7 +22724,7 @@ a,AT0
 random,AJ0
 drug,NN1
 test,NN1-VVB
-If,CJS
+if,CJS
 the,AT0
 result,NN1
 of,PRF
@@ -22740,7 +22740,7 @@ to,PRP
 your,DPS
 competitive,AJ0
 career,NN1
-Bear,VVB
+bear,VVB
 in,PRP
 mind,NN1
 that,CJT-DT0
@@ -22759,7 +22759,7 @@ in,PRP
 a,AT0
 drugs,NN2
 test,VVB-NN1
-Therefore,AV0
+therefore,AV0
 make,VVB
 sure,AJ0
 that,CJT
@@ -22770,7 +22770,7 @@ before,PRP
 entering,VVG
 a,AT0
 competition,NN1
-Also,AV0
+also,AV0
 bear,VVB
 in,PRP
 mind,NN1
@@ -22795,7 +22795,7 @@ have,VHB
 stopped,VVN
 taking,VVG
 them,PNP
-I,PNP
+i,PNP
 would,VM0
 therefore,AV0
 advise,VVI
@@ -22837,7 +22837,7 @@ the,AT0
 mind,NN1
 and,CJC
 body,NN1
-It,PNP
+it,PNP
 is,VBZ
 necessary,AJ0
 to,TO0
@@ -22856,7 +22856,7 @@ making,VVG
 the,AT0
 injury,NN1
 worse,AJC
-Furthermore,AV0
+furthermore,AV0
 if,CJS
 your,DPS
 level,NN1
@@ -22881,10 +22881,10 @@ opponent,NN1
 and,CJC
 lose,VVB
 anyway,AV0
-First,ORD
-Aid,NN1
-Kit,NN1
-Every,AT0
+first,ORD
+aid,NN1
+kit,NN1
+every,AT0
 competitor,NN1
 should,VM0
 have,VHI
@@ -22893,7 +22893,7 @@ own,DT0
 first,ORD
 aid,NN1
 kit,NN1
-Also,AV0
+also,AV0
 the,AT0
 coach,NN1
 should,VM0
@@ -22913,7 +22913,7 @@ to,TO0
 use,VVI
 it,PNP
 properly,AV0
-A,AT0
+a,AT0
 coach,NN1
 kit,NN1
 consists,VVZ
@@ -22981,7 +22981,7 @@ pair,NN0
 of,PRF
 strong,AJ0
 scissors,NN2
-A,AT0
+a,AT0
 pair,NN0
 of,PRF
 tweezers,NN2
@@ -22992,7 +22992,7 @@ for,PRP
 pulling,VVG
 out,AVP
 splinters,NN2
-A,AT0
+a,AT0
 coolbox,NN1
 containing,VVG
 cold,AJ0
@@ -23003,13 +23003,13 @@ drinks,NN2
 is,VBZ
 also,AV0
 useful,AJ0
-THE,AT0
-REQUIREMENTS,NN2
-OF,PRF
-A,AT0
-KARATE,NN1
-CHAMPION,NN1
-Skill,NN1
+the,AT0
+requirements,NN2
+of,PRF
+a,AT0
+karate,NN1
+champion,NN1
+skill,NN1
 is,VBZ
 of,PRF
 the,AT0
@@ -23045,7 +23045,7 @@ to,PRP
 the,AT0
 winner,NN1
 rostrum,NN1
-However,AV0
+however,AV0
 while,CJS
 skill,NN1
 is,VBZ
@@ -23060,7 +23060,7 @@ of,PRF
 success,NN1
 may,VM0
 be,VBI
-Karate,NN1
+karate,NN1
 competition,NN1
 is,VBZ
 biased,VVN-AJ0
@@ -23077,7 +23077,7 @@ relation,NN1
 to,PRP
 their,DPS
 weight,NN1
-The,AT0
+the,AT0
 taller,AJC
 you,PNP
 are,VBB
@@ -23091,7 +23091,7 @@ advantage,NN1-VVB
 you,PNP
 will,VM0
 accrue,VVI
-Try,VVB
+try,VVB
 to,TO0
 fight,VVI
 in,PRP
@@ -23122,7 +23122,7 @@ can,VM0
 pack,VVI
 into,PRP
 techniques,NN2
-Pare,VVB
+pare,VVB
 down,AVP
 your,DPS
 weight,NN1
@@ -23138,7 +23138,7 @@ is,VBZ
 commensurate,AJ0
 with,PRP
 health,NN1
-Women,NN2
+women,NN2
 in,PRP
 particular,AJ0
 can,VM0
@@ -23155,7 +23155,7 @@ leads,VVZ
 to,PRP
 menstrual,AJ0
 problems,NN2
-You,PNP
+you,PNP
 must,VM0
 have,VHI
 predominantly,AV0
@@ -23170,7 +23170,7 @@ really,AV0
 fast,AV0-AJ0
 explosive,AJ0
 action,NN1
-Those,DT0
+those,DT0
 of,PRF
 us,PNP
 with,PRP
@@ -23191,7 +23191,7 @@ about,PRP
 our,DPS
 muscle,NN1
 type,NN1
-The,AT0
+the,AT0
 only,AJ0
 way,NN1
 to,TO0
@@ -23202,7 +23202,7 @@ is,VBZ
 by,PRP
 yet,AV0
 further,AJC
-Yet,AV0
+yet,AV0
 no,ITJ
 matter,NN1
 how,AVQ
@@ -23225,7 +23225,7 @@ equal,AJ0
 skill,NN1
 but,CJC
 muscles,NN2
-Finally,AV0
+finally,AV0
 it,PNP
 is,VBZ
 as,AV0
@@ -23251,10 +23251,10 @@ body,NN1
 recognised,VVN
 by,PRP
 the,AT0
-Martial,AJ0
-Arts,NN2
-Commission,NN1-VVB
-To,TO0
+martial,AJ0
+arts,NN2
+commission,NN1-VVB
+to,TO0
 discover,VVI
 whether,CJS
 you,PNP
@@ -23269,14 +23269,14 @@ write,VVB
 enclosing,VVG
 an,AT0
 to,PRP
-The,AT0
-Martial,AJ0
-Arts,NN2
-Commission,NN1-VVB
-Broadway,NN1-NP0
-House,NN1
-Deptford,NP0
-Broadway,NP0
-London,NP0
-SE8,UNC
-4PE,UNC
+the,AT0
+martial,AJ0
+arts,NN2
+commission,NN1-VVB
+broadway,NN1-NP0
+house,NN1
+deptford,NP0
+broadway,NP0
+london,NP0
+se8,UNC
+4pe,UNC

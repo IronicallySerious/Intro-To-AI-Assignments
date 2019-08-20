@@ -14,7 +14,7 @@ def main():
 			if attributes['c5'] == 'CRD': continue
 			word_str = word.firstChild.nodeValue.strip()
 			if word_str.isalnum() == False: continue
-			entry = word_str.strip() + "," + attributes['c5'] + "\n"
+			entry = word_str.lower().strip() + "," + attributes['c5'] + "\n"
 			file_1.write(entry)
 
 		file_1.close()
