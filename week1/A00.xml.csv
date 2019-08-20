@@ -25,7 +25,6 @@ virus,NN1
 affects,VVZ
 the,AT0
 body,NN1
-'s,POS
 defence,NN1
 system,NN1
 so,AV0
@@ -66,11 +65,7 @@ not,XX0
 transmitted,VVN
 from,PRP
 giving,VVG
-blood/mosquito,NN1
-bites/toilet,UNC
-seats/kissing/from,UNC
 normal,AJ0
-day-to-day,AJ0
 contact,NN1
 How,AVQ
 does,VDZ
@@ -238,7 +233,6 @@ AIDS,NN1
 Programme,NN1
 and,CJC
 ACET,NP0
-'s,POS
 International,AJ0
 Adviser,NN1
 Useful,AJ0
@@ -354,9 +348,7 @@ the,AT0
 final,AJ0
 total,NN1
 is,VBZ
-£5,NN0
 or,CJC
-£5,000,NN0
 it,PNP
 is,VBZ
 all,DT0
@@ -365,7 +357,6 @@ much,AV0
 needed,VVN-VVD
 Below,AV0
 I,PNP
-'ve,VHB
 listed,VVN
 some,DT0
 ideas,NN2
@@ -446,7 +437,6 @@ friends,NN2
 collecting,VVG
 jumble,NN1
 Do,VDB
-n't,XX0
 plan,VVI
 on,PRP-AVP
 selling,VVG
@@ -494,7 +484,6 @@ for,PRP
 young,AJ0
 people,NN0
 It,PNP
-'s,VBZ
 hard,AJ0
 work,NN1
 but,CJC
@@ -506,7 +495,6 @@ JUMP,NN1
 Not,XX0
 for,PRP
 the,AT0
-faint-hearted,AJ0
 But,CJC
 why,AVQ
 not,XX0
@@ -518,11 +506,9 @@ to,TO0
 do,VDI
 what,DTQ
 you,PNP
-'ve,VHB
 always,AV0
 wanted,VVN
 It,PNP
-'s,VBZ
 all,DT0
 in,PRP
 a,AT0
@@ -543,7 +529,6 @@ to,TO0
 work,VVI
 colleagues,NN2
 KIDDIES,NP0
-',POS
 SPONSORED,AJ0
 SWIM,NN1
 Organise,VVB
@@ -563,7 +548,6 @@ DISCO,NN1
 MARATHON,NN1-NP0
 or,CJC
 FOOTBALL,NN1
-5-A-SIDE,NN1
 If,CJS
 I,PNP
 can,VM0
@@ -591,7 +575,6 @@ CARE,NN1-VVB
 VOLUNTEER,NN1-VVB
 About,PRP
 ACET,NP0
-'s,POS
 Home,NN1
 Care,NN1-VVB
 Many,DT0
@@ -640,7 +623,6 @@ ensure,VVI
 that,CJT
 people,NN0
 do,VDB
-n't,XX0
 spend,VVI
 time,NN1
 in,PRP
@@ -705,7 +687,6 @@ very,AV0
 busy,AJ0
 You,PNP
 do,VDB
-n't,XX0
 have,VHI
 to,TO0
 make,VVI
@@ -792,7 +773,6 @@ Sexuality,NN1
 Medical,AJ0
 Aspects,NN2
 of,PRF
-HIV/AIDS,UNC
 Race,NN1-VVB
 and,CJC
 Racism,NN1
@@ -935,7 +915,6 @@ EDUCATION,NN1
 AND,CJC
 TRAINING,NN1
 Issue,NN1-VVB
-No.,NN1
 Cliff,NP0-NN1
 is,VBZ
 New,AJ0
@@ -959,7 +938,6 @@ ACET,NP0
 In,PRP
 the,AT0
 charity,NN1
-'s,POS
 Ealing,NP0
 offices,NN2
 Cliff,NP0-NN1
@@ -979,7 +957,6 @@ to,TO0
 help,VVI
 celebrate,VVI
 ACET,NP0
-'s,POS
 third,ORD
 birthday,NN1
 during,PRP
@@ -1025,7 +1002,6 @@ in,PRP
 Surrey,NP0
 completed,VVD
 Cliff,NP0
-'s,POS
 visit,NN1
 Cliff,NP0
 said,VVD
@@ -1210,7 +1186,6 @@ possible,AJ0
 employment,NN1
 of,PRF
 a,AT0
-part-time,AJ0
 nurse,NN1
 Margaret,NP0
 Gillies,NP0
@@ -1267,7 +1242,6 @@ office,NN1
 in,PRP
 Glasgow,NP0
 ACET,NP0
-'s,POS
 volunteer,NN1
 home,NN1
 care,NN1-VVB
@@ -1275,7 +1249,6 @@ is,VBZ
 now,AV0
 available,AJ0
 to,PRP
-95%,UNC
 of,PRF
 those,DT0
 infected,VVN-AJ0
@@ -1668,14 +1641,12 @@ Coast,NN1
 including,PRP
 Brighton,NP0
 The,AT0
-24-page,AJ0
 full,AJ0
 colour,NN1
 schools,NN2
 booklet,NN1
 HIV,NP0
 It,PNP
-'s,VBZ
 Your,DPS
 Choice,NN1
 is,VBZ
@@ -1793,7 +1764,6 @@ Germany,NP0
 recently,AV0
 visited,VVD
 ACET,NP0
-'s,POS
 offices,NN2
 before,PRP
 returning,VVG
@@ -1863,14 +1833,12 @@ THE,AT0
 EDITOR,NN1
 ACET,NP0
 NEWSLETTER,NN1
-P.O.,NN1
 BOX,NN1
 LONDON,NP0
 W5,UNC
 5TF,UNC
 Be,VBB
 an,AT0
-ACET-Link,NN1
 for,PRP
 your,DPS
 Church,NN1
@@ -1975,12 +1943,10 @@ willing,AJ0
 to,TO0
 be,VBI
 an,AT0
-ACET-link,NN1
 in,PRP
 their,DPS
 church,NN1
 An,AT0
-ACET-link,NN1
 person,NN1
 possibly,AV0
 an,AT0
@@ -2009,7 +1975,6 @@ and,CJC
 circulate,VVB
 newsletters,NN2
 An,AT0
-ACET-link,NN1
 will,VM0
 play,VVI
 a,AT0
@@ -2032,11 +1997,9 @@ more,AV0
 about,PRP
 being,VBG
 an,AT0
-ACET-link,NN1
 please,AV0
 contact,VVB
 Chris,NP0
-Catlin/Peter,NP0
 Glover,NP0
 on,PRP
 or,CJC
@@ -2059,11 +2022,9 @@ Ugandan,AJ0-NN1
 Work,NN1
 Anthony,NP0
 Kasozi,NP0
-'s,POS
 work,NN1
 as,CJS
 ACET,NP0
-'s,POS
 Director,NN1
 in,PRP
 uganda,NN1
@@ -2091,7 +2052,6 @@ identify,VVI
 a,AT0
 number,NN1
 of,PRF
-church-based,AJ0-NN1
 projects,NN2
 for,PRP
 the,AT0
@@ -2305,7 +2265,6 @@ had,VHD
 driven,VVN
 away,AV0
 about,PRP
-60%,UNC
 of,PRF
 my,DPS
 circle,NN1
@@ -2441,7 +2400,6 @@ eventually,AV0
 go,VVB
 the,AT0
 flat,AJ0
-ship-shape,AJ0
 again,AV0
 and,CJC
 life,NN1
@@ -2477,12 +2435,10 @@ is,VBZ
 an,AT0
 effort,NN1
 that,DT0
-'s,VBZ
 the,AT0
 reality,NN1
 and,CJC
 there,EX0
-'s,VBZ
 a,AT0
 great,AJ0
 tendency,NN1
@@ -2621,7 +2577,6 @@ recent,AJ0
 years,NN2
 edited,VVD
 a,AT0
-self-help,AJ0
 journal,NN1
 for,PRP
 people,NN0
@@ -2667,8 +2622,6 @@ my,DPS
 independence,NN1
 By,PRP
 working,VVG
-co-operatively,AV0
-long-term,AJ0
 with,PRP
 the,AT0
 people,NN0
@@ -2706,7 +2659,6 @@ BBC,NP0
 Newsroom,NN1
 South,NN1
 East,NN1
-'s,POS
 magazine,NN1
 programme,NN1
 as,PRP
@@ -2716,7 +2668,6 @@ our,DPS
 third,ORD
 birthday,NN1
 celebrations,NN2
-Pre-recorded,AJ0
 broadcasts,NN2
 were,VBD
 made,VVN
@@ -2726,7 +2677,6 @@ Radio,NN1
 News,NN1
 for,PRP
 Radio,NN1
-'s,POS
 World,NN1
 at,PRP
 and,CJC
@@ -2765,7 +2715,6 @@ live,AJ0
 broadcast,NN1
 on,PRP
 Radio,NN1
-'s,VBZ
 Today,AV0
 Programme,NN1
 During,PRP
@@ -2781,11 +2730,9 @@ broadcast,VVI
 part,NN1
 of,PRF
 another,DT0
-pre-recorded,AJ0-NN1
 interview,NN1
 on,PRP
 Radio,NN1
-'s,POS
 File,NN1
 on,PRP
 while,CJS
@@ -2793,7 +2740,6 @@ Capital,AJ0-NN1
 Radio,NN1
 broadcast,VVN
 a,AT0
-four-part,AJ0
 feature,NN1
 on,PRP
 AIDS,NN1
@@ -2823,7 +2769,6 @@ of,PRF
 the,AT0
 Conference,NN1
 Patrick,NP0
-'s,POS
 attendance,NN1
 at,PRP
 the,AT0
@@ -2953,7 +2898,6 @@ as,PRP
 member,NN1
 of,PRF
 ACET,NP0
-'s,POS
 Advisory,AJ0
 Council,NN1
 Volunteer,NN1-VVB
@@ -2971,7 +2915,6 @@ and,CJC
 Scotland,NP0
 in,PRP
 the,AT0
-day-time,NN1
 is,VBZ
 an,AT0
 ever,AV0
@@ -3101,7 +3044,6 @@ will,VM0
 require,VVI
 an,AT0
 individual,NN1
-'s,POS
 time,NN1
 for,PRP
 evening,NN1
@@ -3109,7 +3051,6 @@ a,AT0
 week,NN1
 over,PRP-AVP
 a,AT0
-six-week,AJ0
 programme,NN1
 Programmes,NN2
 for,PRP
@@ -3144,7 +3085,6 @@ to,TO0
 be,VBI
 fixed,VVN
 during,PRP
-September/early,UNC
 October,NP0
 All,AV0
 enquiries,NN2
@@ -3267,7 +3207,6 @@ UNICEF,NP0
 to,TO0
 establish,VVI
 a,AT0
-long-term,AJ0
 training,NN1
 programme,NN1
 in,PRP
@@ -3390,7 +3329,6 @@ delighted,AJ0
 to,TO0
 support,VVI
 ACET,NP0
-'s,POS
 developing,AJ0
 international,AJ0
 AIDS,NN1
@@ -3432,7 +3370,6 @@ partnerships,NN2
 between,PRP
 local,AJ0
 communities,NN2
-non-government,AJ0
 agencies,NN2
 governments,NN2
 and,CJC
@@ -3498,7 +3435,6 @@ hands,NN2-VVZ
 a,AT0
 cheque,NN1
 for,PRP
-£400,NN0
 to,PRP
 Karen,NP0
 Russell,NP0
@@ -3529,7 +3465,6 @@ NEWS,NN1
 AIDS,NN1
 CARE,NN1-VVB
 EDUCATION,NN1
-&,CJC
 TRAINING,NN1
 ACET,NP0
 IN,PRP
@@ -3652,7 +3587,6 @@ process,NN1-VVB
 in,PRP-AVP
 almost,AV0
 half,AV0
-46%,UNC
 of,PRF
 those,DT0
 with,PRP
@@ -3681,7 +3615,6 @@ a,AT0
 result,NN1
 to,PRP
 only,AV0
-3%,UNC
 by,PRP
 This,DT0
 change,NN1
@@ -3745,7 +3678,6 @@ is,VBZ
 now,AV0
 advanced,VVN
 Kaposi,NP0-NN1
-'s,POS
 Sarcoma,NP0-NN1
 a,AT0
 kind,NN1
@@ -3774,7 +3706,6 @@ other,AJ0
 problems,NN2
 Internal,AJ0
 Kaposi,NN1-NP0
-'s,POS
 Sarcoma,NP0-NN1
 can,VM0
 be,VBI
@@ -3830,7 +3761,6 @@ debilitating,AJ0
 nature,NN1
 As,CJS
 London,NP0
-'s,POS
 largest,AJS
 independent,AJ0
 provider,NN1
@@ -3885,7 +3815,6 @@ at,PRP
 home,NN1
 with,PRP
 a,AT0
-24-hour,NN1
 on,PRP
 call,NN1-VVB
 back,NN1
@@ -3903,7 +3832,6 @@ home,NN1
 often,AV0
 need,VVB
 opiates,NN2
-morphine-like,AJ0
 medicines,NN2
 for,PRP
 pain,NN1
@@ -3915,7 +3843,6 @@ also,AV0
 need,VVI
 a,AT0
 special,AJ0
-battery-operated,AJ0-NN1
 syringe,NN1-VVB
 pump,NN1
 especially,AV0
@@ -4059,7 +3986,6 @@ so,AV0
 much,AV0
 more,AV0
 sophisticated,AJ0
-Professionally-based,AJ0
 community,NN1
 care,NN1
 is,VBZ
@@ -4133,7 +4059,6 @@ Care,NN1-VVB
 Team,NN1
 from,PRP
 to,PRP
-r.,NN0
 Kay,NP0
 Hopps,NP0
 Archie,NP0
@@ -4182,7 +4107,6 @@ North,NN1
 Kent,NP0
 in,PRP
 an,AT0
-hour-long,AJ0
 chat,NN1
 show,NN1
 in,PRP
@@ -4197,7 +4121,6 @@ in,PRP
 the,AT0
 community,NN1
 ACET,NP0
-'s,POS
 Scottish,AJ0
 Office,NN1
 was,VBD
@@ -4209,7 +4132,6 @@ of,PRF
 Praise,NN1
 on,PRP
 BBC1,NP0
-Care-link,AJ0
 units,NN2
 designed,VVN-VVD
 to,TO0
@@ -4243,7 +4165,6 @@ mind,NN1
 those,DT0
 ill,AJ0
 with,PRP
-HIV/AIDS,UNC
 at,PRP
 home,NN1
 are,VBB
@@ -4309,7 +4230,6 @@ the,AT0
 last,ORD
 months,NN2
 by,PRP
-50%,UNC
 At,PRP
 the,AT0
 present,AJ0-NN1
@@ -4327,7 +4247,6 @@ during,PRP
 the,AT0
 year,NN1
 Around,PRP
-85%,UNC
 of,PRF
 those,DT0
 cared,VVN
@@ -4382,7 +4301,6 @@ more,DT0
 information,NN1
 about,PRP
 ACET,NP0
-'s,POS
 Home,NN1
 Care,NN1-VVB
 Service,NN1-VVB
@@ -4411,7 +4329,6 @@ with,PRP
 responsibility,NN1
 for,PRP
 ACET,NP0
-'s,POS
 existing,AJ0
 operations,NN2
 and,CJC
@@ -4620,7 +4537,6 @@ by,PRP
 the,AT0
 National,AJ0
 Children,NN2
-'s,POS
 Bureau,NN1
 to,PRP
 a,AT0
@@ -4682,7 +4598,6 @@ mean,VVI
 generations,NN2
 At,PRP
 least,AV0
-60%of,UNC
 the,AT0
 individuals,NN2
 being,VBG
@@ -4789,7 +4704,6 @@ with,PRP
 other,AJ0
 AIDS,NN1
 charities,NN2
-P.A.L.S,NP0
 Portsmouth,NP0
 AIDS,NN1
 Link,NN1-VVB
@@ -4809,11 +4723,9 @@ the,AT0
 running,NN1
 of,PRF
 ACET,NP0
-'s,POS
 office,NN1
 including,PRP
 volunteer,NN1
-co-ordinator,NN1
 Anne,NP0
 Hutchins,NP0
 Hampshire,NP0
@@ -4821,12 +4733,10 @@ County,NN1
 Council,NN1
 has,VHZ
 provided,VVN
-£20,000,NN0
 to,TO0
 furnish,VVI
 the,AT0
 building,NN1
-P.A.L.S,NP0
 provides,VVZ
 counselling,NN1
 and,CJC
@@ -4838,7 +4748,6 @@ Link,NN1
 Project,NN1
 deals,VVZ-NN2
 with,PRP
-drug-related,AJ0
 problems,NN2
 and,CJC
 gives,VVZ
@@ -4960,7 +4869,6 @@ had,VHD
 driven,VVN
 away,AV0
 about,PRP
-60%,UNC
 of,PRF
 my,DPS
 circle,NN1
@@ -5097,7 +5005,6 @@ eventually,AV0
 got,VVD-VVN
 the,AT0
 flat,AJ0
-ship-shape,AJ0
 again,AV0
 and,CJC
 life,NN1
@@ -5133,12 +5040,10 @@ is,VBZ
 an,AT0
 effort,NN1
 that,DT0
-'s,VBZ
 the,AT0
 reality,NN1
 and,CJC
 there,EX0
-'s,VBZ
 a,AT0
 great,AJ0
 tendency,NN1
@@ -5274,7 +5179,6 @@ recent,AJ0
 years,NN2
 edited,VVD
 a,AT0
-self-help,AJ0
 journal,NN1
 for,PRP
 people,NN0
@@ -5317,7 +5221,6 @@ my,DPS
 independence,NN1
 By,PRP
 working,VVG
-co-operatively,AV0
 longterm,NN1-AJ0
 with,PRP
 the,AT0
@@ -5356,14 +5259,12 @@ future,AJ0-NN1
 projects,NN2
 with,PRP
 ACET,NP0
-'s,POS
 African,AJ0
 Director,NN1
 Anthony,NP0
 Kasozi,NP0-NN1
 Next,ORD
 year,NN1
-'s,POS
 work,NN1
 has,VHZ
 been,VBN
@@ -5396,14 +5297,12 @@ earlier,AV0
 this,DT0
 year,NN1
 a,AT0
-follow-up,AJ0
 day,NN1
 was,VBD
 held,VVN
 in,PRP
 April,NP0
 ACET,NP0
-'s,POS
 local,AJ0
 representative,NN1
 Ana,NP0
@@ -5445,11 +5344,9 @@ use,NN1
 Alison,NP0
 Maunsell,NP0
 ACET,NP0
-'s,POS
 East,NP0
 Midlands,NP0
 regional,AJ0
-co-ordinator,NN1
 based,VVN
 in,PRP
 Northampton,NP0
@@ -5458,12 +5355,9 @@ been,VBN
 invited,VVN
 to,TO0
 join,VVI
-H.I.V.,NP0
-T.E.S.P.I.,NP0
 Training,NN1
 Education,NN1
 Support,NN1-VVB
-&,CJC
 Public,AJ0
 Initiative,NN1
 a,AT0
@@ -5484,7 +5378,6 @@ interests,NN2
 of,PRF
 clients,NN2
 ACET,NP0
-'s,POS
 London,NP0
 Home,NN1
 Care,NN1-VVB
@@ -5518,14 +5411,12 @@ nursing,VVG-AJ0
 at,PRP
 Dr,NP0
 Steeven,NP0
-'s,POS
 Hospital,NN1
 Dublin,NP0
 Midwifery,NN1
 training,NN1
 at,PRP
 Epsom,NP0
-&,CJC
 Surrey,NP0
 followed,VVD
 and,CJC
@@ -5550,7 +5441,6 @@ who,PNQ
 is,VBZ
 on,PRP
 a,AT0
-three-month,AJ0
 contract,NN1
 with,PRP
 ACET,NP0
@@ -5562,7 +5452,6 @@ caring,VVG-NN1
 for,PRP
 people,NN0
 with,PRP
-HIV/AIDS,UNC
 Letters,NN2
 to,PRP
 the,AT0
@@ -5583,7 +5472,6 @@ THE,AT0
 EDITOR,NN1
 ACET,NP0
 NEWS,NN1
-P.O.,NN1
 BOX,NN1
 LONDON,NP0
 W5,UNC
@@ -5597,7 +5485,6 @@ a,AT0
 small,AJ0
 group,NN1
 of,PRF
-would-be,AJ0
 volunteers,NN2
 met,VVN-VVD
 in,PRP
@@ -5638,7 +5525,6 @@ of,PRF
 people,NN0
 ill,AJ0
 with,PRP
-HIV/AIDS,UNC
 The,AT0
 first,ORD
 referrals,NN2
@@ -5684,7 +5570,6 @@ ill,AJ0
 at,PRP
 home,NN1
 with,PRP
-HIV/AIDS,UNC
 Within,PRP
 a,AT0
 short,AJ0
@@ -5768,7 +5653,6 @@ has,VHZ
 always,AV0
 been,VBN
 ACET,NP0
-'s,POS
 policy,NN1
 to,TO0
 work,VVI
@@ -5784,9 +5668,7 @@ In,PRP
 Ealing,NP0
 social,AJ0
 workers,NN2
-H.E.A.R.S,NP0
 Hounslow,NP0
-&,CJC
 Ealing,NP0
 AIDS,NN1
 Response,NN1
@@ -5878,7 +5760,6 @@ an,AT0
 ACET,NP0
 Volunteer,NN1
 Monday,NP0
-8.55am,AV0
 I,PNP
 arrive,VVB
 at,PRP
@@ -5902,7 +5783,6 @@ telephoning,VVG
 some,DT0
 of,PRF
 our,DPS
-low-dependency,AJ0-NN1
 clients,NN2
 to,TO0
 see,VVI
@@ -5910,7 +5790,6 @@ how,AVQ
 they,PNP
 are,VBB
 There,EX0
-'s,VBZ
 a,AT0
 message,NN1
 on,PRP
@@ -5918,7 +5797,6 @@ the,AT0
 answerphone,NN1
 from,PRP
 Tony,NP0
-'s,POS
 brother,NN1
 Tony,NP0
 has,VHZ
@@ -5942,7 +5820,6 @@ will,VM0
 ring,VVI
 the,AT0
 hospital,NN1
-and/or,CJC
 his,DPS
 GP,NN1
 to,TO0
@@ -5964,7 +5841,6 @@ if,CJS
 transport,NN1
 is,VBZ
 needed,VVN
-9.32am,AV0
 Diary,NN1
 check,NN1-VVB
 a,AT0
@@ -5981,7 +5857,6 @@ follow,VVB
 with,PRP
 Janet,NP0
 our,DPS
-Co-ordinator,NN1
 This,DT0
 includes,VVZ
 nurses,NN2
@@ -6014,7 +5889,6 @@ can,VM0
 happen,VVI
 before,PRP
 then,AV0
-10.10am,AV0
 Still,AV0
 no,AT0
 decision,NN1
@@ -6076,7 +5950,6 @@ can,VM0
 combine,VVI
 the,AT0
 visits,NN2
-11.00am,AV0
 Tony,NP0
 has,VHZ
 been,VBN
@@ -6105,7 +5978,6 @@ Andrew,NP0
 At,PRP
 least,AV0
 I,PNP
-'ll,VM0
 be,VBI
 able,AJ0
 to,TO0
@@ -6122,7 +5994,6 @@ in,PRP
 a,AT0
 traffic,NN1
 jam,NN1-VVB
-1.04pm,AV0
 Tony,NP0
 and,CJC
 his,DPS
@@ -6155,7 +6026,6 @@ is,VBZ
 gasping,VVG
 for,PRP
 air,NN1
-1.05pm,AV0
 Having,VHG
 left,VVN
 Tony,NP0
@@ -6174,12 +6044,10 @@ direction,NN1
 of,PRF
 the,AT0
 A4,UNC
-2.30pm,AV0
 I,PNP
 arrive,VVB
 at,PRP
 Andrew,NP0
-'s,POS
 house,NN1
 Although,CJS
 he,PNP
@@ -6209,12 +6077,10 @@ off,AVP
 to,PRP
 the,AT0
 hospital,NN1
-3.35pm,AV0
 Arrive,VVB
 back,AVP
 at,PRP
 hospital,NN1
-no.1,UNC
 Tony,NP0
 is,VBZ
 to,TO0
@@ -6231,20 +6097,17 @@ hospital,NN1
 If,CJS
 I,PNP
 ca,VM0
-n't,XX0
 take,VVI
 him,PNP
 he,PNP
 will,VM0
 have,VHI
 a,AT0
-two-hour,AJ0
 wait,NN1-VVB
 for,PRP
 an,AT0
 ambulance,NN1
 I,PNP
-'ve,VHB
 heard,VVN
 of,PRF
 a,AT0
@@ -6254,7 +6117,6 @@ but,CJC
 a,AT0
 hospital,NN1
 crawl,VVB-NN1
-4.00pm,AV0
 We,PNP
 set,VVB
 off,AVP
@@ -6263,7 +6125,6 @@ this,DT0
 time,NN1
 via,PRP
 Tony,NP0
-'s,POS
 home,NN1
 to,TO0
 collect,VVI
@@ -6275,8 +6136,6 @@ finally,AV0
 arriving,VVG
 at,PRP
 hospital,NN1
-no.3,UNC
-4.55pm,AV0
 Tony,NP0
 is,VBZ
 ushered,VVN
@@ -6362,7 +6221,6 @@ company,NN1
 until,CJS
 they,PNP
 arrive,VVB
-5.45pm,AV0
 They,PNP
 finally,AV0
 turn,VVB
@@ -6387,7 +6245,6 @@ Mum,NN1
 over,AVP
 to,PRP
 them,PNP
-6.30pm,AV0
 Home,AV0
 at,PRP
 last,ORD
@@ -6409,7 +6266,6 @@ tomorrow,AV0
 Cedria,NN1-NP0
 is,VBZ
 a,AT0
-full-time,AJ0
 volunteer,NN1
 and,CJC
 of,PRF
@@ -6418,9 +6274,7 @@ network,NN1
 of,PRF
 volunteers,NN2
 Both,AV0
-full-,AJ0
 and,CJC
-part-time,AJ0
 work,NN1
 is,VBZ
 carefully,AV0
@@ -6466,10 +6320,8 @@ the,AT0
 global,AJ0
 problem,NN1
 to,PRP
-HIV/AIDS,UNC
 To,TO0
 provide,VVI
-professionally-based,AJ0
 practical,AJ0
 home,NN1
 care,NN1-VVB
@@ -6481,7 +6333,6 @@ children,NN2
 at,PRP
 home,NN1
 with,PRP
-HIV/AIDS,UNC
 related,AJ0
 illnesses,NN2
 To,TO0
@@ -6491,7 +6342,6 @@ who,PNQ
 are,VBB
 ill,AJ0
 with,PRP
-HIV/AIDS,UNC
 to,TO0
 live,VVI
 and,CJC
@@ -6536,17 +6386,14 @@ limited,VVN
 by,PRP
 guarantee,NN1
 Reg,NP0
-No.,NN1
 and,CJC
 a,AT0
 registered,AJ0
 charity,NN1
-No.,NN1
 Registered,AJ0
 Office,NN1
 St,NP0
 Paul,NP0
-'s,POS
 Road,NP0
 Duke,NP0
 Street,NP0
