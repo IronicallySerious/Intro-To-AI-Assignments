@@ -26,23 +26,26 @@ def print_probability(dictionary):
 		json.dump(prob, fp)
 
 def main():
-	file_1 = open("week1/corpus.csv", "r")
+	# file_1 = open("week1/corpus.csv", "r")
 
-	lines = file_1.readlines()
+	# lines = file_1.readlines()
 
-	# word -> [tags]
-	dictionary = {}
-	for line in lines:
+	# # word -> [tags]
+	# dictionary = {}
+	# for line in lines:
 
-		word_pair = line.replace("\n", "")
-		word_tag = word_pair.split(",")
-		word = word_tag[0]
-		tag = word_tag[1]
+	# 	word_pair = line.replace("\n", "")
+	# 	word_tag = word_pair.split(",")
+	# 	word = word_tag[0]
+	# 	tag = word_tag[1]
 
-		if dictionary.get(word) == None:
-			dictionary[word] = []
+	# 	if dictionary.get(word) == None:
+	# 		dictionary[word] = []
 
-		dictionary[word].append(tag)
+	# 	dictionary[word].append(tag)
+
+	with open('new_pairs.json', 'r') as fp:
+		dictionary = json.load(fp)
 
 	print_probability(dictionary)
 
