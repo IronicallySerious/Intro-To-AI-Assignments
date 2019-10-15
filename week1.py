@@ -2,9 +2,9 @@ import xml.dom.minidom
 import os
 
 def main():
-	myPath = "./Train-corpus/"
+	myPath = "./New/Train-corpus/A1/"
 	onlyfiles = [f for f in os.listdir(myPath) if os.path.isfile(os.path.join(myPath, f))]
-	file_1 = open("week1/" + "corpus" + ".csv", "w+")
+	file_1 = open("New/cleaned/" + "corpus" + ".csv", "w+", encoding='utf-8')
 
 	for file in onlyfiles:
 		dom = xml.dom.minidom.parse(myPath + file)
