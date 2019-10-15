@@ -12,9 +12,14 @@ def main():
 	for line in lines:
 		word = line.split(',')[0]
 		try:
+			a = 1
 			print(word + 'is predicted to be ' + prob[word])
 		except:
+			prob[word] = "UNKNOWN"
 			print('Model needs more training for ' + word)
+	
+	with open('results.json', 'w') as fp:
+		json.dump(prob, fp)
 
 if __name__ == "__main__":
 	main()
